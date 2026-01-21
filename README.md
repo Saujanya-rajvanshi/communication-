@@ -358,60 +358,19 @@ Your goal:
 ###### language tracker 
 # 🌍 Language Learning Tracker
 
-## 📌 Language Information
+## Current Level (Update Weekly)
+☐ Absolute Beginner ☐ Survival ☐ Daily Conversation ☐ Structured / Professional ☐ Advanced
 
-* **Language:** ____________________
-* **Purpose:** (Interview / Travel / Daily / Professional)
-* **Start Date:** ____________________
-* **Target Level:** (Basic / Conversational / Professional / Fluent)
-
----
-
-## 🧠 Current Level (Update Weekly)
-
-☐ Absolute Beginner
-☐ Survival
-☐ Daily Conversation
-☐ Structured / Professional
-☐ Advanced
-
----
-
-## 🔤 1️⃣ Pronunciation & Sounds
-
+## 1. Pronunciation & Sounds
 Status: ☐ Not Started ☐ In Progress ☐ Comfortable
-
 * Alphabet / Sounds learned:
 * Difficult sounds:
 * Practice source (videos / audio):
 
-Notes:
-
-```
-```
-
----
-
-## 🧱 2️⃣ Core Sentence Structures
-
+## 2. Core Sentence Structures
 Status: ☐ Not Started ☐ In Progress ☐ Comfortable
 
-### Basic Templates Learned:
-
-* I am ___
-* I like ___
-* I am learning ___
-* I don’t understand ___
-* Please repeat ___
-
-Notes:
-
-```
-```
-
----
-
-## 📚 3️⃣ Vocabulary Tracker
+## 3. Vocabulary Tracker
 
 ### Daily Target: ___ words
 
@@ -423,15 +382,7 @@ Notes:
 | Tech Words |               |
 | Daily Use  |               |
 
-Notes:
-
-```
-```
-
----
-
-## 🧠 4️⃣ Grammar Progress
-
+## 4. Grammar Progress
 Status: ☐ Not Started ☐ In Progress ☐ Comfortable
 
 ☐ Sentence order
@@ -442,47 +393,22 @@ Status: ☐ Not Started ☐ In Progress ☐ Comfortable
 ☐ Negation
 ☐ Connectors (and, but, because)
 
-Notes:
-
-```
-```
-
----
-
-## 👂 5️⃣ Listening Practice
-
+## 5. Listening Practice
 Status: ☐ Not Started ☐ In Progress ☐ Comfortable
 
 * Content type: (song / video / podcast)
 * Duration per day: ___ min
 * Understanding (%): ___ %
 
-Key takeaway:
-
-```
-```
-
----
-
-## 🗣️ 6️⃣ Speaking Practice
-
+## 6. Speaking Practice
 Status: ☐ Not Started ☐ In Progress ☐ Comfortable
 
 ### Daily Speaking:
-
 ☐ 5 sentences
 ☐ 1 short explanation
 ☐ Self-talk
 
-What I spoke about today:
-
-```
-```
-
----
-
-## 🧠 7️⃣ Structured Explanation Ability
-
+## 7. Structured Explanation Ability
 Status: ☐ Not Started ☐ In Progress ☐ Comfortable
 
 Can I explain:
@@ -491,15 +417,7 @@ Can I explain:
 ☐ A problem
 ☐ A concept step-by-step
 
-Example explanation:
-
-```
-```
-
----
-
-## 💼 8️⃣ Professional / Interview Phrases
-
+## 8. Professional / Interview Phrases
 Status: ☐ Not Started ☐ In Progress ☐ Comfortable
 
 Key phrases learned:
@@ -509,14 +427,7 @@ Key phrases learned:
 * One advantage is…
 * I am still learning, but…
 
-Notes:
-
-```
-```
-
----
-
-## 🌍 9️⃣ Cultural & Usage Notes
+## 9. Cultural & Usage Notes
 
 Things to remember:
 
@@ -524,51 +435,13 @@ Things to remember:
 * Politeness levels
 * Common mistakes
 
-Notes:
-
-```
-```
-
----
-
-## 🔁 🔟 Weekly Review
-
-**Week:** ________
-
-✔ What improved:
-
-```
-```
-
-⚠ What is difficult:
-
-```
-```
-
-🎯 Focus for next week:
-
-```
-```
-
----
-
 ## 🔑 Language Confidence Check
-
 Rate (1–5):
 
 * Understanding: ⭐⭐⭐⭐⭐
 * Speaking: ⭐⭐⭐⭐⭐
 * Explaining ideas: ⭐⭐⭐⭐⭐
 
----
-
-## 🧠 Final Rule (Important)
-
-> Same system.
-> Different language.
-> Consistency over speed.
-
----
 
 # Sanskrit
 
