@@ -1,7 +1,11 @@
 # communication-
 
 - [communication](#communication)
-- [language tracker](#language-tracker)
+- [languages](#Languages)
+    - [sanskrit](#Sanskrit)
+    - [hindi](#Hindi)
+    - [english](#English)
+    - [korean](#Korean)
 
 
 ###### communication 
