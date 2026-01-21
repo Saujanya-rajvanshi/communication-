@@ -7,10 +7,6 @@
 ###### communication 
 # 🗣️ COMMUNICATION
 
-*(From Zero → Global, Technical → Human)*
-
----
-
 ## 1️⃣ What Communication ACTUALLY Is
 
 ❌ Communication is NOT:
@@ -357,9 +353,7 @@ Your goal:
 ---
 
 
-# language tracker 
----
-
+###### language tracker 
 # 🌍 Language Learning Tracker
 
 ## 📌 Language Information
