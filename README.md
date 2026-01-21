@@ -9,14 +9,12 @@
 
 ## 1️⃣ What Communication ACTUALLY Is
 
-❌ Communication is NOT:
-
+Communication is NOT:
 * Fancy vocabulary
 * Accent
 * Fluency from day one
 
-✅ Communication IS:
-
+Communication IS:
 * Clear transfer of ideas
 * Logical structure
 * Adaptation to listener
