@@ -570,5 +570,10 @@ Rate (1–5):
 
 ---
 
+# Sanskrit
 
-Tell me what you want next.
+# Hindi 
+
+# English
+
+# Korean
