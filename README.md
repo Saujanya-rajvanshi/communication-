@@ -12,6 +12,9 @@
 ###### communication 
 # 🗣️ COMMUNICATION
 
+<img width="1300" height="1389" alt="image" src="https://github.com/user-attachments/assets/ade8b594-7584-408c-8d21-665ca5614989" />
+
+
 ## 🦋 What Communication ACTUALLY Is
 
 Communication is NOT:
