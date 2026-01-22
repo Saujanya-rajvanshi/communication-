@@ -50,7 +50,7 @@ Interviews, Technical discussions, Abstract ideas, Cultural awareness
 
 ## 🐦‍🔥 Core Communication Pillars (Language-Independent)
 
-> Think → Structure → Speak <br>
+**Think → Structure → Speak** <br>
 
 **Clarity Over Correctness** <br>
 
