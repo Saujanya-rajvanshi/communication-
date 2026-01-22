@@ -253,23 +253,26 @@ Example:
 * To see korean content
 
 ### hangul (한글)
-ㄱ ㄴ ㄷ ㄹ ㅁ ㅂ ㅅ ㅇ ㅈ ㅊ ㅋ ㅌ ㅍ ㅎ
-ㅏ ㅑ ㅓ ㅕ ㅗ ㅛ ㅜ ㅠ ㅡ ㅣ
-ㅐ ㅒ ㅔ ㅖ
+ㄱ ㄴ ㄷ ㄹ ㅁ ㅂ ㅅ ㅇ ㅈ ㅊ ㅋ ㅌ ㅍ ㅎ <br>
+ㅏ ㅑ ㅓ ㅕ ㅗ ㅛ ㅜ ㅠ ㅡ ㅣ <br>
+ㅐ ㅒ ㅔ ㅖ <br>
 
-## Hangul Consonants 자음 (ja-eum)
-(14) letters 
+#### Hangul Consonants 자음 (ja-eum)
+(14) letters <br>
 
-ㄱ (घ)                            ㅇ silent -(अं)
-ㄴ (न)                            ㅈ (ज) 
-ㄷ (त / द / d)                    ㅊ (छ)
-ㄹ (ल/र)                          ㅋ (ख)
-ㅁ (म)                            ㅌ (थ)
-ㅂ (प / ब)                        ㅍ (फ)
-ㅅ (स)                            ㅎ (ह)
+ㄱ (घ)                            ㅇ silent -(अं) <br>
+ㄴ (न)                            ㅈ (ज) <br>
+ㄷ (त / द / d)                    ㅊ (छ) <br>
+ㄹ (ल/र)                          ㅋ (ख) <br>
+ㅁ (म)                            ㅌ (थ) <br>
+ㅂ (प / ब)                        ㅍ (फ) <br>
+ㅅ (स)                            ㅎ (ह) <br>
 
-**Romanization:**
-g/k, n, d/t, r/l, m, b/p, s, (silent/ng), j, ch, k, t, p, h
+ㄱ   ㄴ   ㄷ   ㄹ   ㅁ   ㅂ    ㅅ   ㅇ   ㅈ   ㅊ   ㅋ   ㅌ   ㅍ   ㅎ <br>
+G    N    D    L    M    B    S    x    J   CH    K   T    P    H <br>
+
+ㄱ   ㄴ   ㄷ   ㄹ   ㅁ   ㅂ    ㅅ   ㅇ   ㅈ   ㅊ   ㅋ   ㅌ   ㅍ   ㅎ  <-- BATCHIM <br>
+(K)      'T'            (P)  'T'  (NG) 'T'  'T'      'T'       'T' <br>
 
 ---
 
