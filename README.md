@@ -243,4 +243,105 @@ Example:
 
 # English
 
-# Korean
+###### Korean
+# 🍜 KOREAN 
+
+### Role of the Language 
+* To understand Korean culture deeply
+* To know and appreciate BTS better
+* To improve career opportunities and get jobs in Korea
+* To see korean content
+
+### hangul (한글)
+ㄱ ㄴ ㄷ ㄹ ㅁ ㅂ ㅅ ㅇ ㅈ ㅊ ㅋ ㅌ ㅍ ㅎ
+ㅏ ㅑ ㅓ ㅕ ㅗ ㅛ ㅜ ㅠ ㅡ ㅣ
+ㅐ ㅒ ㅔ ㅖ
+
+## Hangul Consonants 자음 (ja-eum)
+(14) letters 
+
+ㄱ (घ)                            ㅇ silent -(अं)
+ㄴ (न)                            ㅈ (ज) 
+ㄷ (त / द / d)                    ㅊ (छ)
+ㄹ (ल/र)                          ㅋ (ख)
+ㅁ (म)                            ㅌ (थ)
+ㅂ (प / ब)                        ㅍ (फ)
+ㅅ (स)                            ㅎ (ह)
+
+**Romanization:**
+g/k, n, d/t, r/l, m, b/p, s, (silent/ng), j, ch, k, t, p, h
+
+---
+
+### ✅ Double / Tensed Consonants (5)
+
+ㄲ ㄸ ㅃ ㅆ ㅉ
+
+**Romanization:**
+kk, tt, pp, ss, jj
+
+---
+
+## 🔡 Hangul Vowels (모음) 🔹 모음 (mo-eum)
+
+
+### ✅ Basic Vowels (10)
+
+ㅏ ㅑ ㅓ ㅕ ㅗ ㅛ ㅜ ㅠ ㅡ ㅣ
+
+**Romanization:**
+a, ya, eo, yeo, o, yo, u, yu, eu, i
+
+---
+
+### ✅ Compound Vowels (11)
+
+ㅐ ㅒ ㅔ ㅖ
+ㅘ ㅙ ㅚ
+ㅝ ㅞ ㅟ
+ㅢ
+
+**Romanization:**
+ae, yae, e, ye
+wa, wae, oe
+wo, we, wi
+ui
+
+---
+
+## 📊 Total Count
+
+* **Consonants:** 19 (14 basic + 5 double)
+* **Vowels:** 21 (10 basic + 11 compound)
+* **Total Hangul Letters:** **40**
+
+---
+
+## 🧠 One Important Note
+
+Hangul letters **combine into blocks**, e.g.
+ㄱ + ㅏ = 가
+ㅎ + ㅏ + ㄴ = 한
+
+If you want next:
+
+* pronunciation tips for each letter
+* writing order (strokes)
+* or how letters form syllables step-by-step
+
+Just tell me.
+
+
+### Learn Sounds & Pronunciation
+
+4. **Memorize Survival Sentences**
+5. **Understand Sentence Structure**
+6. **Start Daily Listening Practice**
+7. **Build Vocabulary in Context**
+8. **Learn Grammar Gradually**
+9. **Speak Early and Imperfectly**
+10. **Develop Structured Explanation Skills**
+11. **Introduce Reading and Writing**
+12. **Learn Cultural & Usage Context**
+13. **Get Feedback and Self-Correct**
+14. **Maintain Consistency and Review Progress**
