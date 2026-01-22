@@ -260,13 +260,24 @@ Example:
 #### Hangul Consonants 자음 (ja-eum)
 (14) letters <br>
 
-ㄱ (घ)                            ㅇ silent -(अं) <br>
-ㄴ (न)                            ㅈ (ज) <br>
-ㄷ (त / द / d)                    ㅊ (छ) <br>
-ㄹ (ल/र)                          ㅋ (ख) <br>
-ㅁ (म)                            ㅌ (थ) <br>
-ㅂ (प / ब)                        ㅍ (फ) <br>
-ㅅ (स)                            ㅎ (ह) <br>
+| Korean | Hindi Sound | Korean | Hindi Sound |
+|-------|-------------|--------|-------------|
+| ㄱ | घ | ㅇ | silent / अं |
+| ㄴ | न | ㅈ | ज |
+| ㄷ | त / द / d | ㅊ | छ |
+| ㄹ | ल / र | ㅋ | ख |
+| ㅁ | म | ㅌ | थ |
+| ㅂ | प / ब | ㅍ | फ |
+| ㅅ | स | ㅎ | ह |
+
+
+ㄱ (घ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ㅇ silent -(अं) <br>
+ㄴ (न)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ㅈ (ज) <br>
+ㄷ (त / द / d)                      ㅊ (छ) <br>
+ㄹ (ल/र)                            ㅋ (ख) <br>
+ㅁ (म)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ㅌ (थ) <br>
+ㅂ (प/ब)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ㅍ (फ) <br>
+ㅅ (स)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ㅎ (ह) <br>
 
 ㄱ   ㄴ   ㄷ   ㄹ   ㅁ   ㅂ    ㅅ   ㅇ   ㅈ   ㅊ   ㅋ   ㅌ   ㅍ   ㅎ <br>
 G    N    D    L    M    B    S    x    J   CH    K   T    P    H <br>
