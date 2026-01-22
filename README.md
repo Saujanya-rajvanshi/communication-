@@ -39,15 +39,15 @@ You will move through these levels **for every language**.
 Greetings, Introductions, Basic questions, Simple sentences
 
 ### Level 2: Daily Communication
-“Can I hold simple conversations?”
+“Can I hold simple conversations?” <br>
 Daily routine, Feelings, Opinions (basic), Short explanations
 
 ### Level 3: Structured Communication
-“Can I explain ideas clearly?”
+“Can I explain ideas clearly?” <br>
 Step-by-step explanations, Reasons & examples, Comparisons
 
-### 🔹 Level 4: Advanced / Professional Communication
-“Can I think & respond naturally?”
+### Level 4: Advanced / Professional Communication
+“Can I think & respond naturally?” <br>
 Interviews, Technical discussions, Abstract ideas, Cultural awareness
 
 ## 3️⃣ Core Communication Pillars (Language-Independent)
