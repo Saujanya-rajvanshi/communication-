@@ -273,15 +273,8 @@ Example:
 
 | ㄱ | ㄴ | ㄷ | ㄹ | ㅁ | ㅂ | ㅅ | ㅇ | ㅈ | ㅊ | ㅋ | ㅌ | ㅍ | ㅎ |
 |----|----|----|----|----|----|----|----|----|----|----|----|----|----|
-| G/K | N | D | L/R | M | B/P | S | silent | J | CH | K | T | P | H |
-| K | N | T | L | M | P | T | NG | T | T | K | T | P | T |
-
-
-ㄱ   ㄴ   ㄷ   ㄹ   ㅁ   ㅂ    ㅅ   ㅇ   ㅈ   ㅊ   ㅋ   ㅌ   ㅍ   ㅎ <br>
-G    N    D    L    M    B    S    x    J   CH    K   T    P    H <br>
-
-ㄱ   ㄴ   ㄷ   ㄹ   ㅁ   ㅂ    ㅅ   ㅇ   ㅈ   ㅊ   ㅋ   ㅌ   ㅍ   ㅎ  <-- BATCHIM <br>
-(K)      'T'            (P)  'T'  (NG) 'T'  'T'      'T'       'T' <br>
+| G | N | D | L | M | B | S | silent | J | CH | K | T | P | H |
+| K | * | t | * | * | P | t | NG | t | t | * | * | * | t |
 
 ---
 
