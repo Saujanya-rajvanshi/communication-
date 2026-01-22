@@ -196,97 +196,9 @@ Your goal:
 * Be understandable
 * Be calm
 * Be adaptable
-* 
-
-###### language tracker 
-# 🌍 Language Learning Tracker
-
-## Current Level (Update Weekly)
-☐ Absolute Beginner ☐ Survival ☐ Daily Conversation ☐ Structured / Professional ☐ Advanced
-
-## 1. Pronunciation & Sounds
-Status: ☐ Not Started ☐ In Progress ☐ Comfortable
-* Alphabet / Sounds learned:
-* Difficult sounds:
-* Practice source (videos / audio):
-
-## 2. Core Sentence Structures
-Status: ☐ Not Started ☐ In Progress ☐ Comfortable
-
-## 3. Vocabulary Tracker
-
-### Daily Target: ___ words
-
-| Category   | Words Learned |
-| ---------- | ------------- |
-| Verbs      |               |
-| Nouns      |               |
-| Adjectives |               |
-| Tech Words |               |
-| Daily Use  |               |
-
-## 4. Grammar Progress
-Status: ☐ Not Started ☐ In Progress ☐ Comfortable
-
-☐ Sentence order
-☐ Present tense
-☐ Past tense
-☐ Future tense
-☐ Questions
-☐ Negation
-☐ Connectors (and, but, because)
-
-## 5. Listening Practice
-Status: ☐ Not Started ☐ In Progress ☐ Comfortable
-
-* Content type: (song / video / podcast)
-* Duration per day: ___ min
-* Understanding (%): ___ %
-
-## 6. Speaking Practice
-Status: ☐ Not Started ☐ In Progress ☐ Comfortable
-
-### Daily Speaking:
-☐ 5 sentences
-☐ 1 short explanation
-☐ Self-talk
-
-## 7. Structured Explanation Ability
-Status: ☐ Not Started ☐ In Progress ☐ Comfortable
-
-Can I explain:
-☐ Daily routine
-☐ My studies
-☐ A problem
-☐ A concept step-by-step
-
-## 8. Professional / Interview Phrases
-Status: ☐ Not Started ☐ In Progress ☐ Comfortable
-
-Key phrases learned:
-
-* Let me explain…
-* From my perspective…
-* One advantage is…
-* I am still learning, but…
-
-## 9. Cultural & Usage Notes
-
-Things to remember:
-
-* Formal vs informal
-* Politeness levels
-* Common mistakes
-
-## 🔑 Language Confidence Check
-Rate (1–5):
-
-* Understanding: ⭐⭐⭐⭐⭐
-* Speaking: ⭐⭐⭐⭐⭐
-* Explaining ideas: ⭐⭐⭐⭐⭐
 
 
-## steps
+## 🔮 steps
 
 1. **Define the Role of the Language**
 2. **Learn Sounds & Pronunciation**
