@@ -12,7 +12,7 @@
 ###### communication 
 # 🗣️ COMMUNICATION
 
-![set-of-communication-vector-cartoon-illustration-elements-various-objects-of-hand-drawn-communication-in-doodle-color-2BK5NRM](https://github.com/user-attachments/assets/745cfef6-8f50-45da-a4cd-45f88da61213)
+![set-of-communication-vector-cartoon-illustration-elements-various-objects-of-hand-drawn-communication-in-doodle-color-2BK5NRM](https://github.com/user-attachments/assets/8b84a933-8e6b-4eca-ae67-77a6c0c24a96)
 
 
 ## 🦋 What Communication ACTUALLY Is
