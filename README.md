@@ -34,76 +34,27 @@ Communication IS:
 
 You will move through these levels **for every language**.
 
-### 🔹 Level 1: Survival Communication
+### Level 1: Survival Communication
+ “Can I express basic needs?” <br>
+Greetings, Introductions, Basic questions, Simple sentences
 
-👉 “Can I express basic needs?”
+### Level 2: Daily Communication
+“Can I hold simple conversations?”
+Daily routine, Feelings, Opinions (basic), Short explanations
 
-* Greetings
-* Introductions
-* Basic questions
-* Simple sentences
-
-📌 Example (any language):
-
-> Hello, my name is…
-> I am learning this language.
-> Please repeat.
-
----
-
-### 🔹 Level 2: Daily Communication
-
-👉 “Can I hold simple conversations?”
-
-* Daily routine
-* Feelings
-* Opinions (basic)
-* Short explanations
-
-📌 Example:
-
-> I study computer science.
-> Today I practiced DSA.
-> I like learning languages.
-
----
-
-### 🔹 Level 3: Structured Communication
-
-👉 “Can I explain ideas clearly?”
-
-* Step-by-step explanations
-* Reasons & examples
-* Comparisons
-
-📌 Example:
-
-> First…, then…, because…
-> One advantage is…
-
----
+### Level 3: Structured Communication
+“Can I explain ideas clearly?”
+Step-by-step explanations, Reasons & examples, Comparisons
 
 ### 🔹 Level 4: Advanced / Professional Communication
-
-👉 “Can I think & respond naturally?”
-
-* Interviews
-* Technical discussions
-* Abstract ideas
-* Cultural awareness
-
-📌 Example:
-
-> The trade-off here is…
-> From an engineering perspective…
-
----
+“Can I think & respond naturally?”
+Interviews, Technical discussions, Abstract ideas, Cultural awareness
 
 ## 3️⃣ Core Communication Pillars (Language-Independent)
 
 These apply to **ALL languages**.
 
-### 🧠 1. Thinking Before Speaking
+### 1. Thinking Before Speaking
 
 * Organize thoughts mentally
 * Don’t rush
@@ -115,7 +66,7 @@ Rule:
 
 ---
 
-### 🗣️ 2. Clarity Over Correctness
+### 2. Clarity Over Correctness
 
 * Simple words > complex words
 * Short sentences > long sentences
@@ -125,7 +76,7 @@ Rule:
 
 ---
 
-### 🔁 3. Feedback Loop
+### 3. Feedback Loop
 
 Good communicators:
 
