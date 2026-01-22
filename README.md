@@ -271,13 +271,11 @@ Example:
 | ㅅ | स | ㅎ | ह |
 
 
-ㄱ (घ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ㅇ silent -(अं) <br>
-ㄴ (न)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ㅈ (ज) <br>
-ㄷ (त / द / d)                      ㅊ (छ) <br>
-ㄹ (ल/र)                            ㅋ (ख) <br>
-ㅁ (म)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ㅌ (थ) <br>
-ㅂ (प/ब)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ㅍ (फ) <br>
-ㅅ (स)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ㅎ (ह) <br>
+| ㄱ | ㄴ | ㄷ | ㄹ | ㅁ | ㅂ | ㅅ | ㅇ | ㅈ | ㅊ | ㅋ | ㅌ | ㅍ | ㅎ |
+|----|----|----|----|----|----|----|----|----|----|----|----|----|----|
+| G/K | N | D | L/R | M | B/P | S | silent | J | CH | K | T | P | H |
+| K | N | T | L | M | P | T | NG | T | T | K | T | P | T |
+
 
 ㄱ   ㄴ   ㄷ   ㄹ   ㅁ   ㅂ    ㅅ   ㅇ   ㅈ   ㅊ   ㅋ   ㅌ   ㅍ   ㅎ <br>
 G    N    D    L    M    B    S    x    J   CH    K   T    P    H <br>
