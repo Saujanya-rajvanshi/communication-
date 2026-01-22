@@ -257,8 +257,15 @@ Example:
 ㅏ ㅑ ㅓ ㅕ ㅗ ㅛ ㅜ ㅠ ㅡ ㅣ <br>
 ㅐ ㅒ ㅔ ㅖ <br>
 
+
+* **Consonants:** 19 (14 basic + 5 double)
+* **Vowels:** 21 (10 basic + 11 compound)
+* **Total Hangul Letters:** **40**
+
+
 #### Hangul Consonants 자음 (ja-eum)
-(14) letters <br>
+
+* **Consonants:** 19 (14 basic + 5 double) 
 
 #### sounds 
 
@@ -282,10 +289,9 @@ Example:
 * ㄱ : G -> k
 * ㅂ : B -> P
 * ㅇ : NG
-  
----
 
-### ✅ Double / Tensed Consonants (5)
+
+Double / Tensed Consonants (5)
 
 ㄲ ㄸ ㅃ ㅆ ㅉ
 
@@ -296,12 +302,13 @@ kk, tt, pp, ss, jj
 
 ## Hangul Vowels  모음 (mo-eum)
 
+* **Vowels:** 21 (10 basic + 11 compound)
+
 | ㅏ | ㅑ | ㅓ | ㅕ | ㅗ | ㅛ | ㅜ | ㅠ | ㅡ | ㅣ |
 |----|----|----|----|----|----|----|----|----|----|
 | a | ya | eo | yeo | o | yo | u | yu | eu | i |
 | अ / आ | या | अ / ऑ | यो (soft) | ओ | यो | उ | यू | उ (flat) | इ |
 
----
 
 ### ✅ Compound Vowels (11)
 
@@ -318,15 +325,10 @@ ui
 
 ---
 
-## 📊 Total Count
-
-* **Consonants:** 19 (14 basic + 5 double)
-* **Vowels:** 21 (10 basic + 11 compound)
-* **Total Hangul Letters:** **40**
-
----
 
 ## 🧠 One Important Note
+
+make the vowels block arrangment in blocks 
 
 Hangul letters **combine into blocks**, e.g.
 ㄱ + ㅏ = 가
@@ -342,7 +344,6 @@ Just tell me.
 
 
 ### Learn Sounds & Pronunciation
-
 4. **Memorize Survival Sentences**
 5. **Understand Sentence Structure**
 6. **Start Daily Listening Practice**
