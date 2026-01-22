@@ -260,6 +260,8 @@ Example:
 #### Hangul Consonants 자음 (ja-eum)
 (14) letters <br>
 
+#### sounds 
+
 | Korean | Hindi Sound | Korean | Hindi Sound |
 |-------|-------------|--------|-------------|
 | ㄱ | घ | ㅇ | silent / अं |
@@ -270,12 +272,17 @@ Example:
 | ㅂ | प / ब | ㅍ | फ |
 | ㅅ | स | ㅎ | ह |
 
+#### batchim 
 
 | ㄱ | ㄴ | ㄷ | ㄹ | ㅁ | ㅂ | ㅅ | ㅇ | ㅈ | ㅊ | ㅋ | ㅌ | ㅍ | ㅎ |
 |----|----|----|----|----|----|----|----|----|----|----|----|----|----|
 | G | N | D | L | M | B | S | silent | J | CH | K | T | P | H |
 | K | * | t | * | * | P | t | NG | t | t | * | * | * | t |
 
+* ㄱ : G -> k
+* ㅂ : B -> P
+* ㅇ : NG
+  
 ---
 
 ### ✅ Double / Tensed Consonants (5)
