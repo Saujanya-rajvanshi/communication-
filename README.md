@@ -290,13 +290,13 @@ Example:
 * ㅂ : B -> P
 * ㅇ : NG
 
-
-Double / Tensed Consonants (5)
-
-ㄲ ㄸ ㅃ ㅆ ㅉ
-
-**Romanization:**
-kk, tt, pp, ss, jj
+| Korean | Name | Romanization | Hindi Sound (approx.) | Explanation                |
+| ------ | ---- | ------------ | --------------------- | -------------------------- |
+| ㄲ      | 쌍기역  | kk           | क्क / ग                 | Strong **k**, no extra air |
+| ㄸ      | 쌍디귿  | tt           | त्त / ट्ट             | Tight **t**, not “th”      |
+| ㅃ      | 쌍비읍  | pp           | प्प                   | Tight **p**, lips tense    |
+| ㅆ      | 쌍시옷  | ss           | स्स                   | Sharp **s**, longer sound  |
+| ㅉ      | 쌍지읒  | jj           | ज्ज                   | Tight **j**, not “jh”      |
 
 ---
 
