@@ -310,7 +310,14 @@ kk, tt, pp, ss, jj
 | अ / आ | या | अ / ऑ | यो (soft) | ओ | यो | उ | यू | उ (flat) | इ |
 
 
-### ✅ Compound Vowels (11)
+* **Compound Vowels** (11)
+
+| ㅐ   | ㅒ   | ㅔ | ㅖ  | ㅘ  | ㅙ   | ㅚ       | ㅝ  | ㅞ  | ㅟ  | ㅢ        |
+| --- | --- | - | -- | -- | --- | ------- | -- | -- | -- | -------- |
+| ae  | yae | e | ye | wa | wae | oe      | wo | we | wi | ui       |
+| ऐ   | यै  | ए | ये | वा | वै  | वे / वि | वो | वे | वी | उई       |
+| hai | yai | e | ye | wa | wai | we      | wo | we | wi | tight ui |
+
 
 ㅐ ㅒ ㅔ ㅖ
 ㅘ ㅙ ㅚ
