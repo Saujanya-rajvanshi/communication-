@@ -267,17 +267,16 @@ Example:
 
 * **Consonants:** 19 (14 basic + 5 double) 
 
-#### sounds 
+| Korean | Consonant Name (Korean) | Hindi Sound (approx.) | Korean | Consonant Name (Korean) | Hindi Sound (approx.) |
+| ------ | ----------------------- | --------------------- | ------ | ----------------------- | --------------------- |
+| ㄱ      | 기역 (Giyeok)             | क / ग                 | ㅇ      | 이응 (Ieung)              | silent / अं           |
+| ㄴ      | 니은 (Nieun)              | न                     | ㅈ      | 지읒 (Jieut)              | ज                     |
+| ㄷ      | 디귿 (Digeut)             | त / द                 | ㅊ      | 치읓 (Chieut)             | छ                     |
+| ㄹ      | 리을 (Rieul)              | ल / र                 | ㅋ      | 키읔 (Kieuk)              | ख                     |
+| ㅁ      | 미음 (Mieum)              | म                     | ㅌ      | 티읕 (Tieut)              | थ                     |
+| ㅂ      | 비읍 (Bieup)              | प / ब                 | ㅍ      | 피읖 (Pieup)              | फ                     |
+| ㅅ      | 시옷 (Siot)               | स                     | ㅎ      | 히읗 (Hieut)              | ह                     |
 
-| Korean | Hindi Sound | Korean | Hindi Sound |
-|-------|-------------|--------|-------------|
-| ㄱ | घ | ㅇ | silent / अं |
-| ㄴ | न | ㅈ | ज |
-| ㄷ | त / द / d | ㅊ | छ |
-| ㄹ | ल / र | ㅋ | ख |
-| ㅁ | म | ㅌ | थ |
-| ㅂ | प / ब | ㅍ | फ |
-| ㅅ | स | ㅎ | ह |
 
 #### batchim 
 
