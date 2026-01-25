@@ -318,18 +318,6 @@ kk, tt, pp, ss, jj
 | ऐ   | यै  | ए | ये | वा | वै  | वे / वि | वो | वे | वी | उई       |
 | hai | yai | e | ye | wa | wai | we      | wo | we | wi | tight ui |
 
-
-ㅐ ㅒ ㅔ ㅖ
-ㅘ ㅙ ㅚ
-ㅝ ㅞ ㅟ
-ㅢ
-
-**Romanization:**
-ae, yae, e, ye
-wa, wae, oe
-wo, we, wi
-ui
-
 ---
 
 
