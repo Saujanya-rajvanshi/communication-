@@ -246,13 +246,13 @@ Example:
 ###### Korean
 # 🍜 KOREAN 
 
-### Role of the Language 
+## Role of the Language 
 * To understand Korean culture deeply
 * To know and appreciate BTS better
 * To improve career opportunities and get jobs in Korea
 * To see korean content
 
-### hangul (한글)
+## hangul (한글)
 ㄱ ㄴ ㄷ ㄹ ㅁ ㅂ ㅅ ㅇ ㅈ ㅊ ㅋ ㅌ ㅍ ㅎ <br>
 ㅏ ㅑ ㅓ ㅕ ㅗ ㅛ ㅜ ㅠ ㅡ ㅣ <br>
 ㅐ ㅒ ㅔ ㅖ <br>
@@ -263,7 +263,7 @@ Example:
 * **Total Hangul Letters:** **40**
 
 
-#### Hangul Consonants 자음 (ja-eum)
+### Hangul Consonants 자음 (ja-eum)
 
 * **Consonants:** 19 (14 basic + 5 double) 
 
