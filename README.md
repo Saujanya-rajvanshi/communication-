@@ -278,6 +278,17 @@ Example:
 | ㅅ      | 시옷 (Siot)               | स                     | ㅎ      | 히읗 (Hieut)              | ह                     |
 
 
+#### double consonants 
+
+| Korean | Name | Romanization | Hindi Sound (approx.) | Explanation                |
+| ------ | ---- | ------------ | --------------------- | -------------------------- |
+| ㄲ      | 쌍기역  | kk           | क्क / ग                 | Strong **k**, no extra air |
+| ㄸ      | 쌍디귿  | tt           | त्त / ट्ट             | Tight **t**, not “th”      |
+| ㅃ      | 쌍비읍  | pp           | प्प                   | Tight **p**, lips tense    |
+| ㅆ      | 쌍시옷  | ss           | स्स                   | Sharp **s**, longer sound  |
+| ㅉ      | 쌍지읒  | jj           | ज्ज                   | Tight **j**, not “jh”      |
+
+
 #### batchim 
 
 | ㄱ | ㄴ | ㄷ | ㄹ | ㅁ | ㅂ | ㅅ | ㅇ | ㅈ | ㅊ | ㅋ | ㅌ | ㅍ | ㅎ |
@@ -289,13 +300,30 @@ Example:
 * ㅂ : B -> P
 * ㅇ : NG
 
-| Korean | Name | Romanization | Hindi Sound (approx.) | Explanation                |
-| ------ | ---- | ------------ | --------------------- | -------------------------- |
-| ㄲ      | 쌍기역  | kk           | क्क / ग                 | Strong **k**, no extra air |
-| ㄸ      | 쌍디귿  | tt           | त्त / ट्ट             | Tight **t**, not “th”      |
-| ㅃ      | 쌍비읍  | pp           | प्प                   | Tight **p**, lips tense    |
-| ㅆ      | 쌍시옷  | ss           | स्स                   | Sharp **s**, longer sound  |
-| ㅉ      | 쌍지읒  | jj           | ज्ज                   | Tight **j**, not “jh”      |
+#### compound consonants as batchim
+
+* only ㄲ and ㅆ can be used as batchim.
+* 11 compound consonants used only as batchims
+* With these compound consonants, they take on the sound of the first consonant unless otherwise noted.
+👉 **In batchim, only ONE sound is heard**, not both letters.
+
+---
+
+## 11 Compound Batchim (받침) + Pronunciation
+
+| No. | Batchim | Made of | **Pronounced as** | Sound (English) | Example | Example Sound |
+| --- | ------- | ------- | ----------------- | --------------- | ------- | ------------- |
+| 1   | ㄳ       | ㄱ + ㅅ   | **ㄱ**             | k / g           | 몫       | mok           |
+| 2   | ㄵ       | ㄴ + ㅈ   | **ㄴ**             | n               | 앉다      | anta          |
+| 3   | ㄶ       | ㄴ + ㅎ   | **ㄴ**             | n               | 많다      | manta         |
+| 4   | ㄺ       | ㄹ + ㄱ   | **ㄱ**             | k               | 읽다      | ik-da         |
+| 5   | ㄻ       | ㄹ + ㅁ   | **ㅁ**             | m               | 삶       | sam           |
+| 6   | ㄼ       | ㄹ + ㅂ   | **ㄹ**             | l               | 넓다      | neol-da       |
+| 7   | ㄽ       | ㄹ + ㅅ   | **ㄹ**             | l               | 외곬      | oel           |
+| 8   | ㄾ       | ㄹ + ㅌ   | **ㄹ**             | l               | 핥다      | hal-da        |
+| 9   | ㄿ       | ㄹ + ㅍ   | **ㅍ**             | p               | 읊다      | eup-da        |
+| 10  | ㅀ       | ㄹ + ㅎ   | **ㄹ**             | l               | 싫다      | sil-da        |
+| 11  | ㅄ       | ㅂ + ㅅ   | **ㅂ**             | p / b           | 없다      | eop-da        |
 
 ---
 
