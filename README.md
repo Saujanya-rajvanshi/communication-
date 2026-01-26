@@ -304,7 +304,7 @@ Example:
 
 * only ㄲ and ㅆ can be used as batchim.
 * 11 compound consonants used only as batchims
-* With these compound consonants, they take on the sound of the first consonant unless otherwise noted.
+* With these compound consonants, they take on the sound of the first consonant unless otherwise noted. <br>
 👉 **In batchim, only ONE sound is heard**, not both letters.
 
 | No. | Batchim | Made of | Pronounced as | Sound (English) | Example | Example Sound | **Exception / Special rule**                              |
@@ -320,7 +320,6 @@ Example:
 | 9   | ㄿ       | ㄹ + ㅍ   | ㅍ             | p               | 읊다      | eup-da        | Before consonant → ㅂ sound (읊다 → 읍따)                      |
 | 10  | ㅀ       | ㄹ + ㅎ   | ㄹ             | l               | 싫다      | sil-da        | ㅎ aspirates next consonant (싫다 → 실타)                      |
 | 11  | ㅄ       | ㅂ + ㅅ   | ㅂ             | p / b           | 없다      | eop-da        | ㅅ moves before vowel (없어 → 업서)                            |
-
 
 ---
 
