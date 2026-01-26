@@ -307,23 +307,20 @@ Example:
 * With these compound consonants, they take on the sound of the first consonant unless otherwise noted.
 👉 **In batchim, only ONE sound is heard**, not both letters.
 
----
+| No. | Batchim | Made of | Pronounced as | Sound (English) | Example | Example Sound | **Exception / Special rule**                              |
+| --- | ------- | ------- | ------------- | --------------- | ------- | ------------- | --------------------------------------------------------- |
+| 1   | ㄳ       | ㄱ + ㅅ   | ㄱ             | k / g           | 몫       | mok           | ㅅ moves to next syllable if followed by a vowel (없어 → 업서) |
+| 2   | ㄵ       | ㄴ + ㅈ   | ㄴ             | n               | 앉다      | anta          | ㅈ moves to next syllable before a vowel (앉아 → 안자)         |
+| 3   | ㄶ       | ㄴ + ㅎ   | ㄴ             | n               | 많다      | manta         | ㅎ causes aspiration: ㄷ → ㅌ (많다 → 만타)                      |
+| 4   | ㄺ       | ㄹ + ㄱ   | ㄱ             | k               | 읽다      | ik-da         | ㄹ moves before a vowel (읽어 → 일거); **읽고 → 일꼬**             |
+| 5   | ㄻ       | ㄹ + ㅁ   | ㅁ             | m               | 삶       | sam           | ㄹ moves before a vowel (삶아 → 살마)                          |
+| 6   | ㄼ       | ㄹ + ㅂ   | ㄹ             | l               | 넓다      | neol-da       | **Exception:** 밟다 → 밥따                                    |
+| 7   | ㄽ       | ㄹ + ㅅ   | ㄹ             | l               | 외곬      | oel           | Very rare; ㅅ moves before vowel                           |
+| 8   | ㄾ       | ㄹ + ㅌ   | ㄹ             | l               | 핥다      | hal-da        | ㅌ moves before vowel (핥아 → 할타)                            |
+| 9   | ㄿ       | ㄹ + ㅍ   | ㅍ             | p               | 읊다      | eup-da        | Before consonant → ㅂ sound (읊다 → 읍따)                      |
+| 10  | ㅀ       | ㄹ + ㅎ   | ㄹ             | l               | 싫다      | sil-da        | ㅎ aspirates next consonant (싫다 → 실타)                      |
+| 11  | ㅄ       | ㅂ + ㅅ   | ㅂ             | p / b           | 없다      | eop-da        | ㅅ moves before vowel (없어 → 업서)                            |
 
-## 11 Compound Batchim (받침) + Pronunciation
-
-| No. | Batchim | Made of | **Pronounced as** | Sound (English) | Example | Example Sound |
-| --- | ------- | ------- | ----------------- | --------------- | ------- | ------------- |
-| 1   | ㄳ       | ㄱ + ㅅ   | **ㄱ**             | k / g           | 몫       | mok           |
-| 2   | ㄵ       | ㄴ + ㅈ   | **ㄴ**             | n               | 앉다      | anta          |
-| 3   | ㄶ       | ㄴ + ㅎ   | **ㄴ**             | n               | 많다      | manta         |
-| 4   | ㄺ       | ㄹ + ㄱ   | **ㄱ**             | k               | 읽다      | ik-da         |
-| 5   | ㄻ       | ㄹ + ㅁ   | **ㅁ**             | m               | 삶       | sam           |
-| 6   | ㄼ       | ㄹ + ㅂ   | **ㄹ**             | l               | 넓다      | neol-da       |
-| 7   | ㄽ       | ㄹ + ㅅ   | **ㄹ**             | l               | 외곬      | oel           |
-| 8   | ㄾ       | ㄹ + ㅌ   | **ㄹ**             | l               | 핥다      | hal-da        |
-| 9   | ㄿ       | ㄹ + ㅍ   | **ㅍ**             | p               | 읊다      | eup-da        |
-| 10  | ㅀ       | ㄹ + ㅎ   | **ㄹ**             | l               | 싫다      | sil-da        |
-| 11  | ㅄ       | ㅂ + ㅅ   | **ㅂ**             | p / b           | 없다      | eop-da        |
 
 ---
 
