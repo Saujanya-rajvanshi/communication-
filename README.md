@@ -343,22 +343,10 @@ Example:
 
 ---
 
+#### 🧠 Hangul letters **combine into blocks**, e.g.
+ㄱ + ㅏ = 가 <br>
+ㅎ + ㅏ + ㄴ = 한 <br>
 
-## 🧠 One Important Note
-
-make the vowels block arrangment in blocks 
-
-Hangul letters **combine into blocks**, e.g.
-ㄱ + ㅏ = 가
-ㅎ + ㅏ + ㄴ = 한
-
-If you want next:
-
-* pronunciation tips for each letter
-* writing order (strokes)
-* or how letters form syllables step-by-step
-
-Just tell me.
 
 
 ### Learn Sounds & Pronunciation
