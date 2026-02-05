@@ -364,58 +364,66 @@ Example:
 
 # TOPIK WORDS
 
-| No. | Korean | Pronunciation | Meaning         | Usage / Example | Sentence Roman Pronunciation    |
-| --- | ------ | ------------- | --------------- | --------------- | ------------------------------- |
-| 1   | 것      | geot          | thing           | 이것은 좋은 **것**이에요 | i-geo-seun jo-eun geot-i-e-yo   |
-| 2   | 하다     | hada          | to do           | 공부를 **하다**      | gong-bu-reul ha-da              |
-| 3   | 있다     | itda          | to exist / have | 시간이 **있다**      | si-gan-i it-da                  |
-| 4   | 수      | su            | way / ability   | 할 **수** 있어요     | hal su i-sseo-yo                |
-| 5   | 없다     | eop-da        | to not exist    | 돈이 **없다**       | don-i eop-da                    |
-| 6   | 나      | na            | I / me          | **나**는 학생이에요    | na-neun hak-saeng-i-e-yo        |
-| 7   | 사람     | saram         | person          | 좋은 **사람**       | jo-eun sa-ram                   |
-| 8   | 우리     | uri           | we / our        | **우리** 나라       | u-ri na-ra                      |
-| 9   | 그      | geu           | that            | **그** 사람        | geu sa-ram                      |
-| 10  | 이      | i             | this            | **이** 책         | i chaek                         |
-| 11  | 저      | jeo           | that (far)      | **저** 건물        | jeo geon-mul                    |
-| 12  | 보다     | boda          | to see          | 영화를 **보다**      | yeong-hwa-reul bo-da            |
-| 13  | 주다     | juda          | to give         | 선물을 **주다**      | seon-mul-eul ju-da              |
-| 14  | 받다     | batda         | to receive      | 편지를 **받다**      | pyeon-ji-reul bat-da            |
-| 15  | 오다     | oda           | to come         | 집에 **오다**       | ji-be o-da                      |
-| 16  | 가다     | gada          | to go           | 학교에 **가다**      | hak-gyo-e ga-da                 |
-| 17  | 말      | mal           | word / speech   | 한국어 **말**       | han-gu-geo mal                  |
-| 18  | 일      | il            | work / thing    | 할 **일**         | hal il                          |
-| 19  | 아니다    | anida         | to not be       | 학생이 **아니다**     | hak-saeng-i a-ni-da             |
-| 20  | 그렇다    | geureota      | to be so        | **그렇다** 맞아요     | geu-reo-ta ma-ja-yo             |
-| 21  | 이다     | ida           | to be           | 학생**이다**        | hak-saeng-i-da                  |
-| 22  | 더      | deo           | more            | **더** 주세요       | deo ju-se-yo                    |
-| 23  | 잘      | jal           | well            | **잘** 지내요       | jal ji-nae-yo                   |
-| 24  | 못      | mot           | cannot          | **못** 해요        | mot hae-yo                      |
-| 25  | 다시     | dasi          | again           | **다시** 해요       | da-si hae-yo                    |
-| 26  | 안      | an            | not             | **안** 가요        | an ga-yo                        |
-| 27  | 많이     | mani          | many / much     | **많이** 먹어요      | ma-ni meo-geo-yo                |
-| 28  | 조금     | jogeum        | a little        | **조금** 주세요      | jo-geum ju-se-yo                |
-| 29  | 정말     | jeongmal      | really          | **정말** 좋아요      | jeong-mal jo-a-yo               |
-| 30  | 지금     | jigeum        | now             | **지금** 가요       | ji-geum ga-yo                   |
-| 31  | 여기     | yeogi         | here            | **여기** 있어요      | yeo-gi i-sseo-yo                |
-| 32  | 거기     | geogi         | there           | **거기** 가요       | geo-gi ga-yo                    |
-| 33  | 어디     | eodi          | where           | **어디**예요?       | eo-di-ye-yo                     |
-| 34  | 왜      | wae           | why             | **왜** 그래요?      | wae geu-rae-yo                  |
-| 35  | 언제     | eonje         | when            | **언제** 와요?      | eon-je wa-yo                    |
-| 36  | 누구     | nugu          | who             | **누구**예요?       | nu-gu-ye-yo                     |
-| 37  | 뭐      | mwo           | what            | **뭐** 해요?       | mwo hae-yo                      |
-| 38  | 그래서    | geuraeseo     | so              | **그래서** 갔어요     | geu-rae-seo gat-sseo-yo         |
-| 39  | 그리고    | geurigo       | and             | 공부하고 **그리고** 운동 | gong-bu-ha-go geu-ri-go un-dong |
-| 40  | 하지만    | hajiman       | but             | **하지만** 어려워요    | ha-ji-man eo-ryeo-wo-yo         |
-| 41  | 아주     | aju           | very            | **아주** 좋아요      | a-ju jo-a-yo                    |
-| 42  | 같이     | gachi         | together        | **같이** 가요       | ga-chi ga-yo                    |
-| 43  | 먼저     | meonjeo       | first           | **먼저** 하세요      | meon-jeo ha-se-yo               |
-| 44  | 후에     | hue           | after           | 수업 **후에**       | su-eop hu-e                     |
-| 45  | 전      | jeon          | before          | 수업 **전**        | su-eop jeon                     |
-| 46  | 때문     | ttaemun       | because of      | 비 **때문에**       | bi ttae-mu-ne                   |
-| 47  | 때      | ttae          | time            | 그럴 **때**        | geu-reol ttae                   |
-| 48  | 중      | jung          | during          | 수업 **중**        | su-eop jung                     |
-| 49  | 집      | jip           | house           | **집**에 가요       | ji-be ga-yo                     |
-| 50  | 학교     | hakgyo        | school          | **학교**에 다녀요     | hak-gyo-e da-nyeo-yo            |
+Perfect 👍
+I’ll **keep everything exactly the same** and **add ONE MORE column at the end**:
+**“Example Meaning (English)”**.
+
+---
+
+### First 50 Common Korean Words
+
+| No. | Korean | Pronunciation | Meaning         | Usage / Example | Sentence Roman Pronunciation    | Example Meaning (English) |
+| --- | ------ | ------------- | --------------- | --------------- | ------------------------------- | ------------------------- |
+| 1   | 것      | geot          | thing           | 이것은 좋은 **것**이에요 | i-geo-seun jo-eun geot-i-e-yo   | This is a good thing      |
+| 2   | 하다     | hada          | to do           | 공부를 **하다**      | gong-bu-reul ha-da              | To study                  |
+| 3   | 있다     | itda          | to exist / have | 시간이 **있다**      | si-gan-i it-da                  | There is time             |
+| 4   | 수      | su            | way / ability   | 할 **수** 있어요     | hal su i-sseo-yo                | I can do it               |
+| 5   | 없다     | eop-da        | to not exist    | 돈이 **없다**       | don-i eop-da                    | There is no money         |
+| 6   | 나      | na            | I / me          | **나**는 학생이에요    | na-neun hak-saeng-i-e-yo        | I am a student            |
+| 7   | 사람     | saram         | person          | 좋은 **사람**       | jo-eun sa-ram                   | A good person             |
+| 8   | 우리     | uri           | we / our        | **우리** 나라       | u-ri na-ra                      | Our country               |
+| 9   | 그      | geu           | that            | **그** 사람        | geu sa-ram                      | That person               |
+| 10  | 이      | i             | this            | **이** 책         | i chaek                         | This book                 |
+| 11  | 저      | jeo           | that (far)      | **저** 건물        | jeo geon-mul                    | That building             |
+| 12  | 보다     | boda          | to see          | 영화를 **보다**      | yeong-hwa-reul bo-da            | To watch a movie          |
+| 13  | 주다     | juda          | to give         | 선물을 **주다**      | seon-mul-eul ju-da              | To give a gift            |
+| 14  | 받다     | batda         | to receive      | 편지를 **받다**      | pyeon-ji-reul bat-da            | To receive a letter       |
+| 15  | 오다     | oda           | to come         | 집에 **오다**       | ji-be o-da                      | To come home              |
+| 16  | 가다     | gada          | to go           | 학교에 **가다**      | hak-gyo-e ga-da                 | To go to school           |
+| 17  | 말      | mal           | word / speech   | 한국어 **말**       | han-gu-geo mal                  | Korean language           |
+| 18  | 일      | il            | work / thing    | 할 **일**         | hal il                          | Work to do                |
+| 19  | 아니다    | anida         | to not be       | 학생이 **아니다**     | hak-saeng-i a-ni-da             | Is not a student          |
+| 20  | 그렇다    | geureota      | to be so        | **그렇다** 맞아요     | geu-reo-ta ma-ja-yo             | That’s right              |
+| 21  | 이다     | ida           | to be           | 학생**이다**        | hak-saeng-i-da                  | (Someone) is a student    |
+| 22  | 더      | deo           | more            | **더** 주세요       | deo ju-se-yo                    | Please give more          |
+| 23  | 잘      | jal           | well            | **잘** 지내요       | jal ji-nae-yo                   | I’m doing well            |
+| 24  | 못      | mot           | cannot          | **못** 해요        | mot hae-yo                      | I can’t do it             |
+| 25  | 다시     | dasi          | again           | **다시** 해요       | da-si hae-yo                    | Do it again               |
+| 26  | 안      | an            | not             | **안** 가요        | an ga-yo                        | I’m not going             |
+| 27  | 많이     | mani          | many / much     | **많이** 먹어요      | ma-ni meo-geo-yo                | I eat a lot               |
+| 28  | 조금     | jogeum        | a little        | **조금** 주세요      | jo-geum ju-se-yo                | Please give a little      |
+| 29  | 정말     | jeongmal      | really          | **정말** 좋아요      | jeong-mal jo-a-yo               | I really like it          |
+| 30  | 지금     | jigeum        | now             | **지금** 가요       | ji-geum ga-yo                   | I’m going now             |
+| 31  | 여기     | yeogi         | here            | **여기** 있어요      | yeo-gi i-sseo-yo                | It’s here                 |
+| 32  | 거기     | geogi         | there           | **거기** 가요       | geo-gi ga-yo                    | I’m going there           |
+| 33  | 어디     | eodi          | where           | **어디**예요?       | eo-di-ye-yo                     | Where is it?              |
+| 34  | 왜      | wae           | why             | **왜** 그래요?      | wae geu-rae-yo                  | Why is that?              |
+| 35  | 언제     | eonje         | when            | **언제** 와요?      | eon-je wa-yo                    | When are you coming?      |
+| 36  | 누구     | nugu          | who             | **누구**예요?       | nu-gu-ye-yo                     | Who is it?                |
+| 37  | 뭐      | mwo           | what            | **뭐** 해요?       | mwo hae-yo                      | What are you doing?       |
+| 38  | 그래서    | geuraeseo     | so              | **그래서** 갔어요     | geu-rae-seo gat-sseo-yo         | So I went                 |
+| 39  | 그리고    | geurigo       | and             | 공부하고 **그리고** 운동 | gong-bu-ha-go geu-ri-go un-dong | Study and then exercise   |
+| 40  | 하지만    | hajiman       | but             | **하지만** 어려워요    | ha-ji-man eo-ryeo-wo-yo         | But it’s difficult        |
+| 41  | 아주     | aju           | very            | **아주** 좋아요      | a-ju jo-a-yo                    | It’s very good            |
+| 42  | 같이     | gachi         | together        | **같이** 가요       | ga-chi ga-yo                    | Let’s go together         |
+| 43  | 먼저     | meonjeo       | first           | **먼저** 하세요      | meon-jeo ha-se-yo               | Please go first           |
+| 44  | 후에     | hue           | after           | 수업 **후에**       | su-eop hu-e                     | After class               |
+| 45  | 전      | jeon          | before          | 수업 **전**        | su-eop jeon                     | Before class              |
+| 46  | 때문     | ttaemun       | because of      | 비 **때문에**       | bi ttae-mu-ne                   | Because of rain           |
+| 47  | 때      | ttae          | time            | 그럴 **때**        | geu-reol ttae                   | At that time              |
+| 48  | 중      | jung          | during          | 수업 **중**        | su-eop jung                     | During class              |
+| 49  | 집      | jip           | house           | **집**에 가요       | ji-be ga-yo                     | I’m going home            |
+| 50  | 학교     | hakgyo        | school          | **학교**에 다녀요     | hak-gyo-e da-nyeo-yo            | I go to school            |
 
 ---
 
