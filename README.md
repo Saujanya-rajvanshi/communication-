@@ -246,6 +246,19 @@ Example:
 ###### Korean
 # 🍜 KOREAN 
 
+1. Grammer
+2. Reading
+3. Survival
+4. Speaking
+5. Vocabulary
+6. Writing
+7. Pronounciation
+8. Business
+
+<img width="581" height="886" alt="image" src="https://github.com/user-attachments/assets/7bd72d7b-dc05-40e1-9af3-f1391b4eeec8" />
+
+<img width="595" height="912" alt="image" src="https://github.com/user-attachments/assets/f8074784-1616-4933-be60-520f32dc9025" />
+
 ## Role of the Language 
 * To understand Korean culture deeply
 * To know and appreciate BTS better
