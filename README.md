@@ -246,14 +246,14 @@ Example:
 ###### Korean
 # 🍜 KOREAN 
 
-1. Grammer
-2. Reading
-3. Survival
-4. Speaking
-5. Vocabulary
-6. Writing
-7. Pronounciation
-8. Business
+- [1. Grammer](#GRAMMER)
+- [2. Reading](READING)
+- [3. Survival](SURVIVAL)
+- [4. Speaking](SPEAKING)
+- [5. Vocabulary](VOCABULARY)
+- [6. Writing](WRITING)
+- [7. Pronounciation](PRONOUNCIATION)
+- [8. Business](BSINESS)
 
 ## Role of the Language 
 * To understand Korean culture deeply
