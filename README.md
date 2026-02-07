@@ -255,47 +255,19 @@ Example:
 7. Pronounciation
 8. Business
 
-<img width="581" height="886" alt="image" src="https://github.com/user-attachments/assets/7bd72d7b-dc05-40e1-9af3-f1391b4eeec8" />
-
-# GRAMMER 
-
-<img width="1580" height="387" alt="image" src="https://github.com/user-attachments/assets/4142b600-410f-4ac8-9207-4dd8bcc6297f" />
-
-# READING 
-
-<img width="1047" height="260" alt="image" src="https://github.com/user-attachments/assets/9a107f59-315a-419f-8411-e3be25b96695" />
-
-# SURVIVAL
-
-<img width="1579" height="354" alt="image" src="https://github.com/user-attachments/assets/53b46628-72c5-4a0a-a04a-477602665810" />
-
-# SPEAKING
-
-<img width="1578" height="634" alt="image" src="https://github.com/user-attachments/assets/762bebcd-e020-4a15-b01a-a1c3dd00ee54" />
-
-# VOCABULARY
-
-<img width="1437" height="909" alt="image" src="https://github.com/user-attachments/assets/4a519d8e-4286-4140-9324-d5b2097226f0" />
-
-# WRITING 
-
-<img width="1603" height="396" alt="image" src="https://github.com/user-attachments/assets/95632b90-ddc0-461b-b3c3-d70891c146c8" />
-
-# PRONOUNCIATION
-
-<img width="1602" height="266" alt="image" src="https://github.com/user-attachments/assets/3ef34ffd-99e0-4b6c-85e7-0c8ceda941ba" />
-
-# BUSINESS
-
-<img width="1605" height="265" alt="image" src="https://github.com/user-attachments/assets/7484ffac-25e2-4060-bed4-ebc09ffd54d7" />
-
-
 ## Role of the Language 
 * To understand Korean culture deeply
 * To know and appreciate BTS better
 * To improve career opportunities and get jobs in Korea
 * To see korean content
 - [Topik Exam](#TOPIK)
+
+
+<img width="581" height="886" alt="image" src="https://github.com/user-attachments/assets/7bd72d7b-dc05-40e1-9af3-f1391b4eeec8" />
+
+# GRAMMER 
+
+<img width="1580" height="387" alt="image" src="https://github.com/user-attachments/assets/4142b600-410f-4ac8-9207-4dd8bcc6297f" />
 
 ## hangul (한글)
 ㄱ ㄴ ㄷ ㄹ ㅁ ㅂ ㅅ ㅇ ㅈ ㅊ ㅋ ㅌ ㅍ ㅎ <br>
@@ -390,22 +362,38 @@ Example:
 
 #### 🧠 Hangul letters **combine into blocks**, e.g.
 ㄱ + ㅏ = 가 <br>
-ㅎ + ㅏ + ㄴ = 한 <br>
+ㅎ + ㅏ + ㄴ = 한 <br
+
+# READING 
+
+<img width="1047" height="260" alt="image" src="https://github.com/user-attachments/assets/9a107f59-315a-419f-8411-e3be25b96695" />
+
+# SURVIVAL
+
+<img width="1579" height="354" alt="image" src="https://github.com/user-attachments/assets/53b46628-72c5-4a0a-a04a-477602665810" />
+
+# SPEAKING
+
+<img width="1578" height="634" alt="image" src="https://github.com/user-attachments/assets/762bebcd-e020-4a15-b01a-a1c3dd00ee54" />
+
+# VOCABULARY
+
+<img width="1437" height="909" alt="image" src="https://github.com/user-attachments/assets/4a519d8e-4286-4140-9324-d5b2097226f0" />
+
+# WRITING 
+
+<img width="1603" height="396" alt="image" src="https://github.com/user-attachments/assets/95632b90-ddc0-461b-b3c3-d70891c146c8" />
+
+# PRONOUNCIATION
+
+<img width="1602" height="266" alt="image" src="https://github.com/user-attachments/assets/3ef34ffd-99e0-4b6c-85e7-0c8ceda941ba" />
+
+# BUSINESS
+
+<img width="1605" height="265" alt="image" src="https://github.com/user-attachments/assets/7484ffac-25e2-4060-bed4-ebc09ffd54d7" />
 
 
 
-### Learn Sounds & Pronunciation
-4. **Memorize Survival Sentences**
-5. **Understand Sentence Structure**
-6. **Start Daily Listening Practice**
-7. **Build Vocabulary in Context**
-8. **Learn Grammar Gradually**
-9. **Speak Early and Imperfectly**
-10. **Develop Structured Explanation Skills**
-11. **Introduce Reading and Writing**
-12. **Learn Cultural & Usage Context**
-13. **Get Feedback and Self-Correct**
-14. **Maintain Consistency and Review Progress**
 
 
 
