@@ -376,7 +376,8 @@ Example:
 
 <img width="532" height="181" alt="image" src="https://github.com/user-attachments/assets/17be1aa6-cc6b-4ca3-b0a8-3d65c8c644f4" />
 
-<img width="532" height="261" alt="image" src="https://github.com/user-attachments/assets/be153203-a63a-47d5-b7ed-970dc9049ffa" />
+<br>
+<img width="502" height="261" alt="image" src="https://github.com/user-attachments/assets/be153203-a63a-47d5-b7ed-970dc9049ffa" />
 
 - [topik previous year paper](https://www.topikguide.com/previous-papers/)
 - [topik mock test](https://www.topikguide.com/topik-mock-tests/)
