@@ -269,7 +269,7 @@ Example:
 
 <img width="1580" height="387" alt="image" src="https://github.com/user-attachments/assets/4142b600-410f-4ac8-9207-4dd8bcc6297f" />
 
-## hangul (한글)
+## Hangul (한글)
 ㄱ ㄴ ㄷ ㄹ ㅁ ㅂ ㅅ ㅇ ㅈ ㅊ ㅋ ㅌ ㅍ ㅎ <br>
 ㅏ ㅑ ㅓ ㅕ ㅗ ㅛ ㅜ ㅠ ㅡ ㅣ <br>
 ㅐ ㅒ ㅔ ㅖ <br>
