@@ -259,7 +259,7 @@ Example:
 
 # GRAMMER 
 
-<img width="1047" height="260" alt="image" src="https://github.com/user-attachments/assets/6470d92e-85d3-4be7-b5b5-b93983b354d9" />
+<img width="1051" height="257" alt="image" src="https://github.com/user-attachments/assets/e9525873-1bed-4d20-aae1-e2b7afbc9893" />
 
 # READING 
 
