@@ -246,7 +246,7 @@ Example:
 ###### Korean
 # 🍜 KOREAN 
 
-- [1. Grammer](#GRAMMER)
+- [1. Grammar](#GRAMMAR)
 - [2. Reading](READING)
 - [3. Survival](SURVIVAL)
 - [4. Speaking](SPEAKING)
@@ -265,7 +265,7 @@ Example:
 
 <img width="581" height="886" alt="image" src="https://github.com/user-attachments/assets/7bd72d7b-dc05-40e1-9af3-f1391b4eeec8" />
 
-# GRAMMER 
+# GRAMMAR 
 
 <img width="1580" height="387" alt="image" src="https://github.com/user-attachments/assets/4142b600-410f-4ac8-9207-4dd8bcc6297f" />
 
