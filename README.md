@@ -569,296 +569,349 @@ Example:
 | 58  | 잘            | jal             | well                | **잘** 했어        | jal haesseo                   | you did well                    |
 | 59  | 그녀           | geu-nyeo        | she                 | **그녀**는 학생이에요   | geu-nyeoneun hak-saeng­i-e-yo | she is a student                |
 | 60  | 먹다           | meokda          | to eat              | 밥을 **먹다**       | bap-eul meokda                | eat rice                        |
-| 61  | 자신           | jas-in          | oneself             | **자신** 있어요      | jas-in isseoyo                | I’m confident                   |
-| 62  | 문화           | munhwa          | culture             | 한국 **문화**       | han-guk munhwa                | Korean culture                  |
-| 63  | 원            | won             | Korean currency     | 천 **원**         | cheon won                     | 1000 won                        |
-| 64  | 생각           | saeng-gak       | thought             | **생각** 해요       | saeng-gak haeyo               | think                           |
-| 65  | 어떻다          | eotteotda       | how, what           | **어떻다** 생각해요?   | eotteotda saeng-gakhaeyo?     | what do you think?              |
-| 66  | 명            | myeong          | person counter      | 다섯 **명**        | da-seot myeong                | five people                     |
-| 67  | 통하다          | tonghada        | to flow, go through | 길이 **통하다**      | gil-i tonghada                | road goes through               |
-| 68  | 그러나          | geureona        | however             | **그러나**, ...    | geureona, ...                 | however, ...                    |
-| 69  | 소리           | sori            | sound               | **소리** 들려요      | sori deullyeoyo               | I hear the sound                |
-| 70  | 다시           | dashi           | again               | **다시** 해요       | dashi haeyo                   | do it again                     |
-| 71  | 다른           | dareun          | different           | **다른** 사람       | dareun saram                  | different person                |
-| 72  | 이런           | ireon           | such                | **이런** 책        | ireon chaek                   | a book like this                |
-| 73  | 여자           | yeo-ja          | woman               | **여자** 친구       | yeo-ja chin-gu                | girlfriend                      |
-| 74  | 개            | gae             | counter (items)     | 두 **개**         | du gae                        | two items                       |
-| 75  | 정도           | jeongdo         | degree, amount      | 조금 **정도**       | jogeum jeongdo                | about a little                  |
-| 76  | 다            | da              | all, everything     | **다** 좋아요       | da jo-ayo                     | everything is good              |
-| 77  | 좀            | jom             | a little            | **좀** 주세요       | jom ju-seyo                   | give a little, please           |
-| 78  | 싶다           | sipda           | to want             | 먹고 **싶다**       | meok-go sipda                 | want to eat                     |
-| 79  | 보이다          | boida           | to be seen          | 잘 **보여요**       | jal bo-yeoyo                  | can see well                    |
-| 80  | 가지다          | gajida          | to have             | 돈을 **가지다**      | don-eul gajida                | have money                      |
-| 81  | 함께           | hamkke          | together            | **함께** 가요       | hamkke gayo                   | let’s go together               |
-| 82  | 아이           | ai              | child               | **아이**가 놀아요     | ai-ga nol-ayo                 | child plays                     |
-| 83  | 지나다          | jinada          | to pass             | 시간이 **지나다**     | sigan-i jinada                | time passes                     |
-| 84  | 많이           | mani            | a lot               | **많이** 먹어요      | mani meok-eoyo                | eat a lot                       |
-| 85  | 시간           | sigan           | time                | **시간** 있어요?     | sigan isseoyo?                | do you have time?               |
-| 86  | 너            | neo             | you                 | **너** 뭐 해?      | neo mwo hae?                  | what are you doing?             |
-| 87  | 인간           | in-gan          | human               | **인간** 관계       | in-gan gwan-gye               | human relationship              |
-| 88  | 사실           | sa-sil          | fact, truth         | **사실**, ...     | sa-sil, ...                   | actually, ...                   |
-| 89  | 나다           | nada            | to be born          | 웃음이 **나다**      | us-eum-i nada                 | laughter comes out              |
-| 90  | 이렇다          | ireotda         | like this           | **이렇다** 생각해요    | ireotda saeng-gakhaeyo        | think like this                 |
-| 91  | 어머니          | eo-meo-ni       | mom                 | **어머니** 집       | eo-meo-ni jip                 | mom’s house                     |
-| 92  | 눈            | nun             | eye / snow          | **눈**이 와요       | nun-i wayo                    | snow is coming / eyes (context) |
-| 93  | 뭐            | mwo             | what / something    | **뭐** 해요?       | mwo haeyo?                    | what are you doing?             |
-| 94  | 점            | jeom            | store / point       | 커피 **점**        | keo-pi jeom                   | coffee shop                     |
-| 95  | 의하다          | ui-hada         | due to              | 비 **의하다**       | bi ui-hada                    | due to rain                     |
-| 96  | 시대           | si-dae          | era, period         | 현대 **시대**       | hyeon-dae si-dae              | modern era                      |
-| 97  | 다음           | da-eum          | next                | **다음** 시간       | da-eum sigan                  | next time                       |
-| 98  | 이러하다         | ireohada        | be like this        | 상황이 **이러하다**    | sanghwang-i ireohada          | situation is like this          |
-| 99  | 누구           | nugu            | who                 | **누구**예요?       | nugu-yeoyo?                   | who is it?                      |
-| 100 | 곳            | got             | place               | 좋은 **곳**        | jo-eun got                    | good place                      |
-| 101 | 여러           | yeo-reo         | many, various       | **여러** 사람       | yeo-reo saram                 | many people                     |
-| 102 | 안            | an              | inside              | 상자 **안**        | sang-ja an                    | inside the box                  |
-| 103 | 하나           | hana            | one                 | **하나** 주세요      | hana juseyo                   | please give one                 |
-| 104 | 세계           | se-gye          | world               | **세계** 문화       | se-gye munhwa                 | world culture                   |
-| 105 | 버리다          | beo-ri-da       | to throw away       | 쓰레기 **버리다**     | sseu-re-gi beo-ri-da          | throw away trash                |
-| 106 | 위            | wi              | above               | 책 **위**         | chaek wi                      | on top of the book              |
-| 107 | 운동           | un-dong         | exercise, movement  | **운동** 해요       | un-dong haeyo                 | do exercise                     |
-| 108 | 퍼센트          | peo-sen-teu     | percent             | 50 **퍼센트**      | o-sip peo-sen-teu             | 50 percent                      |
-| 109 | 학교           | hak-kyo         | school              | **학교** 가요       | hak-kyo gayo                  | go to school                    |
-| 110 | 자기           | ja-gi           | oneself             | **자기** 소개       | ja-gi so-gae                  | self-introduction               |
-| 111 | 가장           | ga-jang         | most                | **가장** 좋아요      | ga-jang joayo                 | like most                       |
-| 112 | 대통령          | dae-tong-ryeong | president           | **대통령** 선거      | dae-tong-ryeong seon-geo      | presidential election           |
-| 113 | 가지           | ga-ji           | type, kind          | 이런 **가지**       | ireon ga-ji                   | this kind                       |
-| 114 | 시작하다         | si-jak-ha-da    | to start            | 공부 **시작하다**     | gong-bu si-jak-ha-da          | start studying                  |
-| 115 | 바로           | ba-ro           | right, immediately  | **바로** 여기       | ba-ro yeo-gi                  | right here                      |
-| 116 | 어느           | eo-neu          | a certain           | **어느** 날        | eo-neu nal                    | one day                         |
-| 117 | 그래서          | geu-rae-seo     | so, therefore       | **그래서** …       | geu-rae-seo …                 | so …                            |
-| 118 | 무엇           | mueot           | what (formal)       | **무엇** 해요?      | mueot haeyo?                  | what are you doing?             |
-| 119 | 정부           | jeong-bu        | government          | **정부** 정책       | jeong-bu jeok-chaek           | government policy               |
-| 120 | 모든           | mo­deun         | every, all          | **모든** 사람       | mo­deun saram                 | everyone                        |
-| 121 | 번            | beon            | number / times      | 두 **번**         | du beon                       | two times                       |
-| 122 | 그거           | geu-geo         | that thing          | **그거** 뭐예요?     | geu-geo mwo-yeoyo?            | what is that?                   |
-| 123 | 돈            | don             | money               | **돈** 필요해요      | don pil-yo-haeyo              | I need money                    |
-| 124 | 국가           | guk-ga          | nation              | **국가** 대표       | guk-ga dae-pyo                | national representative         |
-| 125 | 그런데          | geu-reon-de     | but, however        | **그런데** …       | geu-reon-de …                 | but …                           |
-| 126 | 날            | nal             | day                 | 좋은 **날**        | jo-eun nal                    | good day                        |
-| 127 | 여기           | yeo-gi          | here                | **여기** 있어요      | yeo-gi isseoyo                | it’s here                       |
-| 128 | 모두           | mo-du           | everyone            | **모두** 와요       | mo-du wayo                    | everyone comes                  |
-| 129 | 여성           | yeo-seong       | female              | **여성** 운동       | yeo-seong un-dong             | women’s movement                |
-| 130 | 여성     | yeo-seong     | female            | **여성** 운동       | yeo-seong un-dong          | women’s movement          |
-| 131 | 친구     | chin-gu       | friend            | **친구** 만나요      | chin-gu man-na-yo          | meet a friend             |
-| 132 | 마음     | ma-eum        | heart, mind       | **마음** 좋아요      | ma-eum jo-a-yo             | mind/heart feels good     |
-| 133 | 후      | hu            | after             | 점심 **후**        | jeom-shim hu               | after lunch               |
-| 134 | 놓다     | not-ta        | to put, place     | 책을 **놓다**       | chaek-eul not-ta           | put the book down         |
-| 135 | 관계     | gwan-gye      | relationship      | **관계** 중요해요     | gwan-gye jung-yo-hae-yo    | relationship is important |
-| 136 | 아버지    | a-beo-ji      | father            | **아버지** 집       | a-beo-ji jip               | father’s house            |
-| 137 | 남자     | nam-ja        | man               | **남자** 친구       | nam-ja chin-gu             | boyfriend                 |
-| 138 | 어디     | eo-di         | where             | **어디** 가요?      | eo-di ga-yo?               | where are you going?      |
-| 139 | 몸      | mom           | body              | **몸** 아파요       | mom a-pa-yo                | my body hurts             |
-| 140 | 얼굴     | eo-geul       | face              | **얼굴** 보여요      | eo-geul bo-yeo-yo          | I can see the face        |
-| 141 | 왜      | wae           | why               | **왜** 그래요?      | wae geu-ra-yo?             | why is it like that?      |
-| 142 | 나타나다   | na-ta-na-da   | to appear         | 갑자기 **나타나다**    | gap-ja-gi na-ta-na-da      | suddenly appear           |
-| 143 | 지역     | ji-yeok       | region, area      | **지역** 사람       | ji-yeok sa-ram             | local person              |
-| 144 | 다르다    | da-reu-da     | to be different   | **다르다** 생각해요    | da-reu-da saeng-gak-hae-yo | think it’s different      |
-| 145 | 모습     | mo-seup       | shape, appearance | **모습** 보여요      | mo-seup bo-yeo-yo          | I see the appearance      |
-| 146 | 물      | mul           | water             | **물** 마셔요       | mul ma-syeo-yo             | drink water               |
-| 147 | 만나다    | man-na-da     | to meet           | 친구를 **만나다**     | chin-gu-reul man-na-da     | meet a friend             |
-| 148 | 내다     | nae-da        | to pay / give out | 돈을 **내다**       | don-eul nae-da             | pay money                 |
-| 149 | 보이다    | bo-i-da       | to be seen / show | 잘 **보인다**       | jal bo-in-da               | is visible clearly        |
-| 150 | 쓰다     | sseu-da       | to write / use    | 편지 **쓰다**       | pyeon-ji sseu-da           | write a letter            |
-| 151 | 이것     | i-geot         | this thing              | **이것** 주세요      | i-geot ju-se-yo             | Give me this               |
-| 152 | 없이     | eop-shi        | without                 | 돈 **없이** 가요     | don eop-shi ga-yo           | go without money           |
-| 153 | 이번     | i-beon         | this time               | **이번** 시험       | i-beon si-heom              | this exam                  |
-| 154 | 길      | gil            | road                    | **길** 가요        | gil ga-yo                   | go on the road             |
-| 155 | 생활     | saeng-hwal     | life / lifestyle        | **생활** 좋아요      | saeng-hwal jo-a-yo          | life is good               |
-| 156 | 쓰다     | sseu-da        | to take (medicine)      | 약을 **쓰다**       | yak-eul sseu-da             | take medicine              |
-| 157 | 뿐      | ppun           | only                    | 나 **뿐**         | na ppun                     | just me                    |
-| 158 | 사이     | sa-i           | between / relationship  | 친구 **사이** 좋아요   | chin-gu sa-i jo-a-yo        | friendship is good         |
-| 159 | 방법     | bang-beop      | method                  | 좋은 **방법** 있어요?  | jo-eun bang-beop i-sseo-yo? | Do you have a good method? |
-| 160 | 새롭다    | sae-rop-da     | to be new               | **새롭다** 느껴요     | sae-rop-da neu-gyeo-yo      | feels new                  |
-| 161 | 내다     | nae-da         | to see through / finish | 숙제 **내다**       | suk-je nae-da               | finish homework            |
-| 162 | 앉다     | an-da          | to sit                  | 의자에 **앉다**      | ui-ja-e an-da               | sit in the chair           |
-| 163 | 처음     | cheo-eum       | first                   | **처음** 시작       | cheo-eum si-jak             | first start                |
-| 164 | 손      | son            | hand                    | **손** 씻어요       | son si-sseo-yo              | wash hands                 |
-| 165 | 몇      | myeot          | how many / a few        | **몇** 개 있어요?    | myeot gae i-sseo-yo?        | how many are there?        |
-| 166 | 그때     | geu-ttae       | then / at that time     | **그때** 말했어요     | geu-ttae mal-haet-seo-yo    | I said it then             |
-| 167 | 과정     | gwa-jeong      | process                 | 공부 **과정**       | gong-bu gwa-jeong           | study process              |
-| 168 | 삶      | salm           | life                    | **삶** 중요해요      | salm jung-yo-hae-yo         | life is important          |
-| 169 | 갖다     | gat-da         | to hold / have          | 물건 **갖다**       | mul-geon gat-da             | hold the object            |
-| 170 | 찾다     | chat-da        | to find / look for      | 책 **찾다**        | chaek chat-da               | find the book              |
-| 171 | 특히     | teuk-hi        | especially              | **특히** 좋아요      | teuk-hi jo-a-yo             | especially good            |
-| 172 | 시      | si             | time / city (context)   | **시** 시작        | si si-jak                   | start time                 |
-| 173 | 이상     | i-sang         | more than               | 10개 **이상**      | sib-gae i-sang              | more than 10               |
-| 174 | 지금     | ji-geum        | now                     | **지금** 가요       | ji-geum ga-yo               | going now                  |
-| 175 | 나가다    | na-ga-da       | to go out               | 집에서 **나가다**     | jip-e-seo na-ga-da          | go out of the house        |
-| 176 | 이야기    | i-ya­gi        | story / conversation    | 좋은 **이야기**      | jo-eun i-ya-gi              | good story                 |
-| 177 | 교육     | gyo-yuk        | education               | **교육** 중요해요     | gyo-yuk jung-yo-hae-yo      | education is important     |
-| 178 | 사다     | sa-da          | to buy                  | 빵 **사다**        | bbang sa-da                 | buy bread                  |
-| 179 | 경제     | gyeong-je      | economy                 | **경제** 뉴스       | gyeong-je nyu-seu           | economy news               |
-| 180 | 아직     | a-jik          | still                   | **아직** 안했어요     | a-jik an-haet-seo-yo        | still not done             |
-| 181 | 잡다     | jap-da         | to grab / catch         | 공 **잡다**        | gong jap-da                 | catch the ball             |
-| 182 | 같이     | ga-chi         | together                | **같이** 가요       | ga-chi ga-yo                | let’s go together          |
-| 183 | 선생님    | seon-saeng-nim | teacher                 | **선생님** 왔어요     | seon-saeng-nim wat-seo-yo   | the teacher came           |
-| 184 | 예술     | ye-sul         | art                     | **예술** 좋아요      | ye-sul jo-a-yo              | I like art                 |
-| 185 | 서다     | seo-da         | to stand                | **서다** 있어요      | seo-da i-sseo-yo            | I am standing              |
-| 186 | 못      | mot            | not (cannot)            | **못** 해요        | mot hae-yo                  | I can’t do it              |
-| 187 | 역사     | yeok-sa        | history                 | **역사** 공부       | yeok-sa gong-bu             | study history              |
-| 188 | 읽다     | ilk-da         | to read                 | 책 **읽다**        | chaek ilk-da                | read a book                |
-| 189 | 결과     | gyeol-gwa      | result                  | 시험 **결과**       | si-heom gyeol-gwa           | exam result                |
-| 190 | 내용     | nae-yong       | contents                | 글 **내용**        | geul nae-yong               | content of writing         |
-| 191 | 물론     | mul-lon        | of course               | **물론** 그래요      | mul-lon geu-ra-yo           | of course                  |
-| 192 | 책      | chaek          | book                    | **책** 읽어요       | chaek ilk-eo-yo             | read a book                |
-| 193 | 일어나다   | i-re-o­na-da   | to get up               | 아침에 **일어나다**    | a-chim-e i-re-o­na-da       | get up in the morning      |
-| 194 | 당신     | dang-sin       | you (formal)            | **당신** 뭐해요?     | dang-sin mwo-hae-yo?        | what are you doing?        |
-| 195 | 시장     | si-jang        | market                  | **시장** 가요       | si-jang ga-yo               | go to market               |
-| 196 | 넣다     | neo-ta         | to put in               | 상자에 **넣다**      | sang-ja-e neo-ta            | put in the box             |
-| 197 | 중요하다   | jung-yo-ha-da  | to be important         | 공부 **중요하다**     | gong-bu jung-yo-ha-da       | studying is important      |
-| 198 | 무슨     | mu-seun        | what / which            | **무슨** 책?       | mu-seun chaek?              | which book?                |
-| 199 | 느끼다    | neu-kki-da     | to feel                 | 사랑 **느끼다**      | sa-rang neu-kki-da          | feel love                  |
-| 200 | 어렵다    | eo-ryeop-da    | to be difficult         | 한국어 **어렵다**     | han-guk-eo eo-ryeop-da      | Korean is difficult        |
-| 201 | 아직     | a-jik         | still / yet      | **아직** 안 와요     | a-jik an wa-yo               | It hasn’t come yet        |
-| 202 | 이유     | i-yu          | reason           | 이유가 있어요         | i-yu-ga i-sseo-yo            | There is a reason         |
-| 203 | 그래서    | geu-rae-seo   | so / therefore   | 그래서 갔어요         | geu-rae-seo ga-sseo-yo       | So I went                 |
-| 204 | 문제     | mun-je        | problem          | 문제 있어요          | mun-je i-sseo-yo             | There is a problem        |
-| 205 | 경우     | gyeong-u      | case / situation | 이 **경우**        | i gyeong-u                   | In this case              |
-| 206 | 그리고    | geu-ri-go     | and              | 밥 먹고 **그리고** 가요 | bap meok-go geu-ri-go ga-yo  | Eat and then go           |
-| 207 | 그러나    | geu-reo-na    | but / however    | 그러나 힘들어요        | geu-reo-na him-deul-eo-yo    | But it’s hard             |
-| 208 | 사용하다   | sa-yong-ha-da | to use           | 핸드폰 사용해요        | haen-deu-pon sa-yong-hae-yo  | I use a phone             |
-| 209 | 때문     | ttae-mun      | because of       | 비 **때문**이에요     | bi ttae-mun-i-e-yo           | Because of rain           |
-| 210 | 결과     | gyeol-gwa     | result           | 좋은 결과           | jo-eun gyeol-gwa             | Good result               |
-| 211 | 시작     | si-jak        | start            | 수업 시작           | su-eop si-jak                | Class starts              |
-| 212 | 마지막    | ma-ji-mak     | last             | 마지막 날           | ma-ji-mak nal                | Last day                  |
-| 213 | 지금     | ji-geum       | now              | 지금 가요           | ji-geum ga-yo                | Go now                    |
-| 214 | 동안     | dong-an       | during / for     | 일주일 동안          | il-ju-il dong-an             | For one week              |
-| 215 | 이야기    | i-ya-gi       | story / talk     | 이야기 해요          | i-ya-gi hae-yo               | Talk / tell a story       |
-| 216 | 학생     | hak-saeng     | student          | 학생이에요           | hak-saeng-i-e-yo             | I’m a student             |
-| 217 | 정말     | jeong-mal     | really           | 정말 좋아요          | jeong-mal jo-a-yo            | Really good               |
-| 218 | 필요하다   | pi-ryo-ha-da  | to need          | 돈이 필요해요         | don-i pi-ryo-hae-yo          | I need money              |
-| 219 | 준비     | jun-bi        | preparation      | 시험 준비           | si-heom jun-bi               | Exam preparation          |
-| 220 | 중요하다   | jung-yo-ha-da | important        | 정말 중요해요         | jeong-mal jung-yo-hae-yo     | Very important            |
-| 221 | 방법     | bang-beop     | method           | 좋은 방법           | jo-eun bang-beop             | Good method               |
-| 222 | 계속     | gye-sok       | continuously     | 계속 공부해요         | gye-sok gong-bu-hae-yo       | Keep studying             |
-| 223 | 이상     | i-sang        | 이상 / more than   | 세 개 이상          | se gae i-sang                | More than three           |
-| 224 | 이하     | i-ha          | less than        | 열 명 이하          | yeol myeong i-ha             | Ten or fewer              |
-| 225 | 계획     | gye-hoek      | plan             | 계획 세워요          | gye-hoek se-wo-yo            | Make a plan               |
-| 226 | 경험     | gyeong-heom   | experience       | 좋은 경험           | jo-eun gyeong-heom           | Good experience           |
-| 227 | 느낌     | neu-kkim      | feeling          | 이상한 느낌          | i-sang-han neu-kkim          | Strange feeling           |
-| 228 | 이해하다   | i-hae-ha-da   | to understand    | 이해했어요           | i-hae-hae-sseo-yo            | I understood              |
-| 229 | 설명     | seol-myeong   | explanation      | 설명 주세요          | seol-myeong ju-se-yo         | Please explain            |
-| 230 | 결정     | gyeol-jeong   | decision         | 결정했어요           | gyeol-jeong-hae-sseo-yo      | I decided                 |
-| 231 | 행동     | haeng-dong    | action           | 행동 조심해요         | haeng-dong jo-sim-hae-yo     | Be careful with actions   |
-| 232 | 생각     | saeng-gak     | thought          | 그렇게 생각해요        | geu-reo-ke saeng-gak-hae-yo  | I think so                |
-| 233 | 말하다    | mal-ha-da     | to speak         | 솔직히 말해요         | sol-jik-hi mal-hae-yo        | Speak honestly            |
-| 234 | 일하다    | il-ha-da      | to work          | 회사에서 일해요        | hoe-sa-e-seo il-hae-yo       | I work at a company       |
-| 235 | 배우다    | bae-u-da      | to learn         | 한국어 배워요         | han-gu-geo bae-wo-yo         | Learn Korean              |
-| 236 | 만들다    | man-deul-da   | to make          | 음식 만들어요         | eu-sik man-deu-reo-yo        | Make food                 |
-| 237 | 살다     | sal-da        | to live          | 한국에 살아요         | han-gu-ge sa-ra-yo           | Live in Korea             |
-| 238 | 보내다    | bo-nae-da     | to send / spend  | 메시지 보내요         | me-si-ji bo-nae-yo           | Send a message            |
-| 239 | 받다     | bat-da        | to receive       | 선물 받아요          | seon-mul ba-da-yo            | Receive a gift            |
-| 240 | 찾다     | chat-da       | to find          | 길을 찾아요          | gil-eul cha-ja-yo            | Find the way              |
-| 241 | 들어가다   | deu-reo-ga-da | to enter         | 집에 들어가요         | ji-be deu-reo-ga-yo          | Go inside                 |
-| 242 | 나오다    | na-o-da       | to come out      | 밖에 나와요          | ba-kke na-wa-yo              | Come outside              |
-| 243 | 앉다     | an-da         | to sit           | 여기 앉아요          | yeo-gi an-ja-yo              | Sit here                  |
-| 244 | 서다     | seo-da        | to stand         | 줄에 서요           | ju-re seo-yo                 | Stand in line             |
-| 245 | 기다리다   | gi-da-ri-da   | to wait          | 조금 기다려요         | jo-geum gi-da-ryeo-yo        | Wait a bit                |
-| 246 | 도와주다   | do-wa-ju-da   | to help          | 도와주세요           | do-wa-ju-se-yo               | Please help               |
-| 247 | 필요     | pi-ryo        | need             | 시간 필요           | si-gan pi-ryo                | Need time                 |
-| 248 | 약속     | yak-sok       | promise          | 약속 있어요          | yak-sok i-sseo-yo            | I have an appointment     |
-| 249 | 사실     | sa-sil        | fact             | 사실이에요           | sa-sil-i-e-yo                | It’s true                 |
-| 250 | 상황     | sang-hwang    | situation        | 상황이 나빠요         | sang-hwang-i na-ppa-yo       | The situation is bad      |
-| 251 | 채      | chae          | as it is / status              | 그대로 **채** 두다    | geu-da-ro chae du-da         | leave it as it is         |
-| 252 | 현실     | hyeon-sil     | reality                        | **현실** 직시       | hyeon-sil jik-si             | face reality              |
-| 253 | 환경     | hwan-gyeong   | environment                    | **환경** 보호       | hwan-gyeong bo-ho            | protect the environment   |
-| 254 | 컴퓨터    | com-pyu-teo   | computer                       | 새 **컴퓨터**       | sae com-pyu-teo              | new computer              |
-| 255 | 먼저     | meon-jeo      | first; before                  | **먼저** 가요       | meon-jeo ga-yo               | go first                  |
-| 256 | 다니다    | da­ni-da      | to attend / go regularly       | 학교에 **다니다**     | hak-kyo-e da-ni-da           | attend school             |
-| 257 | 얼마나    | eo-reom-na    | how much                       | **얼마나** 걸려요?    | eo-reom-na geol-lyeo-yo?     | how long does it take?    |
-| 258 | 자체     | ja-che        | itself                         | 그 **자체**        | geu ja-che                   | that itself               |
-| 259 | 열다     | yeol-da       | to open                        | 문을 **열다**       | mun-eul yeol-da              | open the door             |
-| 260 | 머리     | meo-ri        | head                           | **머리** 아파요      | meo-ri a-pa-yo               | my head hurts             |
-| 261 | 묻다     | mut-da        | to ask                         | 질문 **묻다**       | jil-mun mut-da               | ask a question            |
-| 262 | 남다     | nam-da        | to remain                      | 시간이 **남다**      | si-gan-i nam-da              | time remains              |
-| 263 | 부분     | bu-bun        | part / portion                 | 그 **부분**        | geu bu-bun                   | that part                 |
-| 264 | 기업     | gi-eop        | company; business              | 큰 **기업**        | keun gi-eop                  | big company               |
-| 265 | 변화     | byeon-hwa     | change                         | 큰 **변화**        | keun byeon-hwa               | big change                |
-| 266 | 아들     | a-deul        | son                            | **아들** 있어요      | a-deul i-sseoyo              | I have a son              |
-| 267 | 아      | a             | ah (exclamation)               | **아**, 알겠다      | a, al-get-da                 | ah, I understand          |
-| 268 | 선거     | seon-geo      | election                       | **선거** 당일       | seon-geo dang-il             | election day              |
-| 269 | 관하다    | gwan-ha-da    | to be about                    | 책이 역사에 **관하다**  | chaek-i yeok-sa-e gwan-ha-da | the book is about history |
-| 270 | 분      | bun           | minute / person (formal group) | 열 **분** 기다려요    | yeol bun gi-da-ryeo-yo       | wait ten minutes          |
-| 271 | 그냥     | geu-nyang     | just / as is                   | **그냥** 해요       | geu-nyang hae-yo             | just do it                |
-| 272 | 나누다    | na-nu-da      | to divide / share              | 사과 **나누다**      | sa-gwa na-nu-da              | share the apple           |
-| 273 | 이용하다   | i-yong-ha-da  | to use                         | 버스 **이용하다**     | beo-seu i-yong-ha-da         | use the bus               |
-| 274 | 거의     | geo-ui        | almost                         | **거의** 다 했어요    | geo-ui da haess-eo-yo        | I almost finished         |
-| 275 | 곧      | got           | soon                           | **곧** 가요        | got ga-yo                    | go soon                   |
-| 276 | 중심     | jung-sim      | center / core                  | **중심** 잡다       | jung-sim jap-da              | take center / focus       |
-| 277 | 활동     | hwal-dong     | activity                       | 운동 **활동**       | un-dong hwal-dong            | physical activity         |
-| 278 | 오늘     | o-neul        | today                          | **오늘** 뭐해요?     | o-neul mwo-hae-yo?           | what are you doing today? |
-| 279 | 서로     | seo-ro        | each other                     | **서로** 도와요      | seo-ro do-wa-yo              | help each other           |
-| 280 | 관심     | gwan-sim      | interest                       | **관심** 있어요      | gwan-sim i-sseoyo            | I’m interested            |
-| 281 | 역시     | yeok-si       | also / as expected             | **역시** 그렇다      | yeok-si geu-reot-da          | indeed, it’s so           |
-| 282 | 이거     | i-geo         | this thing                     | **이거** 뭐예요?     | i-geo mwo-yeo-yo?            | What is this?             |
-| 283 | 애      | ae            | kid / child                    | **애** 놀다        | ae nol-da                    | kid plays                 |
-| 284 | 광고     | gwan-go       | advertisement                  | **광고** 봐요       | gwan-go bwa-yo               | watch an ad               |
-| 285 | 나오다    | na-o-da       | to come out                    | 물 **나오다**       | mul na-o-da                  | water comes out           |
-| 286 | 방      | bang          | room                           | **방** 청소해요      | bang cheong-so-hae-yo        | clean the room            |
-| 287 | 정신     | jeong-sin     | mind / spirit                  | **정신** 차려요      | jeong-sin cha-ryeo-yo        | get your mind together    |
-| 288 | 이르다    | i-reu-da      | to reach / get to              | 정각에 **이르다**     | jeong-ga-ge i-reu-da         | reach on time             |
-| 289 | 이루다    | i-ru-da       | to achieve / accomplish        | 꿈 **이루다**       | kkum i-ru-da                 | achieve a dream           |
-| 290 | 아침     | a-chim        | morning                        | **아침** 먹어요      | a-chim meok-eo-yo            | eat breakfast             |
-| 291 | 웃다     | ut-da         | to laugh                       | 크게 **웃다**       | keu-ge ut-da                 | laugh loudly              |
-| 292 | 현상     | hyeon-sang    | phenomenon / situation         | 그 **현상**        | geu hyeon-sang               | that situation            |
-| 293 | 기술     | gi-sul        | technique / technology         | 새로운 **기술**      | sae-ro-un gi-sul             | new technology            |
-| 294 | 전체     | jeon-che      | whole / entire                 | **전체** 보기       | jeon-che bo-gi               | see whole                 |
-| 295 | 그래     | geu-rae       | so / that’s right              | **그래** 맞아요      | geu-rae ma-ja-yo             | yes, that’s right         |
-| 296 | 얻다     | eot-da        | to get / obtain                | 선물 **얻다**       | seon-mul eot-da              | get a gift                |
-| 297 | 아름답다   | a-reum-dap-da | to be beautiful                | 꽃 **아름답다**      | kkot a-reum-dap-da           | flowers are beautiful     |
-| 298 | 끝      | kkeut         | end / finish                   | **끝** 나요        | kkeut na-yo                  | it ends                   |
-| 299 | 민족     | min-jok       | ethnic group / people          | 한국 **민족**       | han-guk min-jok              | Korean people             |
-| 300 | 간      | gan           | interval / span                | 잠 **간** 쉬어요     | jam gan swi-eo-yo            | rest for a short time     |
-| 301 | 나라     | na-ra                | country              | 한국 **나라**       | han-guk na-ra                   | Korean country            |
-| 302 | 사람     | sa-ram               | person               | 좋은 사람           | jo-eun sa-ram                   | Good person               |
-| 303 | 사회     | sa-hoe               | society              | 한국 사회           | han-guk sa-hoe                  | Korean society            |
-| 304 | 문제점    | mun-je-jjeom         | problem point        | 문제점 발견          | mun-je-jjeom bal-gyeon          | Find a problem            |
-| 305 | 분야     | bun-ya               | field                | IT 분야           | a-i-ti bun-ya                   | IT field                  |
-| 306 | 관계     | gwan-gye             | relationship         | 인간 관계           | in-gan gwan-gye                 | Human relationships       |
-| 307 | 목적     | mok-jeok             | purpose              | 목적 있어요          | mok-jeok i-sseo-yo              | There is a purpose        |
-| 308 | 과정     | gwa-jeong            | process              | 준비 과정           | jun-bi gwa-jeong                | Preparation process       |
-| 309 | 성격     | seong-gyeok          | personality          | 성격 좋아요          | seong-gyeok jo-a-yo             | Nice personality          |
-| 310 | 성과     | seong-gwa            | result / achievement | 좋은 성과           | jo-eun seong-gwa                | Good achievement          |
-| 311 | 수준     | su-jun               | level                | 높은 수준           | no-peun su-jun                  | High level                |
-| 312 | 능력     | neung-nyeok          | ability              | 능력 있어요          | neung-nyeok i-sseo-yo           | Have ability              |
-| 313 | 태도     | tae-do               | attitude             | 태도 중요해요         | tae-do jung-yo-hae-yo           | Attitude is important     |
-| 314 | 책임     | chae-im              | responsibility       | 책임 져요           | chae-im jyeo-yo                 | Take responsibility       |
-| 315 | 자유     | ja-yu                | freedom              | 자유 필요           | ja-yu pi-ryo                    | Need freedom              |
-| 316 | 평생     | pyeong-saeng         | lifetime             | 평생 기억해요         | pyeong-saeng gi-eok-hae-yo      | Remember for life         |
-| 317 | 안전     | an-jeon              | safety               | 안전 중요           | an-jeon jung-yo                 | Safety is important       |
-| 318 | 위험     | wi-heom              | danger               | 위험해요            | wi-heom-hae-yo                  | It’s dangerous            |
-| 319 | 건강     | geon-gang            | health               | 건강 관리           | geon-gang gwan-ri               | Health care               |
-| 320 | 노력     | no-ryeok             | effort               | 노력 필요           | no-ryeok pi-ryo                 | Effort needed             |
-| 321 | 성공     | seong-gong           | success              | 성공했어요           | seong-gong-hae-sseo-yo          | Succeeded                 |
-| 322 | 실패     | sil-pae              | failure              | 실패했어요           | sil-pae-hae-sseo-yo             | Failed                    |
-| 323 | 선택     | seon-taek            | choice               | 선택해요            | seon-taek-hae-yo                | Choose                    |
-| 324 | 기회     | gi-hoe               | opportunity          | 좋은 기회           | jo-eun gi-hoe                   | Good opportunity          |
-| 325 | 결과적    | gyeol-gwa-jeok       | result-based         | 결과적 판단          | gyeol-gwa-jeok pan-dan          | Result-based judgment     |
-| 326 | 영향     | yeong-hyang          | influence            | 영향 커요           | yeong-hyang keo-yo              | Big influence             |
-| 327 | 기준     | gi-jun               | standard             | 기준 정해요          | gi-jun jeong-hae-yo             | Set a standard            |
-| 328 | 가치     | ga-chi               | value                | 가치 있어요          | ga-chi i-sseo-yo                | Has value                 |
-| 329 | 판단     | pan-dan              | judgment             | 판단 필요           | pan-dan pi-ryo                  | Need judgment             |
-| 330 | 입장     | ip-jang              | position / stance    | 입장 차이           | ip-jang cha-i                   | Difference in stance      |
-| 331 | 주장     | ju-jang              | 주장 / insist          | 의견 주장           | ui-gyeon ju-jang                | Insist opinion            |
-| 332 | 해결     | hae-gyeol            | solution             | 문제 해결           | mun-je hae-gyeol                | Solve problem             |
-| 333 | 토론     | to-ron               | discussion           | 토론 수업           | to-ron su-eop                   | Discussion class          |
-| 334 | 의견     | ui-gyeon             | opinion              | 제 의견            | je ui-gyeon                     | My opinion                |
-| 335 | 사실상    | sa-sil-sang          | practically          | 사실상 끝           | sa-sil-sang kkeut               | Practically over          |
-| 336 | 결과적으로  | gyeol-gwa-jeok-eu-ro | as a result          | 결과적으로 성공        | gyeol-gwa-jeok-eu-ro seong-gong | Succeeded as a result     |
-| 337 | 개인     | gae-in               | individual           | 개인 정보           | gae-in jeong-bo                 | Personal info             |
-| 338 | 공공     | gong-gong            | public               | 공공 장소           | gong-gong jang-so               | Public place              |
-| 339 | 법      | beop                 | law                  | 법 지켜요           | beop ji-kyeo-yo                 | Follow the law            |
-| 340 | 제도     | je-do                | system               | 교육 제도           | gyo-yuk je-do                   | Education system          |
-| 341 | 정책     | jeong-chaek          | policy               | 정부 정책           | jeong-bu jeong-chaek            | Government policy         |
-| 342 | 경제     | gyeong-je            | economy              | 한국 경제           | han-guk gyeong-je               | Korean economy            |
-| 343 | 문화     | mun-hwa              | culture              | 한국 문화           | han-guk mun-hwa                 | Korean culture            |
-| 344 | 역사     | yeok-sa              | history              | 한국 역사           | han-guk yeok-sa                 | Korean history            |
-| 345 | 교육     | gyo-yuk              | education            | 교육 중요           | gyo-yuk jung-yo                 | Education is important    |
-| 346 | 기술적    | gi-sul-jeok          | technical            | 기술적 문제          | gi-sul-jeok mun-je              | Technical problem         |
-| 347 | 발전     | bal-jeon             | development          | 기술 발전           | gi-sul bal-jeon                 | Tech development          |
-| 348 | 연구     | yeon-gu              | research             | 연구 결과           | yeon-gu gyeol-gwa               | Research result           |
-| 349 | 자료     | ja-ryo               | data / material      | 자료 준비           | ja-ryo jun-bi                   | Prepare materials         |
-| 350 | 정보     | jeong-bo             | information          | 정보 검색           | jeong-bo geom-saek              | Search information        |
+| 61  | 자신     | ja-sin        | one’s own self          | **자신**을 믿어요     | ja-sin-eul mi-deo-yo         | Believe in yourself       |
+| 62  | 문화     | mun-hwa       | culture                 | 한국 **문화**       | han-guk mun-hwa              | Korean culture            |
+| 63  | 원      | won           | Korean currency         | 천 **원**         | cheon won                    | 1,000 won                 |
+| 64  | 생각     | saeng-gak     | thought                 | 좋은 **생각**       | jo-eun saeng-gak             | Good thought              |
+| 65  | 어떻다    | eo-tteo-ta    | how / what do you think | 이거 **어때요**?     | i-geo eo-ttae-yo             | How is this?              |
+| 66  | 명      | myeong        | person counter          | 세 **명**         | se myeong                    | Three people              |
+| 67  | 통하다    | tong-ha-da    | to pass / go through    | 말이 **통해요**      | mal-i tong-hae-yo            | We understand each other  |
+| 68  | 그러다    | geu-reo-da    | and then / so           | 그러다 갔어요         | geu-reo-da ga-sseo-yo        | And then went             |
+| 69  | 그러다    | geu-reo-da    | and then / so           | 그러다 끝나요         | geu-reo-da kkeut-na-yo       | And then it ends          |
+| 70  | 소리     | so-ri         | sound                   | 큰 **소리**        | keun so-ri                   | Loud sound                |
+| 71  | 다시     | da-si         | again                   | **다시** 해요       | da-si hae-yo                 | Do it again               |
+| 72  | 다른     | da-reun       | different               | **다른** 사람       | da-reun sa-ram               | Different person          |
+| 73  | 이런     | i-reon        | such / like this        | **이런** 일        | i-reon il                    | Such a thing              |
+| 74  | 여자     | yeo-ja        | woman                   | 그 **여자**        | geu yeo-ja                   | That woman                |
+| 75  | 개      | gae           | unit / piece            | 사과 두 **개**      | sa-gwa du gae                | Two apples                |
+| 76  | 정도     | jeong-do      | degree / level          | 이 **정도**        | i jeong-do                   | This level                |
+| 77  | 다      | da            | all                     | **다** 좋아요       | da jo-a-yo                   | All are good              |
+| 78  | 좀      | jom           | a little                | **좀** 쉬어요       | jom swi-eo-yo                | Rest a bit                |
+| 79  | 싶다     | sip-da        | want to                 | 가고 **싶어요**      | ga-go si-peo-yo              | I want to go              |
+| 80  | 보이다    | bo-i-da       | to be seen              | 잘 **보여요**       | jal bo-yeo-yo                | I can see well            |
+| 81  | 가지다    | ga-ji-da      | to have                 | 꿈을 **가지다**      | kkum-eul ga-ji-da            | Have a dream              |
+| 82  | 함께     | ham-kke       | together                | **함께** 가요       | ham-kke ga-yo                | Go together               |
+| 83  | 아이     | a-i           | child                   | **아이**가 있어요     | a-i-ga i-sseo-yo             | There is a child          |
+| 84  | 지나다    | ji-na-da      | to pass                 | 시간이 **지나요**     | si-gan-i ji-na-yo            | Time passes               |
+| 85  | 많이     | ma-ni         | a lot                   | **많이** 먹어요      | ma-ni meo-geo-yo             | Eat a lot                 |
+| 86  | 시간     | si-gan        | time                    | **시간** 있어요      | si-gan i-sseo-yo             | Have time                 |
+| 87  | 너      | neo           | you                     | **너** 뭐해?       | neo mwo-hae?                 | What are you doing?       |
+| 88  | 인간     | in-gan        | human                   | **인간** 관계       | in-gan gwan-gye              | Human relationship        |
+| 89  | 사실     | sa-sil        | fact / truth            | 그게 **사실**이에요    | geu-ge sa-sil-i-e-yo         | That’s the truth          |
+| 90  | 나다     | na-da         | to occur / be born      | 문제가 **나요**      | mun-je-ga na-yo              | A problem occurs          |
+| 91  | 이렇다    | i-reo-ta      | like this               | 이렇게 해요          | i-reo-ke hae-yo              | Do it like this           |
+| 92  | 어머니    | eo-meo-ni     | mother                  | 우리 **어머니**      | u-ri eo-meo-ni               | My mother                 |
+| 93  | 눈      | nun           | eyes / snow             | **눈** 아파요       | nun a-pa-yo                  | My eyes hurt              |
+| 94  | 뭐      | mwo           | what                    | **뭐**예요?        | mwo-yeo-yo?                  | What is it?               |
+| 95  | 점      | jeom          | store                   | 편의점             | pyeon-ui-jeom                | Convenience store         |
+| 96  | 의하다    | ui-ha-da      | to be due to            | 노력에 **의하다**     | no-ryeok-e ui-ha-da          | Due to effort             |
+| 97  | 시대     | si-dae        | era / period            | 이 **시대**        | i si-dae                     | This era                  |
+| 98  | 다음     | da-eum        | next                    | **다음** 주세요      | da-eum ju-se-yo              | Next, please              |
+| 99  | 이러하다   | i-reo-ha-da   | be like this            | 상황이 **이러해요**    | sang-hwang-i i-reo-hae-yo    | Situation is like this    |
+| 100 | 누구     | nu-gu         | who                     | **누구**예요?       | nu-gu-ye-yo?                 | Who is it?                |
+| 101 | 곳      | got             | place                  | 좋은 **곳**        | jo-eun got                   | A good place              |
+| 102 | 여러     | yeo-reo         | many / various         | **여러** 사람       | yeo-reo sa-ram               | Many people               |
+| 103 | 안      | an              | inside                 | 집 **안**         | jip an                       | Inside the house          |
+| 104 | 하나     | ha-na           | one                    | 하나 주세요          | ha-na ju-se-yo               | Give me one               |
+| 105 | 세계     | se-gye          | world                  | **세계** 여행       | se-gye yeo-haeng             | World travel              |
+| 106 | 버리다    | beo-ri-da       | to throw away          | 다 **버려요**       | da beo-ryeo-yo               | Throw it all away         |
+| 107 | 위      | wi              | above                  | 책상 **위**        | chaek-sang wi                | On the desk               |
+| 108 | 운동     | un-dong         | exercise               | **운동** 해요       | un-dong hae-yo               | Exercise                  |
+| 109 | 퍼센트    | peo-sen-teu     | percent                | 50 **퍼센트**      | o-sip peo-sen-teu            | 50 percent                |
+| 110 | 학교     | hak-gyo         | school                 | **학교** 가요       | hak-gyo ga-yo                | Go to school              |
+| 111 | 자기     | ja-gi           | oneself                | **자기** 소개       | ja-gi so-gae                 | Self-introduction         |
+| 112 | 가장     | ga-jang         | most                   | **가장** 좋아요      | ga-jang jo-a-yo              | Like the most             |
+| 113 | 대통령    | dae-tong-nyeong | president              | 한국 **대통령**      | han-guk dae-tong-nyeong      | Korean president          |
+| 114 | 가지     | ga-ji           | kind / type            | 한 **가지**        | han ga-ji                    | One kind                  |
+| 115 | 시작하다   | si-jak-ha-da    | to start               | 공부 **시작해요**     | gong-bu si-jak-hae-yo        | Start studying            |
+| 116 | 바로     | ba-ro           | right / directly       | **바로** 가요       | ba-ro ga-yo                  | Go right away             |
+| 117 | 어느     | eo-neu          | 어느 / which             | **어느** 나라       | eo-neu na-ra                 | Which country             |
+| 118 | 그래서    | geu-rae-seo     | so / therefore         | **그래서** 갔어요     | geu-rae-seo ga-sseo-yo       | So I went                 |
+| 119 | 무엇     | mu-eot          | what                   | **무엇**이에요?      | mu-eo-si-e-yo?               | What is it?               |
+| 120 | 정부     | jeong-bu        | government             | 한국 **정부**       | han-guk jeong-bu             | Korean government         |
+| 121 | 모든     | mo-deun         | every / all            | **모든** 사람       | mo-deun sa-ram               | Everyone                  |
+| 122 | 번      | beon            | time / number          | 두 **번**         | du beon                      | Two times                 |
+| 123 | 그거     | geu-geo         | that thing             | **그거** 뭐예요?     | geu-geo mwo-yeo-yo           | What is that?             |
+| 124 | 돈      | don             | money                  | **돈** 있어요       | don i-sseo-yo                | Have money                |
+| 125 | 국가     | guk-ga          | nation                 | **국가** 대표       | guk-ga dae-pyo               | National team             |
+| 126 | 그런데    | geu-reon-de     | but / however          | **그런데** 왜요?     | geu-reon-de wae-yo           | But why?                  |
+| 127 | 날      | nal             | day                    | 좋은 **날**        | jo-eun nal                   | A good day                |
+| 128 | 여기     | yeo-gi          | here                   | **여기**예요        | yeo-gi-ye-yo                 | It’s here                 |
+| 129 | 모두     | mo-du           | everybody              | **모두** 와요       | mo-du wa-yo                  | Everyone comes            |
+| 130 | 여성     | yeo-seong       | female                 | **여성** 화장실      | yeo-seong hwa-jang-sil       | Women’s restroom          |
+| 131 | 친구     | chin-gu         | friend                 | 좋은 **친구**       | jo-eun chin-gu               | Good friend               |
+| 132 | 마음     | ma-eum          | heart / mind           | **마음** 아파요      | ma-eum a-pa-yo               | My heart hurts            |
+| 133 | 후      | hu              | after                  | 3년 **후**        | sam-nyeon hu                 | After 3 years             |
+| 134 | 놓다     | no-ta           | to put                 | 여기에 **놓아요**     | yeo-gi-e no-a-yo             | Put it here               |
+| 135 | 관계     | gwan-gye        | relationship           | 인간 **관계**       | in-gan gwan-gye              | Human relationship        |
+| 136 | 아버지    | a-beo-ji        | father                 | 우리 **아버지**      | u-ri a-beo-ji                | My father                 |
+| 137 | 남자     | nam-ja          | man                    | 그 **남자**        | geu nam-ja                   | That man                  |
+| 138 | 어디     | eo-di           | where                  | **어디** 가요?      | eo-di ga-yo?                 | Where are you going?      |
+| 139 | 몸      | mom             | body                   | **몸** 아파요       | mom a-pa-yo                  | My body hurts             |
+| 140 | 얼굴     | eol-gul         | face                   | **얼굴** 씻어요      | eol-gul ssi-sseo-yo          | Wash face                 |
+| 141 | 왜      | wae             | why                    | **왜**요?         | wae-yo?                      | Why?                      |
+| 142 | 나타나다   | na-ta-na-da     | appear                 | 결과가 **나타나요**    | gyeol-gwa-ga na-ta-na-yo     | Result appears            |
+| 143 | 지역     | ji-yeok         | region                 | 이 **지역**        | i ji-yeok                    | This area                 |
+| 144 | 다르다    | da-reu-da       | be different           | 많이 **달라요**      | ma-ni dal-la-yo              | Very different            |
+| 145 | 모습     | mo-seup         | appearance             | 예쁜 **모습**       | ye-ppu-n mo-seup             | Pretty appearance         |
+| 146 | 물      | mul             | water                  | **물** 마셔요       | mul ma-syeo-yo               | Drink water               |
+| 147 | 만나다    | man-na-da       | meet                   | 친구를 **만나요**     | chin-gu-reul man-na-yo       | Meet a friend             |
+| 148 | 내다     | nae-da          | produce                | 소리를 **내요**      | so-ri-reul nae-yo            | Make a sound              |
+| 149 | 보이다    | bo-i-da         | show / be seen         | 잘 **보여요**       | jal bo-yeo-yo                | I can see well            |
+| 150 | 쓰다     | sseu-da         | write                  | 글을 **써요**       | geu-reul sseo-yo             | Write text                |
+| 151 | 이것     | i-geot          | this thing             | **이것** 주세요      | i-geot ju-se-yo              | Give me this              |
+| 152 | 없이     | eop-ssi         | without                | 돈 **없이**        | don eop-ssi                  | Without money             |
+| 153 | 이번     | i-beon          | this time              | **이번** 시험       | i-beon si-heom               | This exam                 |
+| 154 | 길      | gil             | road                   | 이 **길**         | i gil                        | This road                 |
+| 155 | 생활     | saeng-hwal      | life                   | 학교 **생활**       | hak-gyo saeng-hwal           | School life               |
+| 156 | 쓰다     | sseu-da         | take (medicine)        | 약을 **써요**       | ya-geul sseo-yo              | Take medicine             |
+| 157 | 뿐      | ppun            | only                   | 너 **뿐**         | neo ppun                     | Only you                  |
+| 158 | 사이     | sa-i            | between / relationship | 우리 **사이**       | u-ri sa-i                    | Between us                |
+| 159 | 방법     | bang-beop       | method                 | 좋은 **방법**       | jo-eun bang-beop             | Good method               |
+| 160 | 새롭다    | sae-ro-op-da    | new                    | **새로워요**        | sae-ro-wo-yo                 | It’s new                  |
+| 161 | 내다     | nae-da          | make it through        | 끝까지 **내요**      | kkeut-kka-ji nae-yo          | Make it through           |
+| 162 | 앉다     | an-tta          | sit                    | 여기 **앉아요**      | yeo-gi an-ja-yo              | Sit here                  |
+| 163 | 처음     | cheo-eum        | first                  | **처음**이에요       | cheo-eum-i-e-yo              | It’s my first time        |
+| 164 | 손      | son             | hand                   | **손** 씻어요       | son ssi-sseo-yo              | Wash hands                |
+| 165 | 몇      | myeot           | a few                  | **몇** 개예요?      | myeot gae-ye-yo?             | How many?                 |
+| 166 | 그때     | geu-ttae        | then                   | **그때** 만나요      | geu-ttae man-na-yo           | Meet then                 |
+| 167 | 과정     | gwa-jeong       | process                | 공부 **과정**       | gong-bu gwa-jeong            | Study process             |
+| 168 | 삶      | salm            | life                   | 내 **삶**         | nae salm                     | My life                   |
+| 169 | 갖다     | gat-tta         | hold                   | 꿈을 **가져요**      | kkum-eul ga-jyeo-yo          | Hold a dream              |
+| 170 | 찾다     | chat-tta        | find                   | 길을 **찾아요**      | gil-eul cha-ja-yo            | Find the way              |
+| 171 | 특히     | teu-ki          | especially             | **특히** 좋아요      | teu-ki jo-a-yo               | Especially like           |
+| 172 | 시      | si              | time                   | 이 **시**         | i si                         | This time                 |
+| 173 | 이상     | i-sang          | more than              | 10명 **이상**      | sip-myeong i-sang            | More than 10              |
+| 174 | 지금     | ji-geum         | now                    | **지금** 가요       | ji-geum ga-yo                | Go now                    |
+| 175 | 나가다    | na-ga-da        | go out                 | 밖에 **나가요**      | ba-kke na-ga-yo              | Go outside                |
+| 176 | 이야기    | i-ya-gi         | talk                   | **이야기** 해요      | i-ya-gi hae-yo               | Talk                      |
+| 177 | 교육     | gyo-yuk         | education              | 한국 **교육**       | han-guk gyo-yuk              | Korean education          |
+| 178 | 사다     | sa-da           | buy                    | 책을 **사요**       | chae-geul sa-yo              | Buy a book                |
+| 179 | 경제     | gyeong-je       | economy                | 한국 **경제**       | han-guk gyeong-je            | Korean economy            |
+| 180 | 아직     | a-jik           | still                  | **아직** 몰라요      | a-jik mol-la-yo              | Still don’t know          |
+| 181 | 잡다     | jap-tta         | catch                  | 기회를 **잡아요**     | gi-hoe-reul ja-ba-yo         | Catch opportunity         |
+| 182 | 같이     | ga-chi          | together               | **같이** 가요       | ga-chi ga-yo                 | Go together               |
+| 183 | 선생님    | seon-saeng-nim  | teacher                | 영어 **선생님**      | yeong-eo seon-saeng-nim      | English teacher           |
+| 184 | 예술     | ye-sul          | art                    | **예술** 작품       | ye-sul jak-pum               | Art work                  |
+| 185 | 서다     | seo-da          | stand                  | 줄에 **서요**       | ju-re seo-yo                 | Stand in line             |
+| 186 | 못      | mot             | cannot                 | **못** 가요        | mot ga-yo                    | Can’t go                  |
+| 187 | 역사     | yeok-sa         | history                | 한국 **역사**       | han-guk yeok-sa              | Korean history            |
+| 188 | 읽다     | ik-tta          | read                   | 책을 **읽어요**      | chae-geul il-geo-yo          | Read a book               |
+| 189 | 결과     | gyeol-gwa       | result                 | 좋은 **결과**       | jo-eun gyeol-gwa             | Good result               |
+| 190 | 내용     | nae-yong        | content                | 수업 **내용**       | su-eop nae-yong              | Lesson content            |
+| 191 | 물론     | mul-lon         | of course              | **물론**이죠        | mul-lon-i-jyo                | Of course                 |
+| 192 | 책      | chaek           | book                   | 이 **책**         | i chaek                      | This book                 |
+| 193 | 일어나다   | il-eo-na-da     | get up                 | 아침에 **일어나요**    | a-chi-me il-eo-na-yo         | Wake up in morning        |
+| 194 | 당신     | dang-sin        | formal you             | **당신** 생각       | dang-sin saeng-gak           | Your thought              |
+| 195 | 시장     | si-jang         | market                 | 전통 **시장**       | jeon-tong si-jang            | Traditional market        |
+| 196 | 넣다     | neo-ta          | put in                 | 가방에 **넣어요**     | ga-bang-e neo-eo-yo          | Put into bag              |
+| 197 | 중요하다   | jung-yo-ha-da   | important              | 정말 **중요해요**     | jeong-mal jung-yo-hae-yo     | Very important            |
+| 198 | 무슨     | mu-seun         | what kind              | **무슨** 일?       | mu-seun il?                  | What happened?            |
+| 199 | 느끼다    | neu-kki-da      | feel                   | 행복을 **느껴요**     | haeng-bok-eul neu-kkyeo-yo   | Feel happiness            |
+| 200 | 어렵다    | eo-ryeop-da     | difficult              | 너무 **어려워요**     | neo-mu eo-ryeo-wo-yo         | Very difficult            |
+| 201 | 힘      | him           | power, strength     | 그는 힘이 **강해요**     | geu-neun him-i gang-hae-yo           | He is strong                      |
+| 202 | 너무     | neo-mu        | too much, very      | 너무 **피곤해요**       | neo-mu pi-gon-hae-yo                 | I’m very tired                    |
+| 203 | 나라     | na-ra         | country             | 한국은 아름다운 **나라**예요 | han-guk-eun a-reum-da-un na-ra-ye-yo | Korea is a beautiful country      |
+| 204 | 부르다    | bu-reu-da     | to call             | 이름을 **불러요**       | i-reum-eul bul-leo-yo                | I call a name                     |
+| 205 | 의미     | ui-mi         | meaning             | 이 말의 **의미**는 뭐예요? | i mal-e ui-mi-neun mwo-ye-yo         | What is the meaning of this word? |
+| 206 | 자리     | ja-ri         | seat, place         | 자리에 **앉으세요**      | ja-ri-e an-jeu-se-yo                 | Please sit down                   |
+| 207 | 밝히다    | bal-khi-da    | to reveal, light up | 사실을 **밝혔어요**      | sa-sil-eul bal-hyeo-sseo-yo          | Revealed the truth                |
+| 208 | 죽다     | juk-da        | to die              | 그는 병으로 **죽었어요**   | geu-neun byeong-eu-ro ju-geo-sseo-yo | He died from illness              |
+| 209 | 이미     | i-mi          | already             | 저는 이미 **먹었어요**    | jeo-neun i-mi meo-geo-sseo-yo        | I already ate                     |
+| 210 | 쪽      | jjok          | side, direction     | 이 **쪽**으로 오세요     | i jjok-eu-ro o-se-yo                 | Come this way                     |
+| 211 | 정치     | jeong-chi     | politics            | 정치에 **관심이 있어요** | jeong-chi-e gwan-sim-i i-sseo-yo | I’m interested in politics |
+| 212 | 국민     | guk-min       | people, citizens    | 국민을 **위한 정책**   | guk-min-eul wi-han jeong-chaek   | Policy for the people      |
+| 213 | 생명     | saeng-myeong  | life                | 생명은 **소중해요**    | saeng-myeong-eun so-jung-hae-yo  | Life is precious           |
+| 214 | 얘기     | yae-gi        | story, talk         | 같이 얘기해요         | ga-chi yae-gi-hae-yo             | Let’s talk together        |
+| 215 | 학생     | hak-saeng     | student             | 저는 대학생이에요       | jeo-neun dae-hak-saeng-i-e-yo    | I am a university student  |
+| 216 | 연구     | yeon-gu       | research            | 연구를 **하다**      | yeon-gu-reul ha-da               | To do research             |
+| 217 | 엄마     | eom-ma        | mom                 | 엄마가 오셨어요        | eom-ma-ga o-syeo-sseo-yo         | Mom came                   |
+| 218 | 이름     | i-reum        | name                | 이름이 뭐예요?        | i-reum-i mwo-ye-yo               | What is your name?         |
+| 219 | 하나     | ha-na         | one                 | 사과 하나 주세요       | sa-gwa ha-na ju-se-yo            | Please give one apple      |
+| 220 | 내리다    | nae-ri-da     | to go down, descend | 비가 **내려요**      | bi-ga nae-ryeo-yo                | It’s raining               |
+| 221 | 사건     | sa-geon       | incident, event  | 큰 사건이 발생했어요     | keun sa-geon-i bal-saeng-hae-sseo-yo | A big incident occurred   |
+| 222 | 및      | mit           | and, as well as  | 부모 및 자녀         | bu-mo mit ja-nyeo                    | Parents and children      |
+| 223 | 쉽다     | swip-da       | to be easy       | 이 문제는 쉬워요       | i mun-je-neun swi-wo-yo              | This problem is easy      |
+| 224 | 짓다     | jit-da        | to build, make   | 집을 지어요          | ji-beul ji-eo-yo                     | Build a house             |
+| 225 | 이유     | i-yu          | reason           | 이유를 말해요         | i-yu-reul mal-hae-yo                 | Tell the reason           |
+| 226 | 필요하다   | pi-ryo-ha-da  | to need          | 시간이 필요해요        | si-gan-i pi-ryo-hae-yo               | Time is needed            |
+| 227 | 글      | geul          | writing, text    | 글을 써요           | geul-eul sseo-yo                     | Write text                |
+| 228 | 생기다    | saeng-gi-da   | to occur, arise  | 문제가 생겼어요        | mun-je-ga saeng-gyeo-sseo-yo         | A problem occurred        |
+| 229 | 사용하다   | sa-yong-ha-da | to use           | 컴퓨터를 사용해요       | keom-pyu-teo-reul sa-yong-hae-yo     | Use a computer            |
+| 230 | 남편     | nam-pyeon     | husband          | 남편이 회사에 가요      | nam-pyeon-i hoe-sa-e ga-yo           | Husband goes to work      |
+| 231 | 밖      | bak           | outside          | 밖에 나가요          | bak-e na-ga-yo                       | Go outside                |
+| 232 | 세상     | se-sang       | world, society   | 세상은 넓어요         | se-sang-eun neol-beo-yo              | The world is wide         |
+| 233 | 작다     | jak-da        | small            | 방이 작아요          | bang-i ja-ga-yo                      | The room is small         |
+| 234 | 타다     | ta-da         | to ride          | 버스를 타요          | beo-seu-reul ta-yo                   | Ride a bus                |
+| 235 | 대학     | dae-hak       | university       | 대학에 다녀요         | dae-hak-e da-nyeo-yo                 | Attend university         |
+| 236 | 작품     | jak-pum       | work of art      | 유명한 작품이에요       | yu-myeong-han jak-pum-i-e-yo         | It’s a famous work        |
+| 237 | 상황     | sang-hwang    | situation        | 상황이 좋아요         | sang-hwang-i jo-a-yo                 | The situation is good     |
+| 238 | 가운데    | ga-un-de      | middle           | 가운데 앉아요         | ga-un-de an-ja-yo                    | Sit in the middle         |
+| 239 | 보내다    | bo-nae-da     | to send, spend   | 시간을 보내요         | si-gan-eul bo-nae-yo                 | Spend time                |
+| 240 | 즉      | jeuk          | namely, that is  | 즉, 사실이에요        | jeuk sa-sil-i-e-yo                   | That is, it’s true        |
+| 241 | 상태     | sang-tae      | state, condition | 상태가 좋아요         | sang-tae-ga jo-a-yo                  | Condition is good         |
+| 242 | 이후     | i-hu          | after            | 이후에 만나요         | i-hu-e man-na-yo                     | Meet later                |
+| 243 | 당시     | dang-si       | at that time     | 당시 상황           | dang-si sang-hwang                   | Situation at that time    |
+| 244 | 문학     | mun-hak       | literature       | 문학을 공부해요        | mun-hak-eul gong-bu-hae-yo           | Study literature          |
+| 245 | 더욱     | deo-uk        | even more        | 더욱 노력해요         | deo-uk no-ryeok-hae-yo               | Try even harder           |
+| 246 | 아주     | a-ju          | very, extremely  | 아주 좋아요          | a-ju jo-a-yo                         | Very good                 |
+| 247 | 지방     | ji-bang       | region, area     | 지방에 살아요         | ji-bang-e sa-ra-yo                   | Live in a region          |
+| 248 | 밤      | bam           | night            | 밤에 공부해요         | bam-e gong-bu-hae-yo                 | Study at night            |
+| 249 | 높다     | nop-da        | high             | 산이 높아요          | san-i no-pa-yo                       | The mountain is high      |
+| 250 | 최근     | choe-geun     | recently         | 최근에 바빠요         | choe-geun-e ba-ppa-yo                | I’ve been busy recently   |
+| 251 | 채      | chae          | as it is               | 문을 연 **채**로 있어요 | mun-eul yeon chae-ro i-sseo-yo  | The door is left open       |
+| 252 | 현실     | hyeon-sil     | reality                | 현실을 받아들여요       | hyeon-sil-eul ba-da-deu-ryeo-yo | Accept reality              |
+| 253 | 환경     | hwan-gyeong   | environment            | 환경을 보호해요        | hwan-gyeong-eul bo-ho-hae-yo    | Protect the environment     |
+| 254 | 컴퓨터    | keom-pyu-teo  | computer               | 컴퓨터를 켜요         | keom-pyu-teo-reul kyeo-yo       | Turn on the computer        |
+| 255 | 먼저     | meon-jeo      | first                  | 먼저 시작해요         | meon-jeo si-jak-hae-yo          | Start first                 |
+| 256 | 다니다    | da-ni-da      | go to and from         | 학교에 다녀요         | hak-gyo-e da-nyeo-yo            | Go to school                |
+| 257 | 얼마나    | eol-ma-na     | how much               | 얼마나 걸려요?        | eol-ma-na geol-lyeo-yo          | How long does it take?      |
+| 258 | 자체     | ja-che        | itself                 | 회사 자체 문제        | hoe-sa ja-che mun-je            | Company’s own problem       |
+| 259 | 열다     | yeol-da       | to open                | 문을 열어요          | mun-eul yeo-reo-yo              | Open the door               |
+| 260 | 머리     | meo-ri        | head                   | 머리가 아파요         | meo-ri-ga a-pa-yo               | My head hurts               |
+| 261 | 묻다     | mut-da        | to ask                 | 질문을 물어요         | jil-mun-eul mu-reo-yo           | Ask a question              |
+| 262 | 남다     | nam-da        | remain                 | 시간이 남아요         | si-gan-i na-ma-yo               | Time remains                |
+| 263 | 부분     | bu-bun        | part                   | 중요한 부분          | jung-yo-han bu-bun              | Important part              |
+| 264 | 기업     | gi-eop        | company                | 큰 기업이에요         | keun gi-eop-i-e-yo              | It’s a big company          |
+| 265 | 변화     | byeon-hwa     | change                 | 사회의 변화          | sa-hoe-e byeon-hwa              | Social change               |
+| 266 | 아들     | a-deul        | son                    | 아들이 있어요         | a-deul-i i-sseo-yo              | I have a son                |
+| 267 | 아      | a             | oh                     | 아, 알겠어요         | a al-ge-sseo-yo                 | Oh, I understand            |
+| 268 | 선거     | seon-geo      | election               | 선거에 참여해요        | seon-geo-e cham-yeo-hae-yo      | Participate in election     |
+| 269 | 관하다    | gwan-ha-da    | be related to          | 교육에 관한 문제       | gyo-yuk-e gwan-han mun-je       | Issue about education       |
+| 270 | 분      | bun           | minute / person (hon.) | 두 분이 오세요        | du bun-i o-se-yo                | Two people come             |
+| 271 | 그냥     | geu-nyang     | just                   | 그냥 집에 있어요       | geu-nyang ji-be i-sseo-yo       | Just stay home              |
+| 272 | 나누다    | na-nu-da      | divide, share          | 음식을 나눠요         | eum-sik-eul na-nwo-yo           | Share food                  |
+| 273 | 이용하다   | i-yong-ha-da  | to use                 | 버스를 이용해요        | beo-seu-reul i-yong-hae-yo      | Use the bus                 |
+| 274 | 거의     | geo-ui        | almost                 | 거의 다 했어요        | geo-ui da hae-sseo-yo           | Almost finished             |
+| 275 | 곧      | got           | soon                   | 곧 시작해요          | got si-jak-hae-yo               | Start soon                  |
+| 276 | 중심     | jung-sim      | center                 | 도시 중심           | do-si jung-sim                  | City center                 |
+| 277 | 활동     | hwal-dong     | activity               | 봉사 활동           | bong-sa hwal-dong               | Volunteer activity          |
+| 278 | 오늘     | o-neul        | today                  | 오늘 바빠요          | o-neul ba-ppa-yo                | Busy today                  |
+| 279 | 서로     | seo-ro        | each other             | 서로 도와요          | seo-ro do-wa-yo                 | Help each other             |
+| 280 | 관심     | gwan-sim      | interest               | 관심이 많아요         | gwan-sim-i ma-na-yo             | Have much interest          |
+| 281 | 역시     | yeok-si       | as expected            | 역시 잘해요          | yeok-si jal-hae-yo              | As expected, good           |
+| 282 | 이거     | i-geo         | this thing             | 이거 뭐예요?         | i-geo mwo-ye-yo                 | What is this?               |
+| 283 | 애      | ae            | kid                    | 애가 울어요          | ae-ga u-reo-yo                  | The kid is crying           |
+| 284 | 광고     | gwan-go       | advertisement          | 광고를 봐요          | gwan-go-reul bwa-yo             | Watch an ad                 |
+| 285 | 나다     | na-da         | come out               | 문제가 나요          | mun-je-ga na-yo                 | A problem comes up          |
+| 286 | 방      | bang          | room                   | 방이 깨끗해요         | bang-i kkae-kkeun-hae-yo        | Room is clean               |
+| 287 | 정신     | jeong-sin     | mind                   | 정신이 없어요         | jeong-sin-i eop-sseo-yo         | I’m distracted              |
+| 288 | 이르다    | i-reu-da      | reach                  | 결론에 이르다         | gyeol-lon-e i-reu-da            | Reach a conclusion          |
+| 289 | 이루다    | i-ru-da       | achieve                | 꿈을 이루다          | kkum-eul i-ru-da                | Achieve a dream             |
+| 290 | 아침     | a-chim        | morning                | 아침에 일어나요        | a-chim-e i-reo-na-yo            | Wake up in morning          |
+| 291 | 웃다     | ut-da         | laugh                  | 크게 웃어요          | keu-ge u-seo-yo                 | Laugh loudly                |
+| 292 | 현상     | hyeon-sang    | phenomenon             | 사회 현상           | sa-hoe hyeon-sang               | Social phenomenon           |
+| 293 | 기술     | gi-sul        | skill, technology      | 기술이 좋아요         | gi-sul-i jo-a-yo                | Good skills                 |
+| 294 | 전체     | jeon-che      | whole                  | 전체를 보다          | jeon-che-reul bo-da             | See the whole               |
+| 295 | 그래     | geu-rae       | yes, okay              | 그래, 알겠어         | geu-rae al-ge-sseo              | Okay, got it                |
+| 296 | 얻다     | eot-da        | get                    | 결과를 얻다          | gyeol-gwa-reul eot-da           | Get results                 |
+| 297 | 아름답다   | a-reum-dap-da | beautiful              | 경치가 아름다워요       | gyeong-chi-ga a-reum-da-wo-yo   | The view is beautiful       |
+| 298 | 끝      | kkeut         | end                    | 끝이 보여요          | kkeut-i bo-yeo-yo               | The end is visible          |
+| 299 | 민족     | min-jok       | nation, people         | 한 민족            | han min-jok                     | One nation                  |
+| 300 | 간      | gan           | interval               | 사람 간의 관계        | sa-ram gan-e gwan-gye           | Relationship between people |
+| 301 | 조사     | jo-sa           | investigation, inquiry | 조사를 하다          | jo-sa-reul ha-da                    | Do an investigation       |
+| 302 | 듯      | deut            | like, as if            | 비가 올 듯해요        | bi-ga ol deut-hae-yo                | It seems like it’ll rain  |
+| 303 | 입      | ip              | mouth                  | 입을 열다           | i-beul yeol-da                      | Open one’s mouth          |
+| 304 | 뭐      | mwo             | what, something        | 뭐 해요?           | mwo hae-yo                          | What are you doing?       |
+| 305 | 그대로    | geu-dae-ro      | 그대로                    | 그대로 두세요         | geu-dae-ro du-se-yo                 | Leave it as it is         |
+| 306 | 영화     | yeong-hwa       | movie                  | 영화를 보다          | yeong-hwa-reul bo-da                | Watch a movie             |
+| 307 | 필요     | pi-ryo          | need                   | 필요가 있어요         | pi-ryo-ga i-sseo-yo                 | There is a need           |
+| 308 | 줄      | jul             | way, method            | 할 줄 알아요         | hal jul a-ra-yo                     | I know how to do it       |
+| 309 | 하늘     | ha-neul         | sky                    | 하늘이 맑아요         | ha-neul-i mal-ga-yo                 | The sky is clear          |
+| 310 | 년대     | nyeon-dae       | decade                 | 1990년대          | cheon-gu-baek-gu-sip nyeon-dae      | The 1990s                 |
+| 311 | 과학     | gwa-hak         | science                | 과학을 공부하다        | gwa-hak-eul gong-bu-ha-da           | Study science             |
+| 312 | 자연     | ja-yeon         | nature                 | 자연을 보호하다        | ja-yeon-eul bo-ho-ha-da             | Protect nature            |
+| 313 | 정말     | jeong-mal       | really                 | 정말 좋아요          | jeong-mal jo-a-yo                   | Really good               |
+| 314 | 구조     | gu-jo           | structure              | 건물 구조           | geon-mul gu-jo                      | Building structure        |
+| 315 | 결국     | gyeol-guk       | in the end             | 결국 성공했어요        | gyeol-guk seong-gong-hae-sseo-yo    | Succeeded in the end      |
+| 316 | 밥      | bap             | rice, meal             | 밥을 먹다           | ba-beul meok-da                     | Eat a meal                |
+| 317 | 입다     | ip-da           | to wear                | 옷을 입다           | o-seul ip-da                        | Wear clothes              |
+| 318 | 오히려    | o-hi-ryeo       | rather                 | 오히려 좋아요         | o-hi-ryeo jo-a-yo                   | Rather good               |
+| 319 | 프로그램   | peu-ro-geu-raem | program                | 프로그램을 실행하다      | peu-ro-geu-raem-eul sil-haeng-ha-da | Run a program             |
+| 320 | 네      | ne              | yes                    | 네, 알겠습니다        | ne al-ge-sseum-ni-da                | Yes, understood           |
+| 321 | 이루어지다  | i-ru-eo-ji-da   | be achieved            | 계획이 이루어지다       | gye-hoe-gi i-ru-eo-ji-da            | Plan is achieved          |
+| 322 | 남      | nam             | others                 | 남을 돕다           | na-meul dop-da                      | Help others               |
+| 323 | 하루     | ha-ru           | one day                | 하루 종일           | ha-ru jong-il                       | All day                   |
+| 324 | 그림     | geu-rim         | picture                | 그림을 그리다         | geu-ri-meul geu-ri-da               | Draw a picture            |
+| 325 | 적      | jeok            | time, experience       | 간 적 있어요         | gan jeok i-sseo-yo                  | Have been before          |
+| 326 | 터      | teo             | place, status          | 앉을 터가 없다        | an-jeul teo-ga eop-da               | No place to sit           |
+| 327 | 마시다    | ma-si-da        | to drink               | 물을 마시다          | mu-reul ma-si-da                    | Drink water               |
+| 328 | 치다     | chi-da          | hit, strike            | 공을 치다           | gong-eul chi-da                     | Hit the ball              |
+| 329 | 혼자     | hon-ja          | alone                  | 혼자 가요           | hon-ja ga-yo                        | Go alone                  |
+| 330 | 나가다    | na-ga-da        | go out, advance        | 앞으로 나가다         | a-peu-ro na-ga-da                   | Move forward              |
+| 331 | 이제     | i-je            | now                    | 이제 시작해요         | i-je si-jak-hae-yo                  | Start now                 |
+| 332 | 교수     | gyo-su          | professor              | 교수님             | gyo-su-nim                          | Professor                 |
+| 333 | 술      | sul             | alcohol                | 술을 마시다          | su-reul ma-si-da                    | Drink alcohol             |
+| 334 | 사랑     | sa-rang         | love                   | 사랑해요            | sa-rang-hae-yo                      | I love you                |
+| 335 | 전화     | jeon-hwa        | telephone              | 전화하다            | jeon-hwa-ha-da                      | Make a call               |
+| 336 | 끝나다    | kkeut-na-da     | end                    | 수업이 끝나다         | su-eo-bi kkeut-na-da                | Class ends                |
+| 337 | 맞다     | mat-da          | correct, fit           | 답이 맞다           | da-bi mat-da                        | Answer is correct         |
+| 338 | 아빠     | a-ppa           | dad                    | 아빠가 오다          | a-ppa-ga o-da                       | Dad comes                 |
+| 339 | 걸리다    | geol-li-da      | take time, be hung     | 시간이 걸리다         | si-ga-ni geol-li-da                 | Takes time                |
+| 340 | 지키다    | ji-ki-da        | protect, keep          | 약속을 지키다         | yak-so-geul ji-ki-da                | Keep a promise            |
+| 341 | 한번     | han-beon        | once                   | 한번 해보다          | han-beon hae-bo-da                  | Try once                  |
+| 342 | 커피     | keo-pi          | coffee                 | 커피를 마시다         | keo-pi-reul ma-si-da                | Drink coffee              |
+| 343 | 가슴     | ga-seum         | chest, heart           | 가슴이 아프다         | ga-seu-mi a-peu-da                  | Chest hurts               |
+| 344 | 길다     | gil-da          | long                   | 머리가 길다          | meo-ri-ga gil-da                    | Hair is long              |
+| 345 | 바라보다   | ba-ra-bo-da     | look at, hope          | 미래를 바라보다        | mi-rae-reul ba-ra-bo-da             | Look toward future        |
+| 346 | 알아보다   | a-ra-bo-da      | recognize, find out    | 사람을 알아보다        | sa-ra-meul a-ra-bo-da               | Recognize a person        |
+| 347 | 맛      | mat             | taste                  | 맛이 좋다           | ma-si jot-da                        | Tastes good               |
+| 348 | 대부분    | dae-bu-bun      | most                   | 대부분 학생          | dae-bu-bun hak-saeng                | Most students             |
+| 349 | 산업     | san-eop         | industry               | 산업 발전           | san-eop bal-jeon                    | Industrial development    |
+| 350 | 매우     | mae-u           | very                   | 매우 중요하다         | mae-u jung-yo-ha-da                 | Very important            |
+| 351 | 오르다    | o-reu-da      | go up, climb        | 산에 오르다          | sa-ne o-reu-da               | Climb a mountain          |
+| 352 | 음식     | eum-sik       | food                | 음식을 먹다          | eum-si-geul meok-da          | Eat food                  |
+| 353 | 표정     | pyo-jeong     | facial expression   | 표정이 밝다          | pyo-jeong-i bak-da           | Expression is bright      |
+| 354 | 꼭      | kkok          | surely, 꼭           | 꼭 가세요           | kkok ga-se-yo                | Be sure to go             |
+| 355 | 일부     | il-bu         | part, portion       | 일부만 사용하다        | il-bu-man sa-yong-ha-da      | Use only a part           |
+| 356 | 요즘     | yo-jeum       | these days          | 요즘 바빠요          | yo-jeum ba-ppa-yo            | Busy these days           |
+| 357 | 계획     | gye-hoe       | plan                | 계획을 세우다         | gye-hoe-geul se-u-da         | Make a plan               |
+| 358 | 느낌     | neu-kim       | feeling             | 좋은 느낌           | jo-eun neu-kim               | Good feeling              |
+| 359 | 얼마     | eol-ma        | how much            | 얼마예요?           | eol-ma-ye-yo                 | How much is it?           |
+| 360 | 고개     | go-gae        | head, neck          | 고개를 들다          | go-gae-reul deul-da          | Raise one’s head          |
+| 361 | 성격     | seong-gyeok   | personality         | 성격이 좋다          | seong-gyeo-gi jot-da         | Good personality          |
+| 362 | 계속     | gye-sok       | continuously        | 계속 일하다          | gye-so-gi il-ha-da           | Work continuously         |
+| 363 | 세기     | se-gi         | century             | 21세기            | i-sip-il se-gi               | 21st century              |
+| 364 | 세우다    | se-u-da       | set up, build       | 계획을 세우다         | gye-hoe-geul se-u-da         | Set a plan                |
+| 365 | 아내     | a-nae         | wife                | 아내와 함께          | a-nae-wa ham-kke             | With my wife              |
+| 366 | 가족     | ga-jok        | family              | 가족이 많다          | ga-jo-gi man-ta              | Big family                |
+| 367 | 현재     | hyeon-jae     | present             | 현재 상황           | hyeon-jae sang-hwang         | Current situation         |
+| 368 | 세      | se            | three               | 세 명             | se myeong                    | Three people              |
+| 369 | 발전     | bal-jeon      | development         | 경제 발전           | gyeong-je bal-jeon           | Economic development      |
+| 370 | 차      | cha           | car                 | 차를 타다           | cha-reul ta-da               | Ride a car                |
+| 371 | 놀다     | nol-da        | play                | 친구와 놀다          | chin-gu-wa nol-da            | Play with friends         |
+| 372 | 향하다    | hyang-ha-da   | head toward         | 집으로 향하다         | ji-beu-ro hyang-ha-da        | Head home                 |
+| 373 | 관련     | gwan-ryeon    | related             | 관련 자료           | gwan-ryeon ja-ryo            | Related data              |
+| 374 | 형태     | hyeong-tae    | form, shape         | 다양한 형태          | da-yang-han hyeong-tae       | Various forms             |
+| 375 | 각      | gak           | each                | 각 사람            | gak sa-ram                   | Each person               |
+| 376 | 도시     | do-si         | city                | 큰 도시            | keun do-si                   | Big city                  |
+| 377 | 작업     | ja-geop       | work, task          | 작업을 하다          | ja-geo-beul ha-da            | Do work                   |
+| 378 | 분위기    | bun-wi-gi     | atmosphere          | 분위기가 좋다         | bun-wi-gi-ga jot-da          | Nice atmosphere           |
+| 379 | 그러하다   | geu-reo-ha-da | be so               | 사실이 그러하다        | sa-si-ri geu-reo-ha-da       | That’s how it is          |
+| 380 | 나이     | na-i          | age                 | 나이가 많다          | na-i-ga man-ta               | Old age                   |
+| 381 | 우선     | u-seon        | first of all        | 우선 쉬다           | u-seon swi-da                | Rest first                |
+| 382 | 믿다     | mit-da        | believe             | 사람을 믿다          | sa-ra-meul mit-da            | Believe someone           |
+| 383 | 바꾸다    | ba-kku-da     | change              | 생각을 바꾸다         | saeng-ga-geul ba-kku-da      | Change one’s mind         |
+| 384 | 낳다     | na-ta         | give birth          | 아이를 낳다          | a-i-reul na-ta               | Give birth to a baby      |
+| 385 | 바      | ba            | thing, fact         | 알 바 아니다         | al ba a-ni-da                | None of my business       |
+| 386 | 정보     | jeong-bo      | information         | 정보를 얻다          | jeong-bo-reul eot-da         | Get information           |
+| 387 | 열리다    | yeol-li-da    | be opened           | 문이 열리다          | mu-ni yeol-li-da             | Door opens                |
+| 388 | 좋아하다   | jo-a-ha-da    | like                | 음악을 좋아하다        | eu-ma-geul jo-a-ha-da        | Like music                |
+| 389 | 그리다    | geu-ri-da     | draw                | 그림을 그리다         | geu-ri-meul geu-ri-da        | Draw a picture            |
+| 390 | 만큼     | man-keum      | as much as          | 생각한 만큼          | saeng-ga-gan man-keum        | As much as thought        |
+| 391 | 배우다    | bae-u-da      | learn               | 한국어를 배우다        | han-gu-geo-reul bae-u-da     | Learn Korean              |
+| 392 | 시      | si            | poem                | 시를 쓰다           | si-reul sseu-da              | Write a poem              |
+| 393 | 역할     | yeok-hal      | role                | 역할을 하다          | yeok-ha-reul ha-da           | Play a role               |
+| 394 | 옆      | yeop          | beside              | 옆에 앉다           | yeo-pe an-da                 | Sit beside                |
+| 395 | 행동     | haeng-dong    | behavior            | 행동이 좋다          | haeng-dong-i jot-da          | Good behavior             |
+| 396 | 어      | eo            | oh, well            | 어? 그래요          | eo geu-rae-yo                | Oh? Really                |
+| 397 | 국내     | guk-nae       | domestic            | 국내 여행           | guk-nae yeo-haeng            | Domestic travel           |
+| 398 | 비하다    | bi-ha-da      | compare             | 과거에 비하다         | gwa-geo-e bi-ha-da           | Compare to the past       |
+| 399 | 기관     | gi-gwan       | institution, engine | 정부 기관           | jeong-bu gi-gwan             | Government institution    |
+| 400 | 입장     | ip-jang       | position, situation | 입장을 이해하다        | ip-jang-eul i-hae-ha-da      | Understand the position   |
+
+
+
 
 
 
@@ -866,4 +919,12 @@ Example:
 
 
 ---
+
+
+
+
+
+
+
+
 
