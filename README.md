@@ -260,6 +260,8 @@ Example:
 # GRAMMER 
 
 <img width="1051" height="257" alt="image" src="https://github.com/user-attachments/assets/e9525873-1bed-4d20-aae1-e2b7afbc9893" />
+<img width="1580" height="387" alt="image" src="https://github.com/user-attachments/assets/4142b600-410f-4ac8-9207-4dd8bcc6297f" />
+
 
 # READING 
 
