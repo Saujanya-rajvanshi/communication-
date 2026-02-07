@@ -259,9 +259,7 @@ Example:
 
 # GRAMMER 
 
-<img width="1051" height="257" alt="image" src="https://github.com/user-attachments/assets/e9525873-1bed-4d20-aae1-e2b7afbc9893" />
 <img width="1580" height="387" alt="image" src="https://github.com/user-attachments/assets/4142b600-410f-4ac8-9207-4dd8bcc6297f" />
-
 
 # READING 
 
@@ -269,28 +267,27 @@ Example:
 
 # SURVIVAL
 
-<img width="1045" height="238" alt="image" src="https://github.com/user-attachments/assets/f3c386f3-d222-417b-bd66-4211360dccf2" />
+<img width="1579" height="354" alt="image" src="https://github.com/user-attachments/assets/53b46628-72c5-4a0a-a04a-477602665810" />
 
 # SPEAKING
 
-<img width="1043" height="418" alt="image" src="https://github.com/user-attachments/assets/a271e357-dbb9-4382-9819-006320dd33c3" />
+<img width="1578" height="634" alt="image" src="https://github.com/user-attachments/assets/762bebcd-e020-4a15-b01a-a1c3dd00ee54" />
 
 # VOCABULARY
 
-<img width="951" height="606" alt="image" src="https://github.com/user-attachments/assets/f1ca04f5-9338-46b6-adac-5f89bfeb106d" />
-
+<img width="1437" height="909" alt="image" src="https://github.com/user-attachments/assets/4a519d8e-4286-4140-9324-d5b2097226f0" />
 
 # WRITING 
 
-<img width="1068" height="263" alt="image" src="https://github.com/user-attachments/assets/e21afb3a-1a51-449e-8711-f20a8be0b584" />
+<img width="1603" height="396" alt="image" src="https://github.com/user-attachments/assets/95632b90-ddc0-461b-b3c3-d70891c146c8" />
 
 # PRONOUNCIATION
 
-<img width="1061" height="186" alt="image" src="https://github.com/user-attachments/assets/5c89b541-1183-4d2c-b711-a138e973c00b" />
+<img width="1602" height="266" alt="image" src="https://github.com/user-attachments/assets/3ef34ffd-99e0-4b6c-85e7-0c8ceda941ba" />
 
 # BUSINESS
 
-<img width="1062" height="173" alt="image" src="https://github.com/user-attachments/assets/5beb0d7d-a524-4f6a-bf6e-617c5efb5284" />
+<img width="1605" height="265" alt="image" src="https://github.com/user-attachments/assets/7484ffac-25e2-4060-bed4-ebc09ffd54d7" />
 
 
 ## Role of the Language 
