@@ -343,9 +343,7 @@ Example:
 | 10  | ㅀ       | ㄹ + ㅎ   | ㄹ             | l               | 싫다      | sil-da        | ㅎ aspirates next consonant (싫다 → 실타)                      |
 | 11  | ㅄ       | ㅂ + ㅅ   | ㅂ             | p / b           | 없다      | eop-da        | ㅅ moves before vowel (없어 → 업서)                            |
 
----
-
-## Hangul Vowels  모음 (mo-eum)
+### Hangul Vowels  모음 (mo-eum)
 
 * **Vowels:** 21 (10 basic + 11 compound)
 
@@ -353,7 +351,6 @@ Example:
 |----|----|----|----|----|----|----|----|----|----|
 | a | ya | eo | yeo | o | yo | u | yu | eu | i |
 | अ / आ | या | अ / ऑ | यो (soft) | ओ | यो | उ | यू | उ (flat) | इ |
-
 
 * **Compound Vowels** (11)
 
@@ -363,7 +360,124 @@ Example:
 | ऐ   | यै  | ए | ये | वा | वै  | वे / वि | वो | वे | वी | उई       |
 | hai | yai | e | ye | wa | wai | we      | wo | we | wi | tight ui |
 
+#### linking sounds in korean
+
+some consonants are linked together to form a different sound -> consonant assimilation <br>
+<br>
+
+## 📘 Korean Pronunciation Rules – Quick Notes
+
+### 1️⃣ Resyllabification (연음 – yeon-eum)
+
+**Rule:**
+Batchim (final consonant) + ㅇ → move consonant to next syllable.
+
+**Structure:**
+받침 + ㅇ → sound shifts forward
+
+**Examples:**
+
+* 잡을 → [자블] (ja-beul)
+* 꽃이 → [꼬치] (kko-chi)
+* 책이 → [채기] (chae-gi)
+
+ Spelling does NOT change, only pronunciation.
+
+### 2️⃣ ㅎ + ㄱ, ㄷ, ㅂ, ㅈ (Aspiration Rule)
+
+When ㅎ meets these consonants, they become **aspirated**:
+
+| Combination | Becomes |
+| ----------- | ------- |
+| ㅎ + ㄱ       | ㅋ       |
+| ㅎ + ㄷ       | ㅌ       |
+| ㅎ + ㅂ       | ㅍ       |
+| ㅎ + ㅈ       | ㅊ       |
+
+**Examples:**
+
+* 좋고 → [조코]
+* 좋다 → [조타]
+* 그렇지 → [그러치]
+
+### 3️⃣ ㅎ + ㄴ → ㄹ sound
+
+If ㅎ is final and next syllable starts with ㄴ,
+ㅎ becomes ㄹ sound.
+
+**Examples:**
+
+* 놓는 → [논는]
+* 닿는 → [단는]
+
+### 4️⃣ ㅎ + ㅇ
+
+If ㅎ is final and followed by ㅇ:
+👉 ㅎ disappears (no sound)
+
+**Examples:**
+
+* 쌓은 → [싸은]
+* 좋아 → [조아]
+
+### 5️⃣ ㄷ + 이 → ㅈ sound
+
+When ㄷ is final and followed by 이:
+
+ㄷ → ㅈ
+
+**Examples:**
+
+* 같이 → [가치]
+* 밭이 → [바치]
+
+### 6️⃣ ㅌ + 히 → ㅊ sound
+
+Same idea as above:
+
+**Examples:**
+
+* 닫히다 → [다치다]
+* 묻히다 → [무치다]
+
+## 🌸 Nasalization Rule (비음화)
+
+When a consonant comes before ㄴ or ㅁ,
+it changes to a nasal sound (ㄴ, ㅁ, ㅇ).
+
+### 7️⃣ ㄱ, ㄷ, ㅂ + ㄴ/ㅁ
+
+| Original | Changes To |
+| -------- | ---------- |
+| ㄱ → ㅇ    |            |
+| ㄷ → ㄴ    |            |
+| ㅂ → ㅁ    |            |
+
+**Examples:**
+
+* 작년 → [장년]
+* 국물 → [궁물]
+* 밥 먹다 → [밤 먹다]
+* 감사합니다 → [감사함니다]
+
+### 8️⃣ ㄹ + ㄴ → ㄹㄹ
+
+**Examples:**
+
+* 신라 → [실라]
+* 난로 → [날로]
+
+### 9️⃣ ㅇ + ㄹ or ㅁ + ㄹ → ㄴ sound
+
+**Examples:**
+
+* 종로 → [종노]
+* 합리 → [함니]
+
+
 ---
+
+
 
 #### 🧠 Hangul letters **combine into blocks**, e.g.
 ㄱ + ㅏ = 가 <br>
