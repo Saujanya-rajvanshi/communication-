@@ -246,6 +246,15 @@ Example:
 ###### Korean
 # 🍜 KOREAN 
 
+## why of the Language 
+* To understand Korean culture deeply
+* To know and appreciate BTS better
+* To improve career opportunities and get jobs in Korea
+* To see korean content
+- [Topik Exam](#TOPIK)
+
+### steps 
+
 - [1. Grammar](#GRAMMAR)
 - [2. Reading](READING)
 - [3. Survival](SURVIVAL)
@@ -255,20 +264,16 @@ Example:
 - [7. Pronounciation](PRONOUNCIATION)
 - [8. Business](BSINESS)
 
-## Role of the Language 
-* To understand Korean culture deeply
-* To know and appreciate BTS better
-* To improve career opportunities and get jobs in Korea
-* To see korean content
-- [Topik Exam](#TOPIK)
-
-
 <img width="581" height="886" alt="image" src="https://github.com/user-attachments/assets/7bd72d7b-dc05-40e1-9af3-f1391b4eeec8" />
 
 # GRAMMAR 
 
 <img width="1580" height="387" alt="image" src="https://github.com/user-attachments/assets/4142b600-410f-4ac8-9207-4dd8bcc6297f" />
 
+- [hangul](#hangul)
+- []()
+
+###### hangul
 ## Hangul (한글)
 ㄱ ㄴ ㄷ ㄹ ㅁ ㅂ ㅅ ㅇ ㅈ ㅊ ㅋ ㅌ ㅍ ㅎ <br>
 ㅏ ㅑ ㅓ ㅕ ㅗ ㅛ ㅜ ㅠ ㅡ ㅣ <br>
