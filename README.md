@@ -271,7 +271,7 @@ Example:
 <img width="1580" height="387" alt="image" src="https://github.com/user-attachments/assets/4142b600-410f-4ac8-9207-4dd8bcc6297f" />
 
 - [hangul](#hangul)
-- []()
+- [linking sounds in korean](#linking-sounds-in-korean)
 
 ###### hangul
 ## Hangul (한글)
@@ -360,12 +360,12 @@ Example:
 | ऐ   | यै  | ए | ये | वा | वै  | वे / वि | वो | वे | वी | उई       |
 | hai | yai | e | ye | wa | wai | we      | wo | we | wi | tight ui |
 
-#### linking sounds in korean
+## linking sounds in korean
 
 some consonants are linked together to form a different sound -> consonant assimilation <br>
 <br>
 
-## 📘 Korean Pronunciation Rules – Quick Notes
+#### Korean Pronunciation Rules 
 
 ### 1️⃣ Resyllabification (연음 – yeon-eum)
 
