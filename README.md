@@ -518,14 +518,14 @@ it changes to a nasal sound (ㄴ, ㅁ, ㅇ).
 
 ## hangul writing
 
-<img width="768" height="554" alt="image" src="https://github.com/user-attachments/assets/c75ef4d8-4f3e-48bc-8845-6655e8b7e1d1" />
-<img width="808" height="544" alt="image" src="https://github.com/user-attachments/assets/d1e42eae-34e5-467d-a404-62455efef401" />
-<img width="748" height="520" alt="image" src="https://github.com/user-attachments/assets/69d7fc9a-e20e-4d2c-9d2e-e3bde78ebdaf" />
-<img width="759" height="531" alt="image" src="https://github.com/user-attachments/assets/822a59c7-209b-4d04-a41c-7a11d8b5dc9a" />
-<img width="741" height="522" alt="image" src="https://github.com/user-attachments/assets/24bac81b-8388-4e0f-abac-323b79f965a9" />
-<img width="778" height="514" alt="image" src="https://github.com/user-attachments/assets/c04a9f39-6ec6-4fe8-b775-b7429e080a6a" />
-<img width="800" height="531" alt="image" src="https://github.com/user-attachments/assets/049f301f-2413-4459-9eba-e7a511359fb5" />
-<img width="748" height="273" alt="image" src="https://github.com/user-attachments/assets/9cc3e9b9-c7d8-4543-aa6e-d039c66b192e" />
+<img width="1132" height="740" alt="image" src="https://github.com/user-attachments/assets/239a7e99-62f3-49bd-9cbb-24894d0e8417" />
+<img width="1119" height="763" alt="image" src="https://github.com/user-attachments/assets/a49b938d-a185-4e0d-bae8-655032f892de" />
+<img width="1129" height="704" alt="image" src="https://github.com/user-attachments/assets/01efc483-73b4-48d1-a1df-e56b529f5c5a" />
+<img width="1109" height="746" alt="image" src="https://github.com/user-attachments/assets/8c5f7d66-060e-402c-b93f-12583e51bb41" />
+<img width="1111" height="735" alt="image" src="https://github.com/user-attachments/assets/a7451634-fca5-4d3e-b326-e62dcb0d5361" />
+<img width="1109" height="724" alt="image" src="https://github.com/user-attachments/assets/49c6f27a-13b7-44ad-b207-a600284c3447" />
+<img width="1115" height="731" alt="image" src="https://github.com/user-attachments/assets/7aec178f-bd2a-4049-8f56-4c0af4f85f66" />
+<img width="1109" height="366" alt="image" src="https://github.com/user-attachments/assets/f0230882-7a97-4041-ac38-4270c7bbe89f" />
 
 
 
