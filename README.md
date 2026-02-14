@@ -477,11 +477,24 @@ it changes to a nasal sound (ㄴ, ㅁ, ㅇ).
 
 ---
 
-
-
-#### 🧠 Hangul letters **combine into blocks**, e.g.
+#### Hangul letters **combine into blocks**, e.g.
 ㄱ + ㅏ = 가 <br>
 ㅎ + ㅏ + ㄴ = 한 <br
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # READING 
 
@@ -502,6 +515,25 @@ it changes to a nasal sound (ㄴ, ㅁ, ㅇ).
 # WRITING 
 
 <img width="1603" height="396" alt="image" src="https://github.com/user-attachments/assets/95632b90-ddc0-461b-b3c3-d70891c146c8" />
+
+## hangul writing
+
+<img width="768" height="554" alt="image" src="https://github.com/user-attachments/assets/c75ef4d8-4f3e-48bc-8845-6655e8b7e1d1" />
+<img width="808" height="544" alt="image" src="https://github.com/user-attachments/assets/d1e42eae-34e5-467d-a404-62455efef401" />
+<img width="748" height="520" alt="image" src="https://github.com/user-attachments/assets/69d7fc9a-e20e-4d2c-9d2e-e3bde78ebdaf" />
+<img width="759" height="531" alt="image" src="https://github.com/user-attachments/assets/822a59c7-209b-4d04-a41c-7a11d8b5dc9a" />
+<img width="741" height="522" alt="image" src="https://github.com/user-attachments/assets/24bac81b-8388-4e0f-abac-323b79f965a9" />
+<img width="778" height="514" alt="image" src="https://github.com/user-attachments/assets/c04a9f39-6ec6-4fe8-b775-b7429e080a6a" />
+<img width="800" height="531" alt="image" src="https://github.com/user-attachments/assets/049f301f-2413-4459-9eba-e7a511359fb5" />
+<img width="748" height="273" alt="image" src="https://github.com/user-attachments/assets/9cc3e9b9-c7d8-4543-aa6e-d039c66b192e" />
+
+
+
+
+
+
+
+
 
 # PRONOUNCIATION
 
