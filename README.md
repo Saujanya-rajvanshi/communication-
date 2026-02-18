@@ -31,7 +31,7 @@ Communication IS:
 > 💡 **You don’t need perfect language.
 > You need understandable thinking.**
 
-## 🌸 The 4 Levels of Communication (Roadmap)
+## 🌸 The 4 Levels of Communication 
 
 You will move through these levels **for every language**.
 
@@ -51,7 +51,7 @@ Step-by-step explanations, Reasons & examples, Comparisons
 “Can I think & respond naturally?” <br>
 Interviews, Technical discussions, Abstract ideas, Cultural awareness
 
-## 🐦‍🔥 Core Communication Pillars (Language-Independent)
+## 🐦‍🔥 Core Communication Pillars 
 
 **Think → Structure → Speak** <br>
 
@@ -59,7 +59,7 @@ Interviews, Technical discussions, Abstract ideas, Cultural awareness
 
 **Vocabulary Strategy**
 
-## 🍋‍🟩 Grammar Without Fear (Key Insight)
+## 🍋‍🟩 Grammar Without Fear 
 
 Grammar is:
 
@@ -77,7 +77,7 @@ Grammar is:
 
 Never learn grammar **alone** — always with examples.
 
-## 🍇 Listening Skills (Most Ignored, Most Powerful)
+## 🍇 Listening Skills 
 
 You learn languages mainly by **listening**, not speaking.
 
@@ -94,7 +94,7 @@ Rule:
 
 > Understand the idea, not every word.
 
-## 🏵 Speaking Without Fear (Critical)
+## 🏵 Speaking Without Fear 
 
 ### Why Fear Happens:
 * Fear of mistakes * Fear of judgment
@@ -105,8 +105,7 @@ Rule:
 Mistakes = data
 Silence = stagnation
 
-## 🎰 Communication for Interviews (Tech Focus)
-
+## 🎰 Communication for Interviews
 ### Interview Communication Flow:
 
 1. Greet confidently
@@ -121,7 +120,7 @@ Key phrases:
 * “I’ll start with a simple approach…”
 * “Time complexity would be…”
 
-## 🧩 Technical Communication (Engineer Mode)
+## 🧩 Technical Communication
 
 ### Good Technical Communicators:
 
@@ -135,7 +134,7 @@ Avoid:
 * Overusing jargon
 * Silent coding
 
-## ✈️ Learning Multiple Languages (VERY IMPORTANT FOR YOU)
+## ✈️ Learning Multiple Languages
 
 ### Universal Language Learning System:
 
@@ -166,7 +165,7 @@ Learning this improves:
 * Respect
 * Global readiness
 
-## 🏛 Daily Communication Practice (Simple & Real)
+## 🏛 Daily Communication Practice 
 
 ### Daily (10–15 min):
 
@@ -180,7 +179,7 @@ Learning this improves:
 * Record yourself once
 * Reflect briefly
 
-## 🧮 Measuring Progress (No Pressure)
+## 🧮 Measuring Progress 
 
 Signs you are improving:
 
@@ -191,7 +190,7 @@ Signs you are improving:
 
 Fluency is gradual, not sudden.
 
-## 🪅 Communication Mindset (Final Key)
+## 🪅 Communication Mindset 
 
 > You don’t learn languages to sound perfect.
 > You learn languages to **connect and explain**.
