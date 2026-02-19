@@ -9,7 +9,7 @@
     - [korean](#Korean)
 
 
-###### communication 
+###### communication
 # 🗣️ COMMUNICATION
 
 ![set-of-communication-vector-cartoon-illustration-elements-various-objects-of-hand-drawn-communication-in-doodle-color-2BK5NRM](https://github.com/user-attachments/assets/8b84a933-8e6b-4eca-ae67-77a6c0c24a96)
