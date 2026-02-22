@@ -517,6 +517,14 @@ it changes to a nasal sound (ㄴ, ㅁ, ㅇ).
 
 ## hangul writing
 
+- [writting](#writting)
+- [abreviation and slangs](#abreviation-and-slangs)
+- [practice writing](#practice-writing)
+- [shortening sentences](#shortening-sentences)
+- [Chinese Characters](#Chinese-Characters)
+
+## writing 
+
 <img width="1132" height="740" alt="image" src="https://github.com/user-attachments/assets/239a7e99-62f3-49bd-9cbb-24894d0e8417" />
 <img width="1119" height="763" alt="image" src="https://github.com/user-attachments/assets/a49b938d-a185-4e0d-bae8-655032f892de" />
 <img width="1129" height="704" alt="image" src="https://github.com/user-attachments/assets/01efc483-73b4-48d1-a1df-e56b529f5c5a" />
@@ -526,7 +534,70 @@ it changes to a nasal sound (ㄴ, ㅁ, ㅇ).
 <img width="1115" height="731" alt="image" src="https://github.com/user-attachments/assets/7aec178f-bd2a-4049-8f56-4c0af4f85f66" />
 <img width="1109" height="366" alt="image" src="https://github.com/user-attachments/assets/f0230882-7a97-4041-ac38-4270c7bbe89f" />
 
+## abreviation and slangs
 
+Korean slang often uses abbreviations in texting, similar to English (LOL, OMG). ,   These abbreviations are mostly used in writing/texting, not formal speech.
+
+* **ㅋㅋ / ㅋㅋㅋ** = laughter (like “haha”); can be short or very long.
+* **ㅎㅎ / ㅎㅎㅎ** = softer laughter; pronounced “haha” or sometimes silent.
+* **ㅇㅋ** comes from “OK” and means “okay” (long form: 오케이 / 오키).
+* **ㅠㅠ / ㅜㅜ** = crying or sadness (looks like tears).
+* **ㄷㄷㄷ** = fear or shock (from 덜덜덜 = trembling sound).
+* **ㄱㅅ / ㄸㅋ** = short form of “thank you” (감사합니다 / 땡큐).
+
+## practice writing 
+
+practice & copy it from notebook
+
+
+## shortening sentences
+
+* Hangul can express meaning in fewer characters than English.
+* It is useful for texting or social media with character limits.
+* Example: Coffee = 커피 (shorter than “coffee”).
+* Many English words become shorter in Korean (아이스크림, 캐나다, 햄버거, 텔레비전).
+
+#### Example 1
+
+**저는 어제 친구들을 만났어요.**
+→ 저는 어제 친구들 만났어요.
+→ 어제 친구들 만났어요.
+→ 어제 친구 만났어요.
+<br>
+(Subject and particles can be removed.)
+
+#### Example 2
+
+**저는 집에 가서 잠을 잘 거예요.**
+→ 저는 집에 가서 잘 거예요.
+→ 집에 가서 잘 거예요.
+→ 집에 가 잘 거예요.
+<br>
+(Context makes meaning clear.)
+
+## Chinese Characters
+
+Chinese Characters in Korean (Hanja 한자)
+<br>
+* Before **Hangul**, Koreans used **Hanja (Chinese characters)**.
+* Many historical documents were written in Hanja.
+* Today, Hangul is mainly used.
+* Most Koreans:
+  * Recognize a few hundred Hanja.
+  * Can write fewer characters.
+* Hanja is not used daily but helps understand word meanings.
+<br>
+<br>
+<br>
+Example:
+<br>
+<br>
+**전진 (前進)** <br>
+* 전 (前) = forward
+* 진 (進) = progress
+  Meaning → moving forward / advancement
+
+---
 
 
 
