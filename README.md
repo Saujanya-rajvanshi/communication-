@@ -271,6 +271,7 @@ Example:
 
 - [hangul](#hangul)
 - [linking sounds in korean](#linking-sounds-in-korean)
+- [words](#words)
 
 ###### hangul
 ## Hangul (한글)
@@ -481,6 +482,11 @@ it changes to a nasal sound (ㄴ, ㅁ, ㅇ).
 ㅎ + ㅏ + ㄴ = 한 <br
 
 
+## words
+
+**안녕 (annyeong)** – Hi / Bye (informal, used with friends).
+
+**감사합니다 (gamsahamnida)** – Thank you (formal, polite).
 
 
 
