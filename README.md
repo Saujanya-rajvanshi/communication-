@@ -484,11 +484,13 @@ it changes to a nasal sound (ㄴ, ㅁ, ㅇ).
 
 ## words
 
-**안녕 (annyeong)** – Hi / Bye (informal, used with friends).
-
-**감사합니다 (gamsahamnida)** – Thank you (formal, polite).
-
-
+* **안녕 (annyeong)** – Hi / Bye (informal, used with friends).
+    * **안녕히 가세요** (annyeonghi gaseyo) → Say this when **the other person is leaving**.
+    * **안녕히 계세요** (annyeonghi gyeseyo) → Say this when **you are leaving**.
+    * **세요** seyo in native people speaking fast
+* **감사합니다 (gamsahamnida)** – Thank you (formal, polite).
+* **아니요 (aniyo)** – Used to politely say “no” when you disagree, refuse, or answer negatively.
+* **네 (ne)** – Used to politely say “yes” when you agree, confirm, or answer positively.
 
 
 
