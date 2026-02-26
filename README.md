@@ -491,6 +491,36 @@ it changes to a nasal sound (ㄴ, ㅁ, ㅇ).
 * **감사합니다 (gamsahamnida)** – Thank you (formal, polite).
 * **아니요 (aniyo)** – Used to politely say “no” when you disagree, refuse, or answer negatively.
 * **네 (ne)** – Used to politely say “yes” when you agree, confirm, or answer positively.
+* **죄송합니다 (joesonghamnida)** – “I’m sorry” (formal); used to apologize politely or show respect.
+* **저기요 (jogiyo)** – “Excuse me” (to get someone’s attention, like calling a waiter or stranger).
+* Good question 👍 Very important grammar.
+
+## 이에요 / 예요 (ieyo / yeyo)
+
+Both mean **“am / is / are”** (polite form of “to be”).
+
+* **1️. 이에요 (ieyo)**
+
+Use when the noun **ends with a consonant (받침)**.
+
+Structure:
+**Noun + 이에요**
+
+Example:
+학생이에요. (haksaeng-ieyo) → I am a student.
+책이에요. (chaek-ieyo) → It is a book.
+
+* 2️. 예요 (yeyo)**
+
+Use when the noun **ends with a vowel**.
+
+Structure:
+**Noun + 예요**
+
+Example:
+의사예요. (uisa-yeyo) → I am a doctor.
+학교예요. (hakgyo-yeyo) → It is a school.
+.
 
 
 
