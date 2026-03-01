@@ -521,6 +521,8 @@ Example:
 의사예요. (uisa-yeyo) → I am a doctor.
 학교예요. (hakgyo-yeyo) → It is a school.
 .
+* **이거 (igeo)** = “this (thing)”
+* **이게 뭐예요?** = “What is this?” (most natural in speech)
 
 
 
