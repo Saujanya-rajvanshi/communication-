@@ -82,13 +82,18 @@ Never learn grammar **alone** — always with examples.
 You learn languages mainly by **listening**, not speaking.
 
 ### Low Level:
-* Songs * Slow videos * Repetition
+* Songs
+* Slow videos
+* Repetition
 
 ### Medium Level:
-* Short conversations * Simple podcasts
+* Short conversations
+* Simple podcasts
 
 ### Advanced:
-* Interviews * Technical talks * Native speed content
+* Interviews
+* Technical talks
+* Native speed content
 
 Rule:
 
@@ -97,10 +102,13 @@ Rule:
 ## 🏵 Speaking Without Fear 
 
 ### Why Fear Happens:
-* Fear of mistakes * Fear of judgment
+* Fear of mistakes
+* Fear of judgment
 
 ### Solution:
-* Speak early * Speak badly * Improve gradually
+* Speak early
+* Speak badly
+* Improve gradually
 
 Mistakes = data
 Silence = stagnation
