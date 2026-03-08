@@ -270,6 +270,7 @@ Example:
 - [6. Writing](WRITING)
 - [7. Pronounciation](PRONOUNCIATION)
 - [8. Business](BSINESS)
+- [9. listening](#LISTENING)
 
 <img width="581" height="886" alt="image" src="https://github.com/user-attachments/assets/7bd72d7b-dc05-40e1-9af3-f1391b4eeec8" />
 
@@ -1329,6 +1330,124 @@ Example:
 
 
 ---
+
+
+
+## LISTENING
+
+- [songs](#songs)
+
+## songs
+
+### still with you 
+Sentence:
+**날 스치는 그대의 옅은 그 목소리 내 이름을 한번만 더 불러주세요** <br>
+**nal seuchineun geudaeui yeoteun geu moksori nae ireumeul hanbeonman deo bulleojuseyo** <br>
+Your soft voice that brushes past me, please call my name just one more time.
+
+#### Word-by-Word Breakdown (with Base / General Form)
+
+* **날 (nal)**
+→ **나를 (na-reul)** – me / my (object form of “I”)
+
+* **스치는 (seuchineun)**
+→ **스치다 (seuchida)** – to brush past / pass by
+
+* **그대의 (geudaeui)**
+→ **그대 (geudae)** – you (poetic word for “you”)
+→ **의** = possessive “’s / of”
+
+* **옅은 (yeoteun)**
+→ **옅다 (yeotda)** – to be faint / light / soft
+
+* **그 (geu)**
+→ that / the
+
+* **목소리 (moksori)**
+→ voice
+
+* **내 (nae)**
+→ **나의 (na-ui)** – my
+
+* **이름을 (ireumeul)**
+→ **이름 (ireum)** – name
+→ **을** = object particle
+
+* **한번만 (hanbeonman)**
+→ **한번 (hanbeon)** – once
+→ **만** – only / just
+
+* **더 (deo)**
+→ more / again
+
+* **불러주세요 (bulleojuseyo)**
+→ **부르다 (bureuda)** – to call
+→ **주세요** – please do
+
+#### Literal Structure
+
+- *your faint voice that brushes past me*
+- *please call my name one more time*
+
+
+Sentence:
+**얼어버린 노을 아래 멈춰 서있지만 그대 향해 한걸음씩 걸어갈래요** <br>
+**eoreo-beorin noeul arae meomchwo seo-issjiman geudae hyanghae hangeoreumssik georeo-gallaeyo** <br>
+**Although I stand still under the frozen sunset, I will walk toward you step by step.**
+
+#### Word-by-Word Breakdown (with Base / General Form)
+
+* **얼어버린 (eoreobeorin)**
+→ **얼어버리다 (eoreobeorida)** – to freeze completely / become frozen
+
+* **노을 (noeul)**
+→ sunset / evening glow
+
+* **아래 (arae)**
+→ under / below
+
+* **멈춰 (meomchwo)**
+→ **멈추다 (meomchuda)** – to stop
+
+* **서있지만 (seoissjiman)**
+→ **서 있다 (seo itda)** – to stand
+→ **지만** – but / although <br>
+
+Meaning: **although standing still**
+
+* **그대 (geudae)**
+→ you (poetic / lyrical “you”)
+
+* **향해 (hyanghae)**
+→ **향하다 (hyanghada)** – to head toward / face toward
+
+* **한걸음씩 (hangeoreumssik)**
+→ **한 걸음 (han georeum)** – one step
+→ **씩** – each / at a time <br>
+
+Meaning: **one step at a time**
+
+* **걸어갈래요 (georeogallaeyo)**
+→ **걸어가다 (georeogada)** – to walk away / walk forward
+→ **-ㄹ래요** – I will / I want to
+
+Meaning: **I will walk**
+
+#### Literal Structure
+- under the frozen sunset
+- although I stand still
+- I will walk toward you one step at a time
+
+
+
+
+
+
+
+
+
+
+
 
 
 
