@@ -794,6 +794,106 @@ Example:
 - [tips and resources](https://www.topikguide.com/tips-and-resources/)
 - [topik official site](https://www.topik.go.kr/TWMAIN/TWMAIN0010.do)
 
+## steps 
+
+### 1️⃣ Registration Opens
+
+On the - [website](https://www.kectopikindia.org/)  **“Register Now”** becomes active.
+
+You click it and fill the form.
+
+At this stage **anyone can access the form**.
+
+### 2️⃣ You Submit the Form
+
+
+#### 📄 Documents Required
+
+You typically need **3 uploads**:
+
+1️⃣ **Passport-size photo**
+
+* JPG format
+* Usually under **200 KB**
+
+2️⃣ **ID Proof**
+
+* Aadhaar card / Passport / Government ID
+* JPG or PDF (depending on the form)
+
+3️⃣ **Signature**
+
+* Your handwritten signature
+* Scan or photo
+* Usually under **100 KB**
+
+#### 📝 Registration Steps
+
+When registration opens, the process is usually:
+
+1. Click **Register Now**
+2. Fill basic details
+
+   * Name
+   * Date of birth
+   * Email
+   * Phone number
+3. Choose:
+
+   * **TOPIK I** (beginner) or **TOPIK II**
+   * **Exam city** (Delhi / Bengaluru / etc.)
+4. Upload:
+
+   * Photo
+   * ID proof
+   * Signature
+5. Submit the form
+
+
+
+### 3️⃣ Payment Instructions
+
+If your application is accepted, they send:
+
+* **payment instructions**
+* sometimes a **payment deadline**
+
+### 4️⃣ You Pay the Fee
+
+After you pay and send proof, they verify it.
+
+### 5️⃣ Final Confirmation
+
+Then they send a **confirmation email**.
+
+Only **after this step** your seat is **officially confirmed**.
+
+# Final Document
+
+About **1–2 weeks before the exam**, you receive:
+
+**Admission Ticket (수험표)**
+
+This contains:
+
+* your **exam center**
+* your **seat number**
+* exam time
+
+This is what you bring on exam day.
+
+# Simple Way to Think About It
+
+Registration link → **application open**
+Form submitted → **request for seat**
+Payment accepted → **seat confirmed**
+Admission ticket → **you can take the exam**
+
+
+✅ Tip: On registration day, **open the form right at 10:00 AM** because many people lose seats by being even **30–40 minutes late**.
+
+
+
 ## 1. Hangul & Sound Rules
 
 * Reading fluency
