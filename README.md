@@ -492,6 +492,8 @@ it changes to a nasal sound (ㄴ, ㅁ, ㅇ).
 
 ## words
 
+### 1. Common Korean Words
+
 * **안녕 (annyeong)** – Hi / Bye (informal, used with friends).
     * **안녕히 가세요** (annyeonghi gaseyo) → Say this when **the other person is leaving**.
     * **안녕히 계세요** (annyeonghi gyeseyo) → Say this when **you are leaving**.
@@ -503,11 +505,11 @@ it changes to a nasal sound (ㄴ, ㅁ, ㅇ).
 * **저기요 (jogiyo)** – “Excuse me” (to get someone’s attention, like calling a waiter or stranger).
 * Good question 👍 Very important grammar.
 
-## 이에요 / 예요 (ieyo / yeyo)
+## 2. 이에요 / 예요 (ieyo / yeyo)
 
 Both mean **“am / is / are”** (polite form of “to be”).
 
-* **1️. 이에요 (ieyo)**
+### **1️. 이에요 (ieyo)**
 
 Use when the noun **ends with a consonant (받침)**.
 
@@ -518,7 +520,7 @@ Example:
 학생이에요. (haksaeng-ieyo) → I am a student.
 책이에요. (chaek-ieyo) → It is a book.
 
-* 2️. 예요 (yeyo)**
+### 2️. 예요 (yeyo)**
 
 Use when the noun **ends with a vowel**.
 
@@ -532,9 +534,115 @@ Example:
 * **이거 (igeo)** = “this (thing)”
 * **이게 뭐예요?** = “What is this?” (most natural in speech)
 
+## 3. Demonstratives (This / That)
+### marking topics 
+
+#### as modifiers : 
+* **이 (i)** = this (near the speaker)
+* **그 (geu)** = that/it (near the listener / already mentioned)
+* **저 (jeo)** = that over there (far from both speaker and listener)
+
+#### as pronoun : 
+* **이것 (igeot)** or **이거 (igeo)** = this thing (near the speaker)
+* **그것 (geugeot)** or **그거 (geugeo)** = that thing (near the listener / mentioned before)
+* **저것 (jeogeot)** or **저거 (jeogeo)** = that thing over there (far from both)
+
+## 4. Korean Particles
+
+**Topic marking particles (은 / 는)** show **the topic of the sentence (what you are talking about).** <br>
+They are **attached after a noun** to indicate the topic to the listener. <br><br>
+
+* **은 (eun)** is used after nouns ending with a **consonant**. <br>
+* **는 (neun)** is used after nouns ending with a **vowel**. <br><br>
+
+Example: **저는 학생이에요.** → *As for me, I am a student.* <br><br>
+
+Topic particles often **highlight or contrast information** in a sentence.
+<br><br>
+
+**내일은 일해요.**  <br>
+*(naeil-eun ilhaeyo)* <br>
+<br>
+Meaning: **As for tomorrow, I work.** <br><br>
+
+Here **은 (eun)** marks **내일 (tomorrow)** as the **topic** of the sentence.
+
+**이 / 가 (i / ga)** are **subject marking particles** in Korean.
+They show **who or what is doing the action** in the sentence.
+
+**이 (i)** is used after nouns ending with a **consonant**.
+Example: **학생이 왔어요.** → The student came.
+
+**가 (ga)** is used after nouns ending with a **vowel**.
+Example: **고양이가 있어요.** → There is a cat.
+
+
+**은 / 는 (eun / neun)** – Topic particles. They mean **“as for / about something”** and can show **contrast or comparison with other things**.
+
+**이 / 가 (i / ga)** – Subject particles. They show **who or what performs the action** and can emphasize **“this one / none other than this.”**
+
+They are also used to **mark the subject naturally inside a sentence without strong emphasis.**
+
+s
+ 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## sentence structure 
+
+**S + T + O + V** (Subject + Topic + Object + Verb).
+<br><br>
+
+**저는 외계인이에요.** <br>
+**저는** = I / as for me (Subject + topic marker **는**) <br>
+**외계인** = alien (noun)<br>
+**이에요** = is / am (polite verb “to be”) <br>
+
+<br><br>
+
+**Structure:** <br>
+**저는 + 외계인 + 이에요** <br>
+**S + N + V** <br>
+<br><br>
+**Meaning:** *“I am an alien.”* 👽
+
+
+**S + P + N + P + A + V** <br><br>
+
+**저는 한국어를 매일 공부해요.** <br>
+*I study Korean every day.* <br><br>
+
+**저는** → Subject + Topic marker (**I / as for me**) <br>
+**한국어를** → Noun + Object marker (**Korean**) <br>
+**매일** → Adverb / Time (**every day**) <br>
+**공부해요** → Verb (**study**) <br>
+
+### Simple pattern
+
+**Subject + Object + Time/Adverb + Verb** <br>
+
+### Example breakdown
+
+저는 | 한국어를 | 매일 | 공부해요 <br>
+I | Korean | every day | study
+
+✔ **Important rule:** In Korean, the **verb always comes at the end**.
 
 
 
