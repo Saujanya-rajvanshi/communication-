@@ -451,16 +451,16 @@ Same idea as above:
 
 ## 🌸 Nasalization Rule (비음화)
 
-When a consonant comes before ㄴ or ㅁ,
+When a consonant comes before ㄴ or ㅁ, <br>
 it changes to a nasal sound (ㄴ, ㅁ, ㅇ).
 
 ### 7️⃣ ㄱ, ㄷ, ㅂ + ㄴ/ㅁ
 
 | Original | Changes To |
 | -------- | ---------- |
-| ㄱ → ㅇ    |            |
-| ㄷ → ㄴ    |            |
-| ㅂ → ㅁ    |            |
+| ㄱ → ㅇ    |   ㅇ       |
+| ㄷ → ㄴ    |   ㄴ       |
+| ㅂ → ㅁ    |   ㅁ       |
 
 **Examples:**
 
