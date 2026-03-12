@@ -584,8 +584,40 @@ Example: **고양이가 있어요.** → There is a cat.
 
 They are also used to **mark the subject naturally inside a sentence without strong emphasis.**
 
-s
- 
+These are forms of the verbs **있다** and **없다** in polite present tense.
+
+### 있어요 / 없어요
+
+* **1️. 있어요 (isseoyo)**
+Base form: **있다 (itda)**
+Meaning: **to exist / to have / there is / there are**
+
+Example:
+책이 있어요. *(chaegi isseoyo)*
+→ There is a book.
+
+* **2️. 없어요 (eopseoyo)**
+Base form: **없다 (eopda)**
+Meaning: **to not exist / to not have / there is not / there are not**
+
+Example:
+돈이 없어요. *(doni eopseoyo)*
+→ I don’t have money.
+
+### 주세요 (juseyo)
+
+* **주세요 (juseyo)** comes from the base verb **주다 (juda)**.
+* **주다 (juda)** → to give
+* **주세요 (juseyo)** → **please give / please do (for me)**
+
+#### Examples
+
+물 주세요.
+*(mul juseyo)*
+→ Please give me water.
+
+
+
 
 
 
