@@ -263,13 +263,13 @@ Example:
 ### steps 
 
 - [1. Grammar](#GRAMMAR)
-- [2. Reading](READING)
-- [3. Survival](SURVIVAL)
-- [4. Speaking](SPEAKING)
-- [5. Vocabulary](VOCABULARY)
-- [6. Writing](WRITING)
-- [7. Pronounciation](PRONOUNCIATION)
-- [8. Business](BSINESS)
+- [2. Reading](#READING)
+- [3. Survival](#SURVIVAL)
+- [4. Speaking](#SPEAKING)
+- [5. Vocabulary](#VOCABULARY)
+- [6. Writing](#WRITING)
+- [7. Pronounciation](#PRONOUNCIATION)
+- [8. Business](#BUSINESS)
 - [9. listening](#LISTENING)
 
 <img width="581" height="886" alt="image" src="https://github.com/user-attachments/assets/7bd72d7b-dc05-40e1-9af3-f1391b4eeec8" />
@@ -700,6 +700,119 @@ I | Korean | every day | study
 
 <img width="1437" height="909" alt="image" src="https://github.com/user-attachments/assets/4a519d8e-4286-4140-9324-d5b2097226f0" />
 
+- [Numbers](#numbers)
+- [Colors](#colors)
+
+## Numbers 
+
+### Native Korean Numbers (1–10)
+
+하나 — **hana** — 1 <br>
+둘 — **dul** — 2 <br>
+셋 — **set** — 3 <br>
+넷 — **net** — 4 <br>
+다섯 — **daseot** — 5 <br>
+여섯 — **yeoseot** — 6 <br>
+일곱 — **ilgop** — 7 <br>
+여덟 — **yeodeol** — 8 <br>
+아홉 — **ahop** — 9 <br>
+열 — **yeol** — 10 <br>
+
+#### 10–19
+
+"ten" + "ones" <br>
+eg → **열하나** = **10 + 1** (yeol + hana) <br>
+
+Examples:
+열둘 = **10 + 2** (yeol + dul) <br>
+열셋 = **10 + 3** (yeol + set) <br>
+열넷 = **10 + 4** (yeol + net) <br>
+열다섯 = **10 + 5** (yeol + daseot) <br>
+
+#### 20–90
+
+special word for each "ten" <br>
+
+스물 = **20** (seumul) <br>
+서른 = **30** (seoreun) <br>
+마흔 = **40** (maheun) <br>
+쉰 = **50** (swin) <br>
+예순 = **60** (yesun) <br>
+일흔 = **70** (ilheun) <br>
+여든 = **80** (yeodeun) <br>
+아흔 = **90** (aheun) <br>
+
+eg → **스물하나** = **20 + 1** (seumul + hana) <br>
+
+
+## Sino-Korean Numbers (1–10)
+
+일 — **il** — 1 <br>
+이 — **i** — 2 <br>
+삼 — **sam** — 3 <br>
+사 — **sa** — 4 <br>
+오 — **o** — 5 <br>
+육 — **yuk** — 6 <br>
+칠 — **chil** — 7 <br> 
+팔 — **pal** — 8 <br>
+구 — **gu** — 9 <br>
+십 — **sip** — 10 <br>
+
+#### 10–15
+
+"tens" + "ones" <br>
+eg -> 십일 = **10 + 1** (sip + il) <br>
+
+#### 20–100
+
+"ones" + "tens" <br>
+eg -> 이십 = **2 × 10** (i + sip) <br>
+
+#### Large Numbers
+
+백 = **100** (baek) <br>
+천 = **1,000** (cheon) <br>
+만 = **10,000** (man) <br>
+
+## Colors
+
+### 🌈 Rainbow Colors (PALJUNOCHOPANAMBO)
+
+**PAL-JU-NO-CHO-PA-NAM-BO (빨주노초파남보)** <br><br>
+
+**빨** — 빨간색 — **ppalgansaek** — red <br>
+**주** — 주황색 — **juhwangsaek** — orange <br>
+**노** — 노란색 — **noransaek** — yellow <br>
+**초** — 초록색 — **choroksaek** — green <br>
+**파** — 파란색 — **paransaek** — blue <br>
+**남** — 남색 — **namsaek** — indigo <br>
+**보** — 보라색 — **borasaek** — purple <br><br>
+
+**색 (saek)** = color <br><br>
+
+Example: <br>
+빨간색 = red color <br><br>
+
+Adjective form: <br>
+빨갛다 — **ppalgata** — to be red <br>
+
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # WRITING 
 
 <img width="1603" height="396" alt="image" src="https://github.com/user-attachments/assets/95632b90-ddc0-461b-b3c3-d70891c146c8" />
@@ -828,7 +941,7 @@ Example:
 
 ## steps 
 
-### 1️⃣ Registration Opens
+### 1️. Registration Opens
 
 On the - [website](https://www.kectopikindia.org/)  **“Register Now”** becomes active.
 
@@ -836,24 +949,24 @@ You click it and fill the form.
 
 At this stage **anyone can access the form**.
 
-### 2️⃣ You Submit the Form
+### 2️. You Submit the Form
 
 
 #### 📄 Documents Required
 
 You typically need **3 uploads**:
 
-1️⃣ **Passport-size photo**
+1️. **Passport-size photo**
 
 * JPG format
 * Usually under **200 KB**
 
-2️⃣ **ID Proof**
+2️. **ID Proof**
 
 * Aadhaar card / Passport / Government ID
 * JPG or PDF (depending on the form)
 
-3️⃣ **Signature**
+3️. **Signature**
 
 * Your handwritten signature
 * Scan or photo
@@ -883,24 +996,24 @@ When registration opens, the process is usually:
 
 
 
-### 3️⃣ Payment Instructions
+### 3️. Payment Instructions
 
 If your application is accepted, they send:
 
 * **payment instructions**
 * sometimes a **payment deadline**
 
-### 4️⃣ You Pay the Fee
+### 4️. You Pay the Fee
 
 After you pay and send proof, they verify it.
 
-### 5️⃣ Final Confirmation
+### 5. Final Confirmation
 
 Then they send a **confirmation email**.
 
 Only **after this step** your seat is **officially confirmed**.
 
-# Final Document
+### Final Document
 
 About **1–2 weeks before the exam**, you receive:
 
@@ -914,139 +1027,19 @@ This contains:
 
 This is what you bring on exam day.
 
-# Simple Way to Think About It
-
-Registration link → **application open**
-Form submitted → **request for seat**
-Payment accepted → **seat confirmed**
-Admission ticket → **you can take the exam**
-
-
 ✅ Tip: On registration day, **open the form right at 10:00 AM** because many people lose seats by being even **30–40 minutes late**.
 
 
 
-## 1. Hangul & Sound Rules
+## steps for topik level I
 
-* Reading fluency
-* Batchim & sound changes
-
-➡️ **100% required**
-
-## 2. Sentence Structure & Politeness
-
-* SOV order
-* 아/어요 style
-
-➡️ **100% required**
-
-## 3. Core Particles
-
-* 은/는, 이/가
-* 을/를
-* 에, 에서
-* 와/과, 하고
-* 도, 만
-
-➡️ **VERY heavily tested**
-
-## 4. Verbs & Adjectives (Basics)
-
-* 아/어요 conjugation
-* 하다 verbs
-* Common irregulars
-
-➡️ **Constantly tested**
-
-## 5. Tense & Negation
-
-* Present / Past / Future
-* 안 / 못
-* 없다 / 아니다
-
-➡️ **High frequency**
-
-## 6. Existence & Location
-
-* 있다 / 없다
-* Location expressions
-
-➡️ **Appears in listening & reading**
-
-
-## 7. Questions, Requests & Commands
-
-* Question words
-* 주세요
-* (으)세요
-* 까?
-
-➡️ **Listening-heavy**
-
-## 8. Numbers, Counters & Time
-
-* Native & Sino numbers
-* Time, date, price, age
-
-➡️ **VERY important (trick questions)**
-
-## 9. Core Vocabulary
-
-* Daily-life words
-* Verbs & adjectives
-* Common nouns
-
-➡️ **If vocab is weak, you fail**
-
-## 10. Sentence Connections
-
-* 그리고 / 그래서 / 하지만
-* 아/어서 / 때문에
-
-➡️ **Reading comprehension depends on this**
-
-## 11. Conditions & Time Relations
-
-* (으)면
-* 전에 / 후에 / 동안
-* (으)면서
-
-➡️ **Moderate but regular**
-
-## 12. Ability & Intention
-
-* (으)ㄹ 수 있다
-* 고 싶다
-* (으)ㄹ까요
-
-➡️ **Moderate**
-
-## 13. Comparison & Emphasis
-
-* 보다
-* 제일 / 가장
-
-➡️ **Low but present**
-
-
-## 14. Listening Skills
-
-* Keyword listening
-* Situation understanding
-
-➡️ **Cannot skip**
-
-## 15. Reading Skills
-
-* Notices, ads, short texts
-
-➡️ **Cannot skip**
+* hangul : 24 lettrs
+* vocabulary : 1000 words numbers, greetings, color, daily words
+* basic grammer : simple sentences ; past, present, future
 
 
 
 # TOPIK WORDS
-
----
 
 ### First 50 Common Korean Words
 
