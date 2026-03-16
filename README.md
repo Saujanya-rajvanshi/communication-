@@ -700,8 +700,9 @@ I | Korean | every day | study
 
 <img width="1437" height="909" alt="image" src="https://github.com/user-attachments/assets/4a519d8e-4286-4140-9324-d5b2097226f0" />
 
-- [Numbers](#numbers)
-- [Colors](#colors)
+- [Numbers](#Numbers)
+- [Colors](#Colors)
+- [months](#Months)
 
 ## Numbers 
 
@@ -797,7 +798,25 @@ Adjective form: <br>
 빨갛다 — **ppalgata** — to be red <br>
 
 
----
+## Months
+
+일월 — **irwol** — January <br>
+이월 — **iwol** — February <br>
+삼월 — **samwol** — March <br>
+사월 — **sawol** — April <br>
+오월 — **owol** — May <br>
+유월 — **yuwol** — June <br>
+칠월 — **chirwol** — July <br>
+팔월 — **parwol** — August <br>
+구월 — **guwol** — September <br>
+시월 — **siwol** — October <br>
+십일월 — **sibirwol** — November <br>
+십이월 — **sibiwol** — December <br><br>
+
+**월 (wol)** = month <br>
+
+Example: <br>
+삼월 = **3 + month** → March <br>
 
 
 
