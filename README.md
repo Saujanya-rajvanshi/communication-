@@ -616,6 +616,11 @@ Example:
 *(mul juseyo)*
 → Please give me water.
 
+맛있어요 — **masisseoyo** — It’s delicious / tasty <br>
+잘 먹겠습니다 — **jal meokgesseumnida** — I will eat well (before eating) <br>
+잘 먹었습니다 — **jal meogeosseumnida** — I ate well (after eating) <br>
+<br>
+고 싶어요 — **go sipeoyo** — I want to <br>
 
 
 
