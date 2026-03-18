@@ -376,7 +376,7 @@ some consonants are linked together to form a different sound -> consonant assim
 
 #### Korean Pronunciation Rules 
 
-### 1️⃣ Resyllabification (연음 – yeon-eum)
+### 1️. Resyllabification (연음 – yeon-eum)
 
 **Rule:**
 Batchim (final consonant) + ㅇ → move consonant to next syllable.
@@ -392,7 +392,7 @@ Batchim (final consonant) + ㅇ → move consonant to next syllable.
 
  Spelling does NOT change, only pronunciation.
 
-### 2️⃣ ㅎ + ㄱ, ㄷ, ㅂ, ㅈ (Aspiration Rule)
+### 2️. ㅎ + ㄱ, ㄷ, ㅂ, ㅈ (Aspiration Rule)
 
 When ㅎ meets these consonants, they become **aspirated**:
 
@@ -409,7 +409,7 @@ When ㅎ meets these consonants, they become **aspirated**:
 * 좋다 → [조타]
 * 그렇지 → [그러치]
 
-### 3️⃣ ㅎ + ㄴ → ㄹ sound
+### 3️. ㅎ + ㄴ → ㄹ sound
 
 If ㅎ is final and next syllable starts with ㄴ,
 ㅎ becomes ㄹ sound.
@@ -419,7 +419,7 @@ If ㅎ is final and next syllable starts with ㄴ,
 * 놓는 → [논는]
 * 닿는 → [단는]
 
-### 4️⃣ ㅎ + ㅇ
+### 4️. ㅎ + ㅇ
 
 If ㅎ is final and followed by ㅇ:
 👉 ㅎ disappears (no sound)
@@ -429,7 +429,7 @@ If ㅎ is final and followed by ㅇ:
 * 쌓은 → [싸은]
 * 좋아 → [조아]
 
-### 5️⃣ ㄷ + 이 → ㅈ sound
+### 5️. ㄷ + 이 → ㅈ sound
 
 When ㄷ is final and followed by 이:
 
@@ -440,7 +440,7 @@ When ㄷ is final and followed by 이:
 * 같이 → [가치]
 * 밭이 → [바치]
 
-### 6️⃣ ㅌ + 히 → ㅊ sound
+### 6️. ㅌ + 히 → ㅊ sound
 
 Same idea as above:
 
@@ -449,12 +449,12 @@ Same idea as above:
 * 닫히다 → [다치다]
 * 묻히다 → [무치다]
 
-## 🌸 Nasalization Rule (비음화)
+## Nasalization Rule (비음화)
 
 When a consonant comes before ㄴ or ㅁ, <br>
 it changes to a nasal sound (ㄴ, ㅁ, ㅇ).
 
-### 7️⃣ ㄱ, ㄷ, ㅂ + ㄴ/ㅁ
+### 7️. ㄱ, ㄷ, ㅂ + ㄴ/ㅁ
 
 | Original | Changes To |
 | -------- | ---------- |
@@ -469,14 +469,14 @@ it changes to a nasal sound (ㄴ, ㅁ, ㅇ).
 * 밥 먹다 → [밤 먹다]
 * 감사합니다 → [감사함니다]
 
-### 8️⃣ ㄹ + ㄴ → ㄹㄹ
+### 8️. ㄹ + ㄴ → ㄹㄹ
 
 **Examples:**
 
 * 신라 → [실라]
 * 난로 → [날로]
 
-### 9️⃣ ㅇ + ㄹ or ㅁ + ㄹ → ㄴ sound
+### 9️. ㅇ + ㄹ or ㅁ + ㄹ → ㄴ sound
 
 **Examples:**
 
@@ -484,12 +484,12 @@ it changes to a nasal sound (ㄴ, ㅁ, ㅇ).
 * 합리 → [함니]
 
 
----
 
 #### Hangul letters **combine into blocks**, e.g.
 ㄱ + ㅏ = 가 <br>
 ㅎ + ㅏ + ㄴ = 한 <br
 
+---
 
 ## words
 
@@ -504,7 +504,6 @@ it changes to a nasal sound (ㄴ, ㅁ, ㅇ).
 * **네 (ne)** – Used to politely say “yes” when you agree, confirm, or answer positively.
 * **죄송합니다 (joesonghamnida)** – “I’m sorry” (formal); used to apologize politely or show respect.
 * **저기요 (jogiyo)** – “Excuse me” (to get someone’s attention, like calling a waiter or stranger).
-* Good question 👍 Very important grammar.
 
 ## 2. 이에요 / 예요 (ieyo / yeyo)
 
