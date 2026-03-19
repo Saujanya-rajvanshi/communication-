@@ -226,7 +226,8 @@ Example:
 
 > Structure > Grammar rules
 
-## 🔮 steps
+###### steps
+# 🔮 STEPS
 
 1. **Define the Role of the Language**
 2. **Learn Sounds & Pronunciation**
@@ -449,7 +450,7 @@ Same idea as above:
 * 닫히다 → [다치다]
 * 묻히다 → [무치다]
 
-## Nasalization Rule (비음화)
+#### Nasalization Rule (비음화)
 
 When a consonant comes before ㄴ or ㅁ, <br>
 it changes to a nasal sound (ㄴ, ㅁ, ㅇ).
@@ -699,6 +700,10 @@ I | Korean | every day | study
 # SPEAKING
 
 <img width="1578" height="634" alt="image" src="https://github.com/user-attachments/assets/762bebcd-e020-4a15-b01a-a1c3dd00ee54" />
+
+
+
+
 
 # VOCABULARY
 
@@ -979,21 +984,11 @@ At this stage **anyone can access the form**.
 
 You typically need **3 uploads**:
 
-1️. **Passport-size photo**
+1️. **Passport-size photo** : JPG format , Usually under **200 KB**
 
-* JPG format
-* Usually under **200 KB**
+2️. **ID Proof** : Aadhaar card / Passport / Government ID ,  JPG or PDF (depending on the form)
 
-2️. **ID Proof**
-
-* Aadhaar card / Passport / Government ID
-* JPG or PDF (depending on the form)
-
-3️. **Signature**
-
-* Your handwritten signature
-* Scan or photo
-* Usually under **100 KB**
+3️. **Signature** : Your handwritten signature , Scan or photo , Usually under **100 KB**
 
 #### 📝 Registration Steps
 
@@ -1001,17 +996,14 @@ When registration opens, the process is usually:
 
 1. Click **Register Now**
 2. Fill basic details
-
    * Name
    * Date of birth
    * Email
    * Phone number
 3. Choose:
-
    * **TOPIK I** (beginner) or **TOPIK II**
    * **Exam city** (Delhi / Bengaluru / etc.)
 4. Upload:
-
    * Photo
    * ID proof
    * Signature
@@ -1049,12 +1041,12 @@ This contains:
 * exam time
 
 This is what you bring on exam day.
+<br>
+Tip: On registration day, **open the form right at 10:00 AM** because many people lose seats by being even **30–40 minutes late**.
 
-✅ Tip: On registration day, **open the form right at 10:00 AM** because many people lose seats by being even **30–40 minutes late**.
 
 
-
-## steps for topik level I
+# steps for topik level I
 
 * hangul : 24 lettrs
 * vocabulary : 1000 words numbers, greetings, color, daily words
