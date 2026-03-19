@@ -7,6 +7,12 @@
     - [hindi](#Hindi)
     - [english](#English)
     - [korean](#Korean)
+    - [french]
+    - [arabic]
+    - [chinease]
+    - [spanish]
+    - [german]
+    - [japnese]
 
 
 ###### communication
@@ -683,6 +689,15 @@ I | Korean | every day | study
 ✔ **Important rule:** In Korean, the **verb always comes at the end**.
 
 
+## Present Tense Endings (아요 / 어요 / 여요)
+
+-아요 (ayo) — used when last vowel is **ㅏ / ㅗ** <br>
+-어요 (eoyo) — used when vowel is **not ㅏ / ㅗ** <br>
+-여요 (yeoyo) — used with **하다 verbs → 해요 (haeyo)** <br><br>
+
+가요 — **gayo** — (가다) → go → I go <br>
+먹어요 — **meogeoyo** — (먹다) → eat → I eat <br>
+봐요 — **bwayo** — (보다) → see/watch → I see/watch <br>
 
 
 
