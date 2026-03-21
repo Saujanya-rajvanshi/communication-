@@ -699,7 +699,36 @@ I | Korean | every day | study
 먹어요 — **meogeoyo** — (먹다) → eat → I eat <br>
 봐요 — **bwayo** — (보다) → see/watch → I see/watch <br>
 
+## present tense 
 
+알다 — **alda** → 알아요 — **arayo** — to know <br>
+살다 — **salda** → 살아요 — **sarayo** — to live <br>
+자다 — **jada** → 자요 — **jayo** — to sleep <br>
+가다 — **gada** → 가요 — **gayo** — to go <br>
+웃다 — **utda** → 웃어요 — **useoyo** — to laugh <br>
+먹다 — **meokda** → 먹어요 — **meogeoyo** — to eat <br>
+죽다 — **jukda** → 죽어요 — **jugeoyo** — to die <br>
+울다 — **ulda** → 울어요 — **ureoyo** — to cry <br>
+사다 — **sada** → 사요 — **sayo** — to buy <br>
+만나다 — **mannada** → 만나요 — **mannayo** — to meet <br>
+
+<br><br>
+
+수학을 알아요 — **suhageul arayo** — I know math <br>
+(수학 = math, 을 = object particle, 알아요 = know)
+
+<br><br>
+
+나는 알아요 — I know <br>
+그녀는 알아요 — She knows <br>
+그는 알아요 — He knows <br>
+우리는 알아요 — We know <br>
+그들은 알아요 — They know <br>
+헤일리 씨는 알아요 — Hailey knows <br>
+
+<br><br>
+
+먹고 싶어요 — **meokgo sipeoyo** — I want to eat <br>
 
 
 
