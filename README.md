@@ -7,12 +7,12 @@
     - [hindi](#Hindi)
     - [english](#English)
     - [korean](#Korean)
-    - [french]
-    - [arabic]
-    - [chinease]
-    - [spanish]
-    - [german]
-    - [japnese]
+    - [french]()
+    - [arabic]()
+    - [chinease]()
+    - [spanish]()
+    - [german]()
+    - [japnese]()
 
 
 ###### communication
@@ -689,15 +689,6 @@ I | Korean | every day | study
 ✔ **Important rule:** In Korean, the **verb always comes at the end**.
 
 
-## Present Tense Endings (아요 / 어요 / 여요)
-
--아요 (ayo) — used when last vowel is **ㅏ / ㅗ** <br>
--어요 (eoyo) — used when vowel is **not ㅏ / ㅗ** <br>
--여요 (yeoyo) — used with **하다 verbs → 해요 (haeyo)** <br><br>
-
-가요 — **gayo** — (가다) → go → I go <br>
-먹어요 — **meogeoyo** — (먹다) → eat → I eat <br>
-봐요 — **bwayo** — (보다) → see/watch → I see/watch <br>
 
 ## present tense 
 
@@ -729,6 +720,47 @@ I | Korean | every day | study
 <br><br>
 
 먹고 싶어요 — **meokgo sipeoyo** — I want to eat <br>
+
+### Present Tense Endings (아요 / 어요 / 여요)
+
+-아요 (ayo) — used when last vowel is **ㅏ / ㅗ** <br>
+-어요 (eoyo) — used when vowel is **not ㅏ / ㅗ** <br>
+-여요 (yeoyo) — used with **하다 verbs → 해요 (haeyo)** <br><br>
+
+가요 — **gayo** — (가다) <br>
+먹어요 — **meogeoyo** — (먹다) <br>
+해요 — **haeyo** — (하다) <br>
+
+
+
+
+
+## past tense 
+
+### Past Tense Endings (았어요 / 었어요 / 였어요)
+
+-았어요 (asseoyo) — used when last vowel is **ㅏ / ㅗ** <br>
+-었어요 (eosseoyo) — used when vowel is **not ㅏ / ㅗ** <br>
+-였어요 (yeosseoyo) — used with **하다 verbs → 했어요 (haesseoyo)** <br><br>
+
+갔어요 — **gasseoyo** — (가다) → went <br>
+먹었어요 — **meogeosseoyo** — (먹다) → ate <br>
+했어요 — **haesseoyo** — (하다) → did <br>
+
+
+
+
+## future tense 
+
+### Future Tense Endings (ㄹ 거예요 / 을 거예요)
+
+-ㄹ 거예요 (l geoyeyo) — used when verb ends with a **vowel** <br>
+-을 거예요 (eul geoyeyo) — used when verb ends with a **consonant** <br><br>
+
+가다 → 갈 거예요 — **gal geoyeyo** — will go <br>
+먹다 → 먹을 거예요 — **meogeul geoyeyo** — will eat <br>
+하다 → 할 거예요 — **hal geoyeyo** — will do <br>
+
 
 
 
