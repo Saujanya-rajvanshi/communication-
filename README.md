@@ -710,12 +710,14 @@ I | Korean | every day | study
 
 <br><br>
 
-나는 알아요 — I know <br>
-그녀는 알아요 — She knows <br>
-그는 알아요 — He knows <br>
-우리는 알아요 — We know <br>
-그들은 알아요 — They know <br>
-헤일리 씨는 알아요 — Hailey knows <br>
+나는 — **naneun** — I (topic) <br>
+저는 / 전 — **jeoneun / jeon** — I (polite / short) <br>
+그녀는 — **geunyeoneun** — she (topic) <br>
+그는 — **geuneun** — he (topic) <br>
+우리는 — **urineun** — we (topic) <br>
+저희는 / 저흰 — **jeohuineun / jeohuin** — we (polite / short) <br>
+그들은 — **geudeureun** — they (topic) <br>
+헤일리 씨는 — **Heili ssineun** — Hailey (topic, polite) <br>
 
 <br><br>
 
