@@ -769,6 +769,28 @@ I | Korean | every day | study
 먹다 → 먹을 거예요 — **meogeul geoyeyo** — will eat <br>
 하다 → 할 거예요 — **hal geoyeyo** — will do <br>
 
+#### Future Tense (Verb + ㄹ/을 거예요)
+
+**주다 → 줄 거예요** — to give <br>
+**공부하다 → 공부할 거예요** — to study <br>
+**만나다 → 만날 거예요** — to meet <br>
+**만들다 → 만들 거예요** — to make <br>
+**입다 → 입을 거예요** — to wear <br>
+**받다 → 받을 거예요** — to get/receive <br>
+**읽다 → 읽을 거예요** — to read <br>
+**사랑에 빠지다 → 빠질 거예요** — to fall in love <br>
+
+#### Sentences
+
+저는 영화를 볼 거예요 — I will watch a movie <br>
+조던은 음악을 들을 거예요 — Jordan will listen to music <br>
+그녀는 서울에 갈 거예요 — She will go to Seoul <br>
+
+
+
+
+
+
 ### must knows
 
 가다 [ga-da] = to go <br>
