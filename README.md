@@ -811,6 +811,52 @@ I | Korean | every day | study
 했어요 [hae-sseo-yo] = did /to have done <br><br>
 
 
+## progressive 
+
+**고 있어요 (go isseoyo)** — “-ing” (doing now, polite) <br>
+**고 있었어요 (go isseosseoyo)** — “was/were -ing” (past continuous) <br><br>
+
+### Verbs
+
+보다 — **boda** — to see <br>
+만나다 — **mannada** — to meet <br>
+듣다 — **deutda** — to listen <br>
+공부하다 — **gongbuhada** — to study <br><br>
+
+### Examples
+
+저는 김치를 먹고 있어요 — I am eating kimchi <br>
+저희는 공원을 걷고 있었어요 — We were walking in the park <br>
+저는 물을 마시고 있었어요 — I was drinking water <br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # READING 
 
@@ -950,7 +996,14 @@ Adjective form: <br>
 Example: <br>
 삼월 = **3 + month** → March <br>
 
+### day
 
+오늘 [o-neul] = today
+어제 [eo-je] = yesterday
+내일 [nae-il] = tomorrow
+지금 [ji-geum] = now
+아까 [a-kka] = earlier (today), a while ago (today)
+나중에 [na-jung-e] = later
 
 
 
