@@ -629,6 +629,12 @@ Example:
 고 싶어요 — **go sipeoyo** — I want to <br>
 
 
+### where
+
+어디 — **eodi** — where <br><br>
+
+어디에 가요? — **eodie gayo** — Where are you going? <br>
+어디에서 만나요? — **eodieseo mannayo** — Where do we meet? <br>
 
 
 
@@ -763,7 +769,24 @@ I | Korean | every day | study
 먹다 → 먹을 거예요 — **meogeul geoyeyo** — will eat <br>
 하다 → 할 거예요 — **hal geoyeyo** — will do <br>
 
+### must knows
 
+가다 [ga-da] = to go <br>
+가요 [ga-yo] = I go / you go / s/he goes / they go / let's go <br>
+갔어요 [ga-sseo-yo] = went / to have gone <br><br>
+
+오다 [o-da] = to come <br>
+왔어요 [wa-sseo-yo] = came / to have come <br><br>
+
+있다 [it-da] = to be, to exist <br>
+있었어요 [i-sseo-sseo-yo] = was / to have been <br><br>
+
+보다 [bo-da] = to see <br><br>
+
+봤어요 [bwa-sseo-yo] = saw /to have seen <br><br>
+
+하다 [ha-da] = to do <br>
+했어요 [hae-sseo-yo] = did /to have done <br><br>
 
 
 
