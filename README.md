@@ -1,4 +1,4 @@
-# communication-
+<img width="1138" height="666" alt="image" src="https://github.com/user-attachments/assets/5de5243d-31d2-48cb-8b08-70b61f5989aa" /># communication-
 
 - [communication](#communication)
 - [steps](#steps)
@@ -636,7 +636,38 @@ Example:
 어디에 가요? — **eodie gayo** — Where are you going? <br>
 어디에서 만나요? — **eodieseo mannayo** — Where do we meet? <br>
 
+언제 했어요? — **eonje haesseoyo?** — When did you do it? <br>
+언제 도착했어요? — **eonje dochakhaesseoyo?** — When did you arrive? <br>
+언제 왔어요? — **eonje wasseoyo?** — When did you come? <br>
+언제 일어나요? — **eonje ireonayo?** — When do you get up? <br>
 
+## Negative Sentences 
+
+### 1️. **안 (an) + Verb** (easy & common)
+
+* Put **안 before verb**
+* Tense **does NOT change 안**
+
+**가요 → 안 가요** — don’t go <br>
+**먹어요 → 안 먹어요** — don’t eat <br>
+**버렸어요 → 안 버렸어요** — didn’t throw away <br><br>
+
+Example: 집에 안 가요 — I don’t go home <br>-
+
+### 2️. **지 않다 (ji anta)** (slightly formal)
+
+* Attach to verb: **Verb + 지 않다**
+* Conjugate tense normally
+
+**가다 → 가지 않아요** — don’t go <br>
+**가다 → 가지 않았어요** — didn’t go <br>
+**먹다 → 먹지 않아요** — don’t eat <br><br>
+
+#### Examples
+
+안 아파요 — it doesn’t hurt <br>
+안 먹어요 — I’m not eating <br>
+안 매워요 — it’s not spicy <br>
 
 
 
@@ -831,6 +862,25 @@ I | Korean | every day | study
 
 
 
+### Past Perfect / Past Emphasis (았었어요 / 었었어요 / 했었어요)
+
+-았었어요 — used when last vowel is **ㅏ / ㅗ** <br>
+-었었어요 — used when vowel is **not ㅏ / ㅗ** <br>
+-했었어요 — used with **하다 verbs** <br><br>
+
+#### Verbs
+
+가다 → 갔었어요 — **gasseosseoyo** — had gone <br>
+보다 → 봤었어요 — **bwasseosseoyo** — had seen <br>
+읽다 → 읽었었어요 — **ilgeosseosseoyo** — had read <br>
+배우다 → 배웠었어요 — **baewosseosseoyo** — had learned <br>
+일하다 → 일했었어요 — **ilhaesseosseoyo** — had worked <br><br>
+
+#### Examples
+
+저는 한국에 갔었어요 — I had been to Korea <br>
+저희는 BTS 인터뷰를 봤었어요 — We had watched BTS interview <br>
+니키는 운동했었어요 — Nikki had worked out <br>
 
 
 
@@ -881,6 +931,7 @@ I | Korean | every day | study
 - [Numbers](#Numbers)
 - [Colors](#Colors)
 - [months](#Months)
+- [expression](#Expression)
 
 ## Numbers 
 
@@ -1004,6 +1055,62 @@ Example: <br>
 지금 [ji-geum] = now
 아까 [a-kka] = earlier (today), a while ago (today)
 나중에 [na-jung-e] = later
+
+###  Expression
+
+1. 안녕하세요 — **annyeonghaseyo** — Hello (polite) <br>
+2. 안녕히 가세요 — **annyeonghi gaseyo** — Goodbye (stay person says this, polite) <br>
+3. 안녕 — **annyeong** — Hi/Bye (informal) <br>
+4. 감사합니다 — **gamsahamnida** — Thank you (formal) <br>
+5. 고마워 — **gomawo** — Thank you (informal) <br>
+6. 어떻게 지내요? — **eotteoke jinaeyo** — How are you? (polite) <br>
+7. 잘 지내요 — **jal jinaeyo** — I’m doing well (polite) <br>
+8. 만나서 반가워요 — **mannaseo bangawoyo** — Nice to meet you (polite) <br>
+9. 오랜만이에요 — **oraenmanieyo** — Long time no see (polite) <br>
+10. 또 만나요 — **tto mannayo** — See you again (polite) <br>
+11. 죄송합니다 — **joesonghamnida** — I’m sorry (formal) <br>
+12. 미안해 — **mianhae** — Sorry (informal) <br>
+13. 괜찮아요 — **gwaenchanayo** — It’s okay / I’m fine (polite) <br>
+14. 좋은 아침이에요 — **joeun achimieyo** — Good morning (polite) <br>
+15. 잘 자요 — **jal jayo** — Good night / sleep well (polite) <br>
+16. 그래요 — **geuraeyo** — Okay / I see (polite) <br>
+17. 좋아요 — **joayo** — Good / I like it (polite) <br>
+18. 맞아요 — **majayo** — That’s right (polite) <br>
+19. 아니에요 — **anieyo** — No / It’s not (polite) <br>
+20. 아마도요 — **amadoyo** — Maybe (polite) <br>
+21. 화이팅 / 파이팅 — **hwaiting / paiting** — You can do it / Fighting! (informal) <br>
+22. 힘내요 — **himnaeyo** — Cheer up (polite) <br>
+23. 무슨 일 있었어요? — **museun il isseosseoyo** — What happened? (polite) <br>
+24. 밥 먹었어요? — **bab meogeosseoyo** — Did you eat? (polite) <br>
+25. 보고 싶어요 — **bogosipeoyo** — I miss you (polite) <br>
+26. 안녕히 주무셨어요? — **annyeonghi jumusyeosseoyo** — Did you sleep well? (polite/respectful) <br>
+27. 안녕히 주무세요 — **annyeonghi jumuseyo** — Good night (polite/respectful) <br>
+28. 잘 먹겠습니다 — **jal meokgesseumnida** — I will eat well (formal) <br>
+29. 잘 먹었습니다 — **jal meogeosseumnida** — I ate well / thank you for the meal (formal) <br>
+30. 정말 맛있어요 — **jeongmal masisseoyo** — It’s really delicious (polite) <br>
+31. 저기요 — **jeogiyo** — Excuse me (to get attention) (polite) <br>
+32. 실례합니다 — **sillyehamnida** — Excuse me / pardon me (formal) <br>
+33. 있잖아요 — **itjanhayo** — You know… / well… (informal-polite) <br>
+34. 어서 오세요 — **eoseo oseyo** — Welcome (polite) <br>
+35. 들어오세요 — **deureo oseyo** — Please come in (polite) <br>
+36. 여보세요 — **yeoboseyo** — Hello (on phone) (polite) <br>
+37. 저는 — **jeoneun** — As for me / I (polite topic form) <br>
+38. 다시 말해주세요 — **dasi malhae juseyo** — Please say it again (polite) <br>
+39. 기다려 주세요 — **gidaryeo juseyo** — Please wait (polite) <br>
+40. 곧 전화할게요 — **got jeonhwa halgeyo** — I will call soon (polite) <br>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
