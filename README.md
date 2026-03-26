@@ -1,4 +1,4 @@
-<img width="1138" height="666" alt="image" src="https://github.com/user-attachments/assets/5de5243d-31d2-48cb-8b08-70b61f5989aa" /># communication-
+## COMMUNICATION 
 
 - [communication](#communication)
 - [steps](#steps)
