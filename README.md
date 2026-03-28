@@ -670,9 +670,52 @@ Example: 집에 안 가요 — I don’t go home <br>-
 안 매워요 — it’s not spicy <br>
 
 
+## (하다 verbs)
+
+* **하다 (hada)** = “to do” → used to make many verbs
+* **Noun + 하다 = Verb** (very common pattern)
+* Present: **해요 (haeyo)** | Past: **했어요 (haesseoyo)**
+* Negative: **안 + 하다** → 공부 안 해요 (don’t study)
+* Or: **하지 않아요** (more formal negative)
+
+### Examples 
+1. 공부하다 — **gongbuhada** — to study <br>
+2. 일하다 — **ilhada** — to work <br>
+3. 기억하다 — **gieokhada** — to remember <br>
+4. 청소하다 — **cheongsohada** — to clean <br>
+5. 요리하다 — **yorihada** — to cook <br>
+6. 이사하다 — **isahada** — to move <br>
+7. 노래하다 — **noraehada** — to sing <br>
+8. 노력하다 — **noryeokhada** — to try / make effort <br>
+9. 동의하다 — **donguihada** — to agree <br>
+10. 인정하다 — **injeonghada** — to admit <br>
+11. 후회하다 — **huhoehada** — to regret <br>
+12. 운동하다 — **undonghada** — to exercise <br>
+13. 사랑하다 — **saranghada** — to love <br>
+14. 말하다 — **malhada** — to speak <br>
+15. 생각하다 — **saenggakhada** — to think <br>
+
+#### Negative Example
+
+공부해요 → 공부 안 해요 — I don’t study <br>
+생각해요 → 생각 안 해요 — I don’t think <br>
 
 
 
+## 누구 (who) 
+
+* **누구 (nugu)** = who <br>
+* Use **가 (ga)** when “who” is the **subject** <br>
+* 누구 + 가 → **누가 (nuga)** (NOT 누구가) <br>
+* Use **누구예요?** when asking identity (who is it?) <br>
+
+## Examples
+
+1. 누구예요? — **nugu-yeyo?** — Who is it? <br>
+2. 누가 했어요? — **nuga haesseoyo?** — Who did it? <br>
+3. 누가 전화했어요? — **nuga jeonhwahaesseoyo?** — Who called? <br>
+4. 어제 누가 왔어요? — **eoje nuga wasseoyo?** — Who came yesterday? <br>
+5. 그거 누가 만들었어요? — **geugeo nuga mandeureosseoyo?** — Who made that? <br>
 
 
 
@@ -1098,7 +1141,26 @@ Example: <br>
 38. 다시 말해주세요 — **dasi malhae juseyo** — Please say it again (polite) <br>
 39. 기다려 주세요 — **gidaryeo juseyo** — Please wait (polite) <br>
 40. 곧 전화할게요 — **got jeonhwa halgeyo** — I will call soon (polite) <br>
-
+41. 자리 있어요? — **jari isseoyo?** — Is there a seat? (polite) <br>
+42. 두 명이에요 — **du myeong-ieyo** — We are two people (polite) <br>
+43. 얼마나 기다려야 해요? — **eolmana gidaryeoya haeyo?** — How long do we have to wait? (polite) <br>
+44. 뭐가 제일 맛있어요? — **mwoga jeil masisseoyo?** — What is the most delicious? (polite) <br>
+45. 김치찌개 주세요 — **gimchijjigae juseyo** — Please give kimchi stew (polite) <br>
+46. 그걸로 주세요 — **geugeollo juseyo** — I’ll take that (polite) <br>
+47. 소스 빼 주세요 — **soseu ppae juseyo** — Please remove the sauce (polite) <br>
+48. 반찬 더 주세요 — **banchan deo juseyo** — Please give more side dishes (polite) <br>
+49. 저는 채식주의자입니다 — **jeoneun chaesikjuuija-imnida** — I am a vegetarian (formal) <br>
+50. 이따가 주문할게요 — **ittaga jumun halgeyo** — I will order later (polite) <br>
+51. 짜요 — **jjayo** — It’s salty (polite) <br>
+52. 싱거워요 — **singeowoyo** — It’s bland (polite) <br>
+53. 매워요 — **maewoyo** — It’s spicy (polite) <br>
+54. 뜨거워요 — **tteugeowoyo** — It’s hot (polite) <br>
+55. 달아요 — **darayo** — It’s sweet (polite) <br>
+56. 계산서 주세요 — **gyesanseo juseyo** — Please give the bill (polite) <br>
+57. 얼마예요? — **eolmayeyo?** — How much is it? (polite) <br>
+58. 카드로 할게요 — **kadeuro halgeyo** — I’ll pay by card (polite) <br>
+59. 현금으로 할게요 — **hyeongeumeuro halgeyo** — I’ll pay in cash (polite) <br>
+60. 영수증 주세요 — **yeongsujeung juseyo** — Please give the receipt (polite) <br>
 
 
 
