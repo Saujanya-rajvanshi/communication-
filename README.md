@@ -718,6 +718,53 @@ Example: 집에 안 가요 — I don’t go home <br>-
 5. 그거 누가 만들었어요? — **geugeo nuga mandeureosseoyo?** — Who made that? <br>
 
 
+## Interrogatives (의문사) 
+
+* 뭐 — **mwo** — what <br>
+* 어디 — **eodi** — where <br>
+* 언제 — **eonje** — when <br>
+* 누구 — **nugu** — who <br>
+* 어떻게 — **eotteoke** — how <br>
+* 왜 — **wae** — why <br>
+* 얼마 — **eolma** — how much (money) <br>
+* 얼마나 — **eolmana** — how + adj/adv (how much/how often/etc.) <br><br>
+
+Usually comes **before verb**, but flexible
+
+## Examples
+
+어떻게 왔어요? — **eotteoke wasseoyo?** — How did you come? <br>
+왜 안 왔어요? — **wae an wasseoyo?** — Why didn’t you come? <br>
+얼마예요? — **eolmayeyo?** — How much is it? <br>
+얼마나 자주 와요? — **eolmana jaju wayo?** — How often do you come? <br>
+얼마나 커요? — **eolmana keoyo?** — How big is it? <br>
+
+## From A to B (에서 / 부터 / 까지)
+
+* **에서 (eseo)** — from (location) <br>
+* **부터 (buteo)** — from (time/start point) <br>
+* **까지 (kkaji)** — to / until <br><br>
+
+All come **after noun**
+
+### Usage
+
+* **Place** → 에서 <br>
+* **Time** → 부터 <br>
+* **End point** → 까지 <br><br>
+
+### Examples
+
+서울에서 부산까지 — **seoul-eseo busan-kkaji** — from Seoul to Busan <br>
+지금부터 내일까지 — **jigeum-buteo naeil-kkaji** — from now until tomorrow <br>
+여기에서 저기까지 — **yeogi-eseo jeogi-kkaji** — from here to there <br>
+아침부터 저녁까지 — **achim-buteo jeonyeok-kkaji** — from morning until evening <br>
+
+## Important
+
+* 지금에서 → wrong <br>
+* 아침에서 저녁까지 → wrong <br>
+Use **부터 for time** 👍
 
 
 
