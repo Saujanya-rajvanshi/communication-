@@ -7,12 +7,12 @@
     - [hindi](#Hindi)
     - [english](#English)
     - [korean](#Korean)
-    - [french]()
-    - [arabic]()
-    - [chinease]()
-    - [spanish]()
-    - [german]()
-    - [japnese]()
+    - [japanese](#Japanese)
+    - [french](#French)
+    - [spanish](#Spanish)
+    - [german](#German)
+    - [arabic](#Arabic)
+    - [chinease](#Chinease)
 
 
 ###### communication
@@ -251,13 +251,35 @@ Example:
 ---
 
 
-# Sanskrit
 
-# Hindi 
 
-# English
 
-###### Korean
+###### Sanaskrit
+# 🦚 SANSKRIT
+
+---
+
+###### Hindi
+# 🫖 HINDI 
+
+---
+
+##### English
+# 🍟 ENGLISH
+
+
+---
+
+
+
+
+
+
+
+
+
+
+###### KOREAN
 # 🍜 KOREAN 
 
 ## why of the Language 
@@ -1972,6 +1994,7 @@ Meaning: **I will walk**
 
 
 
+---
 
 
 
@@ -1984,8 +2007,35 @@ Meaning: **I will walk**
 
 
 
+###### Japanese
+# 🍚 JAPANESE
 
+---
 
+###### French
+# 🥯 FRENCH
+
+---
+
+##### Spanish
+# 🚋 SPANISH
+
+---
+
+###### German
+# 🍨 GERMAN
+
+---
+
+###### Arabic
+# 🍯 ARABIC 
+
+---
+
+###### Chinease
+# 🫕 CHINEASE
+
+---
 
 
 
