@@ -1230,6 +1230,26 @@ Example: <br>
 58. 카드로 할게요 — **kadeuro halgeyo** — I’ll pay by card (polite) <br>
 59. 현금으로 할게요 — **hyeongeumeuro halgeyo** — I’ll pay in cash (polite) <br>
 60. 영수증 주세요 — **yeongsujeung juseyo** — Please give the receipt (polite) <br>
+61. 헐 / 대박 — **heol / daebak** — OMG / awesome (informal slang) <br>
+62. 어머 / 어머나 — **eomeo / eomeona** — Oh my! (surprise) (informal) <br>
+63. 설마요 — **seolmayo** — No way / really? (polite) <br>
+64. 말도 안 돼요 — **maldo andwaeyo** — That makes no sense / impossible (polite) <br>
+65. 심심해요 — **simsimhaeyo** — I’m bored (polite) <br>
+66. 기뻐요 — **gippeoyo** — I’m happy (polite) <br>
+67. 슬퍼요 — **seulpeoyo** — I’m sad (polite) <br>
+68. 재미있어요 — **jaemiisseoyo** — It’s fun (polite) <br>
+69. 행복해요 — **haengbokhaeyo** — I’m happy (polite) <br>
+70. 화나요 — **hwanayo** — I’m angry (polite) <br>
+71. 창피해요 — **changpihaeyo** — I’m embarrassed (polite) <br>
+72. 부끄러워요 — **bukkeureowoyo** — I’m shy/embarrassed (polite) <br>
+73. 무서워요 — **museowoyo** — I’m scared (polite) <br>
+74. 짜증나요 — **jjajeungnayo** — I’m annoyed (polite) <br>
+75. 불안해요 — **buranhaeyo** — I’m anxious (polite) <br>
+76. 노답 — **nodab** — hopeless / no answer (slang, informal) <br>
+77. 노잼 / 꿀잼 — **nojaem / kkuljaem** — not fun / super fun (slang, informal) <br>
+78. 레알 — **real** — for real / seriously (slang, informal) <br>
+79. 쩐다 — **jjeonda** — awesome / insane (slang, informal) <br>
+80. 짱 — **jjang** — the best (slang, informal) <br>
 
 
 
