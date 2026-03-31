@@ -410,9 +410,6 @@ some consonants are linked together to form a different sound -> consonant assim
 **Rule:**
 Batchim (final consonant) + ㅇ → move consonant to next syllable.
 
-**Structure:**
-받침 + ㅇ → sound shifts forward
-
 **Examples:**
 
 * 잡을 → [자블] (ja-beul)
@@ -516,7 +513,7 @@ it changes to a nasal sound (ㄴ, ㅁ, ㅇ).
 
 #### Hangul letters **combine into blocks**, e.g.
 ㄱ + ㅏ = 가 <br>
-ㅎ + ㅏ + ㄴ = 한 <br
+ㅎ + ㅏ + ㄴ = 한 <br>
 
 ---
 
