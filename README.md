@@ -992,6 +992,36 @@ I | Korean | every day | study
 니키는 운동했었어요 — Nikki had worked out <br>
 
 
+## Future Tense
+
+* **Verb + ㄹ / 을 거예요** = will / going to <br>
+* **Vowel ending → ㄹ 거예요** <br>
+* **Consonant ending → 을 거예요** <br>
+* **Ends with ㄹ → just 거예요** <br><br>
+
+Meaning: **will / going to do something**
+
+### Examples (with breakdown)
+
+**가다 → 갈 거예요** <br>
+→ **gada → gal geoyeyo** — will go <br>
+
+지금 갈 거예요 — **jigeum gal geoyeyo** — I will go now <br>
+내일 갈 거예요 — **naeil gal geoyeyo** — I will go tomorrow <br><br>
+
+**하다 → 할 거예요** <br>
+→ **hada → hal geoyeyo** — will do <br>
+
+뭐 할 거예요? — **mwo hal geoyeyo?** — What will you do? <br>
+언제 할 거예요? — **eonje hal geoyeyo?** — When will you do it? <br><br>
+
+**입다 → 입을 거예요** <br>
+→ **ipda → ibeul geoyeyo** — will wear <br>
+
+청바지 입을 거예요 — **cheongbaji ibeul geoyeyo** — I will wear jeans <br>
+뭐 입을 거예요? — **mwo ibeul geoyeyo?** — What will you wear? <br><br>
+
+
 
 
 
