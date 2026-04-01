@@ -2009,6 +2009,58 @@ Meaning: **I will walk**
 - although I stand still
 - I will walk toward you one step at a time
 
+## they dont know anput us 
+
+**대체 뭐가 달랐냐고 자꾸 물어 나는 대답해, 나도 몰라** <br>
+**daeche mwoga dallannyago jakku mureo naneun daedapae, nado molla** <br><br>
+
+**대체 (daeche)** <br>
+→ really / on earth (emphasis) <br><br>
+
+**뭐가 (mwoga)** <br>
+→ **뭐 + 가** — what + subject marker <br>
+→ what (as subject) <br><br>
+
+**달랐냐고 (dallannyago)** <br>
+→ **다르다 (dareuda)** — to be different <br>
+→ **-았냐고** — quoting question (“what was different”) <br><br>
+
+**자꾸 (jakku)** <br>
+→ repeatedly / keep doing <br><br>
+
+**물어 (mureo)** <br>
+→ **묻다 (mutda)** — to ask <br><br>
+
+**나는 (naneun)** <br>
+→ **나 + 는** — I (topic) <br><br>
+
+**대답해 (daedapae)** <br>
+→ **대답하다 (daedaphada)** — to answer <br><br>
+
+**나도 (nado)** <br>
+→ **나 + 도** — I also <br><br>
+
+**몰라 (molla)** <br>
+→ **모르다 (moreuda)** — to not know <br><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ---
