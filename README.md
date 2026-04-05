@@ -400,10 +400,9 @@ Example:
 
 ## linking sounds in korean
 
-some consonants are linked together to form a different sound -> consonant assimilation <br>
-<br>
+some consonants are linked together to form a different sound -> consonant assimilation <br> <br>
 
-#### Korean Pronunciation Rules 
+#### Korean Pronunciation Rules
 
 ### 1️. Resyllabification (연음 – yeon-eum)
 
@@ -412,102 +411,75 @@ Batchim (final consonant) + ㅇ → move consonant to next syllable.
 
 **Examples:**
 
-* 잡을 → [자블] (ja-beul)
-* 꽃이 → [꼬치] (kko-chi)
-* 책이 → [채기] (chae-gi)
+* **jabeul** 잡을 → [자블]
+* **kkochi** 꽃이 → [꼬치]
+* **chaegi** 책이 → [채기]
 
- Spelling does NOT change, only pronunciation.
+Spelling does NOT change, only pronunciation.
 
 ### 2️. ㅎ + ㄱ, ㄷ, ㅂ, ㅈ (Aspiration Rule)
 
-When ㅎ meets these consonants, they become **aspirated**:
-
-| Combination | Becomes |
-| ----------- | ------- |
-| ㅎ + ㄱ       | ㅋ       |
-| ㅎ + ㄷ       | ㅌ       |
-| ㅎ + ㅂ       | ㅍ       |
-| ㅎ + ㅈ       | ㅊ       |
-
 **Examples:**
 
-* 좋고 → [조코]
-* 좋다 → [조타]
-* 그렇지 → [그러치]
+* **joko** 좋고 → [조코]
+* **jota** 좋다 → [조타]
+* **geureochi** 그렇지 → [그러치]
 
 ### 3️. ㅎ + ㄴ → ㄹ sound
 
-If ㅎ is final and next syllable starts with ㄴ,
-ㅎ becomes ㄹ sound.
-
 **Examples:**
 
-* 놓는 → [논는]
-* 닿는 → [단는]
+* **nonneun** 놓는 → [논는]
+* **danneun** 닿는 → [단는]
 
 ### 4️. ㅎ + ㅇ
 
-If ㅎ is final and followed by ㅇ:
-👉 ㅎ disappears (no sound)
-
 **Examples:**
 
-* 쌓은 → [싸은]
-* 좋아 → [조아]
+* **ssa-eun** 쌓은 → [싸은]
+* **joa** 좋아 → [조아]
 
 ### 5️. ㄷ + 이 → ㅈ sound
 
-When ㄷ is final and followed by 이:
+**Examples:**
 
-ㄷ → ㅈ
+* **gachi** 같이 → [가치]
+* **bachi** 밭이 → [바치]
+
+### 6️. ㄷ + 히 → ㅌ / ㅊ sound
 
 **Examples:**
 
-* 같이 → [가치]
-* 밭이 → [바치]
-
-### 6️. ㅌ + 히 → ㅊ sound
-
-Same idea as above:
-
-**Examples:**
-
-* 닫히다 → [다치다]
-* 묻히다 → [무치다]
+* **datida** 닫히다 → [다티다]
+* **muchida** 묻히다 → [무치다]
 
 #### Nasalization Rule (비음화)
 
-When a consonant comes before ㄴ or ㅁ, <br>
-it changes to a nasal sound (ㄴ, ㅁ, ㅇ).
-
 ### 7️. ㄱ, ㄷ, ㅂ + ㄴ/ㅁ
-
-| Original | Changes To |
-| -------- | ---------- |
-| ㄱ → ㅇ    |   ㅇ       |
-| ㄷ → ㄴ    |   ㄴ       |
-| ㅂ → ㅁ    |   ㅁ       |
 
 **Examples:**
 
-* 작년 → [장년]
-* 국물 → [궁물]
-* 밥 먹다 → [밤 먹다]
-* 감사합니다 → [감사함니다]
+* **jangnyeon** 작년 → [장년]
+* **gungmul** 국물 → [궁물]
+* **bam meokda** 밥 먹다 → [밤 먹다]
+* **gamsahamnida** 감사합니다 → [감사함니다]
 
 ### 8️. ㄹ + ㄴ → ㄹㄹ
 
 **Examples:**
 
-* 신라 → [실라]
-* 난로 → [날로]
+* **silla** 신라 → [실라]
+* **nallo** 난로 → [날로]
 
 ### 9️. ㅇ + ㄹ or ㅁ + ㄹ → ㄴ sound
 
 **Examples:**
 
-* 종로 → [종노]
-* 합리 → [함니]
+* **jongno** 종로 → [종노]
+* **hamni** 합리 → [함니]
+
+
+
 
 
 
